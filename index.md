@@ -8,7 +8,38 @@ tags: ["Netaudio","Creative Commons"]
 ## Netaudio
 
 | Artist - Title @ Year, Label | Genre | Added |
-| --- | --- | --- |
+| :--- | :--- | --- |
+| [Ronny Pries - Down the Drain](https://archive.org/details/dig034_diggabeats/dig034_24_rp_-_down_the_drain.mp3) @ 2009, [Diggarama](https://archive.org/details/diggarama_label) | dub techno | 2023/06 |
+| [BaGoBa - Palma Chilena](https://archive.org/details/epa101/epa101-BaGoBa-02-Palma_chilena.mp3) @ 2023, Epa Sonidos | electronica, downtempo | 2023/06 |
+| [Bang Man - Fake](https://archive.org/details/ende480-bang-man-mash-up-and-munted-vol-3/09+-+Bang+Man+-+fake.wav) @ 2023, ENDE Records | melodic electronic, idm | 2023/06 |
+| [IntrinsicDNB - PART 3](https://archive.org/details/ende423-va-intrinsicdnb-no-compromise-2-marathon/03+-+IntrinsicDNB+-+PART+3.wav) @ 2023, ENDE Records | drum'n'bass, mixed | 2023/06 |
+| [Marc Burt - Deep Sea (edit)](https://archive.org/details/toulp12/04+-+Marc+Burt+-+Deep+Sea+edit.mp3) @ 2020, Toucan Music | electronica | 2023/06 |
+| [Low Entropy vs. Bass Riddler - Lana](https://archive.org/details/ende470-low-entropy-vs-bass-riddler-mashes-of-the-afternoon/09+-+Low+Entropy+vs+Bass+Riddler+-+lana.wav) @ 2023, ENDE Records | synth pop | 2023/06 |
+| [Psychadelik Pedestrian - Relay](https://archive.org/details/toulp13/4+-+Psychadelik+Pedestrian+-+Relay.mp3) @ 2023, Toucan Music | electronica | 2023/06 |
+| [Pastel Boi - Drunk in the Trunk](https://archive.org/details/ende455-pastel-boi-low-hanging-fruit_202304/01+-+pastel+boi+-+drunk+in+the+trunk.wav) @ 2023, ENDE Records | tech house | 2023/06 |
+| [Energy Commission - Hobo Fellatio](https://archive.org/details/ende454-energy-commision-live-yayas-2009-plus-demos/03+-+Energy+Commission+-+hobo+fellatio.wav) @ 2009, ENDE Records | punk rock | 2023/06 |
+| [Sobria Ebrietas - se.35-2](https://archive.org/details/enrmp515_sobria_ebrietas___iliaque_-_chemtrails/05_sobria_ebrietas_-_se_35_2.mp3) @ 2023, Enough Records | ambient | 2023/06 |
+| [Disrrr - Renoise Breakcore Server](https://archive.org/details/ende459-disrrr-dream-killer/07+-+Disrrr+-+renoise+breakcore+server.wav) @ 2023, ENDE Records | electronic, idm, glitch, breakcore | 2023/06 |
+| [Sven Phalanx - Klangtherapie (Grosso Gadgetto Remix)](https://archive.org/details/mhrk349/Sven+Phalanx+-+Klangtherapie+Remix+EP+Vol.2+-+08+Klangtherapie+%28Grosso+Gadgetto+Remix%29.mp3 "https://archive.org/details/mhrk349/Sven+Phalanx+-+Klangtherapie+Remix+EP+Vol.2+-+08+Klangtherapie+(Grosso+Gadgetto+Remix).mp3") @ 2023, Mahorka | industrial, ebm | 2023/06 |
+| [IntrinsicDNB - PART 4](https://archive.org/details/ende423-va-intrinsicdnb-no-compromise-2-marathon/04+-+IntrinsicDNB+-+PART+4.wav) @ 2023, ENDE Records | drum'n'bass, mixed | 2023/06 |
+| [Johann Schwengel - Manhatten](https://ia601603.us.archive.org/21/items/fressen013-johann-schwengel-manhatten-ep/%28Fressen013%29%2001.%20Johann%20Schwengel%20-%20Manhatten_Manhatten%20EP.flac) @ 2023, [Fresscode Records](https://archive.org/details/fresscode-records-netlabel) | techno | 2023/06 |
+| [Energy Commission - Kill Your Boyfriend](https://archive.org/details/ende454-energy-commision-live-yayas-2009-plus-demos/02+-+Energy+Commission+-+kill+your+boyfriend.wav) @ 2009, ENDE Records | punk rock | 2023/06 |
+| [Energy Commission - Masturbate](https://archive.org/details/ende454-energy-commision-live-yayas-2009-plus-demos/10+-+Energy+Commission+-+masturbate.wav) @ 2009, ENDE Records | punk rock | 2023/06 |
+| [Pastel Boi - Surreal Meal Worm](https://archive.org/details/ende463-pastel-boi-lowertown-blues/08+-+-pastel+boi+-+surreal+meal+worm.wav) @ ENDE Records | minimal techno | 2023/06 |
+| [Zzzzra - mecanographie phase 2 (Mike Dereyen Remix)](https://archive.org/details/qnb007_va-sgt_peppers_lonely_hearts_dub_band_2/qnb007_06-zzzzra-mecanographie_phase_2-mike_dereyen_remix.mp3) @ 2008, Qunabu | dub techno | 2023/06 |
+| [Psychadelik Pedestrian - Aurora](https://archive.org/details/toulp13/5+-+Psychadelik+Pedestrian+-+Aurora.mp3) @ 2023, Toucan Music | electronic | 2023/06 |
+| [Roboknob + V-Stók - X Message](https://archive.org/details/mhrk347/13+-+Roboknob+%2B+V-St%C3%B3k+-+INTENT+2023-+Kinetikos+-+X+Message.mp3) @ 2023, Mahorka | downtempo, dark ambient | 2023/06 |
+| [otar - OVERЯ!D3](https://archive.org/details/nws.bpm0136/05+OVER%D0%AF!D3.mp3) @ 2023, Netwaves | progressive techno | 2023/06 |
+| [Mad-Tek - Terra (Gella Remix)](https://archive.org/details/nws.bpm0136/03+Terra+%28Gella+Remix%29.mp3 "https://archive.org/details/nws.bpm0136/03+Terra+(Gella+Remix).mp3") @ 2023, Netwaves | electronic, idm | 2023/06 |
+| [Bang Man - Wobble Boy](https://archive.org/details/ende480-bang-man-mash-up-and-munted-vol-3/03+-+Bang+Man+-+wobble+boy.wav) @ 2023, ENDE Records | dubstep | 2023/06 |
+| [Jon Shuemaker - インナーライト \[In'nāraito - Inner Light\]](https://archive.org/details/mhrk348/04+-+Jon+Shuemaker+-+INTENT+2023-+Eudaimonia+-+%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+-In%27n%C4%81raito+-+Inner+Light-.mp3 "https://archive.org/details/mhrk348/04+-+Jon+Shuemaker+-+INTENT+2023-+Eudaimonia+-+%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88+-In'n%C4%81raito+-+Inner+Light-.mp3") @ 2023, Mahorka | electronic, idm | 2023/06 |
+| [Sublime Porte - Red Apple (2011 Rework)](https://archive.org/details/nws.bpm0135/10+Red+Apple+%282011+Rework%29.mp3.mp3 "https://archive.org/details/nws.bpm0135/10+Red+Apple+(2011+Rework).mp3.mp3") @ 2023, Netwaves | dub techno | 2023/06 |
+| [Bang Man - Galaxy](https://archive.org/details/ende465-bang-man-mashup-and-munted-vol-1/02+-+Bang+Man+-+galaxy.wav) @ 2023, ENDE Records | dubstep | 2023/06 |
+| [Sven Phalanx - Klangtherapie (Gruppentherapiemix by CMO-Projekt)](https://archive.org/details/mhrk349/Sven+Phalanx+-+Klangtherapie+Remix+EP+Vol.2+-+05+Klangtherapie+%28Gruppentherapiemix+by+CMO-Projekt%29.mp3 "https://archive.org/details/mhrk349/Sven+Phalanx+-+Klangtherapie+Remix+EP+Vol.2+-+05+Klangtherapie+(Gruppentherapiemix+by+CMO-Projekt).mp3") @ 2023, Mahorka | industrial, ebm | 2023/06 |
+| [IntrinsicDNB - PART 7](https://archive.org/details/ende423-va-intrinsicdnb-no-compromise-2-marathon/07+-+IntrinsicDNB+-+PART+7.wav) @ 2023, ENDE Records | drum'n'bass, mixed | 2023/06 |
+| [Floating Mind - The Green Zone](https://archive.org/details/monoKraK277_FloatingMind-Pyramid_EP/%28monoKraK277%29+FloatingMind_The_Green_Zone.wav "https://archive.org/details/monoKraK277_FloatingMind-Pyramid_EP/(monoKraK277)+FloatingMind_The_Green_Zone.wav") @ 2023, monoKraK | ambient techno | 2023/06 |
+| [The Maravines - Awae](https://archive.org/details/MARAV074R/03+Awae.mp3) @ 2023, Maravines | songwriter, folk rock | 2023/06 |
+| [IntrinsicDNB - PART 6](https://archive.org/details/ende423-va-intrinsicdnb-no-compromise-2-marathon/06+-+IntrinsicDNB+-+PART+6.wav) @ 2023, ENDE Records | drum'n'bass, mixed | 2023/06 |
 | [Audio Compress - Opening](https://archive.org/details/enrmp513_audio_compress_-_petals/02_audio_compress_-_opening.mp3) @ 2023, Enough Records | ambient | 2023/05 |
 | [Antonio Isaac Gómez - Otro lugar de grandes cristales](https://archive.org/details/pn219/pn219_10_antonio-isaac-gomez_otro-lugar-de-grandes-cristales.mp3) @ 2023, Pueblo Nuevo | ambient | 2023/05 |
 | [FC/DC - Беги, Детка, Беги!](https://archive.org/details/mnmn-records_yandex_03./06.+%D0%91%D0%B5%D0%B3%D0%B8%2C+%D0%94%D0%B5%D1%82%D0%BA%D0%B0%2C+%D0%91%D0%B5%D0%B3%D0%B8!.mp3) @ 2013, Monumental Netlabel | electro house | 2023/05 |
@@ -48,7 +79,7 @@ tags: ["Netaudio","Creative Commons"]
 | [FC/DC - отрезок](https://archive.org/details/mnmn-records_yandex_03./04.+%D0%BE%D1%82%D1%80%D0%B5%D0%B7%D0%BE%D0%BA.mp3) @ 2013, Monumental Netlabel | dubstep | 2023/05 |
 | [Ulf Kramer - Eviszeration](http://www.indigosilver.de/releases/isc024-Ulf_Kramer-Der_Letzte_Schrei/02-Ulf_Kramer-Eviszeration.flac) @ 2013, Indigo Silver Club | progressive techno | 2023/05 |
 | [Antonio Isaac Gómez - Pequeña estrella de semillas](https://archive.org/details/pn219/pn219_08_antonio-isaac-gomez_sombras-de-pensamientos.mp3) 2023, Pueblo Nuevo | ambient | 2023/05 |
-| [Bleupulp et Nour - Silent_Steps](https://ia904703.us.archive.org/31/items/pertin-nce095/2_Bleupulp_et_Nour_-_Silent_Steps.flac) @ 2023, Pertin-nce.ca | electronic, microhouse | 2023/05 |
+| [Bleupulp et Nour - Silent Steps](https://ia904703.us.archive.org/31/items/pertin-nce095/2_Bleupulp_et_Nour_-_Silent_Steps.flac) @ 2023, Pertin-nce.ca | electronic, microhouse | 2023/05 |
 | [Finegrind & Benson - Underground Vibes](https://archive.org/details/ZIMMER079/Zimmer079.09_finegrind_and_benson_-_underground_vibes.mp3) @ 2011, Zimmer Records | tech house | 2023/05 |
 | [Mr. Dee - Perros De Pelea](http://www.indigosilver.de/releases/isc016-Mr_Dee-Guerrero/03-Mr._Dee-Perros_De_Pelea.flac) @ 2012, Indigo Silver Club | techno | 2023/05 |
 | [Oliver Martini - Revenge Of The Sponge](http://www.indigosilver.de/releases/isc014-xmasters_2011/06-Oliver_Martini-Revenge_Of_The_Sponge.flac) @ 2011, Indigo Silver Club | techno | 2023/05 |
@@ -134,7 +165,7 @@ tags: ["Netaudio","Creative Commons"]
 | [Los Metafísicos Pansemióticos - Metafísicos 1](https://archive.org/details/verdaderoespiritismo/Espiritismo/01+Metaf%C3%ADsicos+1.mp3) @ 2005, [Embajadores de la Música Colombiana](https://embajadoresdelamusicacolombiana.wordpress.com/) | electronic | 2023/04 |
 | [Kaztro - How Whacky Is That](http://www.indigosilver.de/releases/isc003-kaztro-doppelseite/01-kaztro-how_whacky_is_that.flac) @ 2010, Indigo Silver Club | drum'n'bass | 2023/04 |
 | [Der schwarze Adel - When The Truth Is Found To Be LIES](https://archive.org/details/p102-der-schwarze-adel-fuck-society-ep/%28P102%29+02.+Der+schwarze+Adel+-+When+The+Truth+Is+Found+To+Be+LIES_Fuck+Society+EP.mp3 "https://archive.org/details/p102-der-schwarze-adel-fuck-society-ep/(P102)+02.+Der+schwarze+Adel+-+When+The+Truth+Is+Found+To+Be+LIES_Fuck+Society+EP.mp3") @ 2023, Psychocandies | acid techno | 2023/04 |
-| [Geolm - Oh Dear](http://www.indigosilver.de/releases/isc021-Paradigm_Shift/15-Geolm-Oh_Dear.flac) @ 2012, Indigo Silver Club | electro house, microhouse | 2023/04 |
+| [Geolm - Oh Dear](https://archive.org/details/wave012/wave012.5_Geolm_-_Oh_dear.mp3) @ 2012, Wavelike | electro house, microhouse | 2023/04 |
 | [Defkon - Buddhist Meditation](http://www.indigosilver.de/releases/isc028-Defkon-Altered_States_Of_Mind/01-Defkon-Buddhist_Meditation.flac) @ 2013, Indigo Silver Club | progressive techno, microhouse | 2023/04 |
 | [csum - Cannabiosis](https://archive.org/details/2013Compucomp/12+Cannabiosis.mp3) @ 2013, Nenormalizm Records | electronic, idm, glitch | 2023/04 |
 | [csum - Lunarium Vermone](https://archive.org/details/2013Compucomp/09+Lunarium+Vermone.mp3) @ 2013, Nenormalizm Records | electronic, idm, glitch | 2023/04 |
@@ -236,7 +267,7 @@ tags: ["Netaudio","Creative Commons"]
 | [Ulf Kramer - Regenmacher](https://archive.org/details/wave013/wave013.2_Ulf_Kramer_Regenmacher.mp3) @ 2013, Wavelike | minimal techno, progressive techno | 2023/03 |
 | [Ulf Kramer - Musik hören](https://archive.org/details/wave013/wave013.3_Ulf_Kramer_Musik_hoeren.mp3) @ 2013, Wavelike | minimal techno, progressive techno | 2023/03 |
 | [Ulf Kramer - Klagelied 016](https://archive.org/details/wave013/wave013.4_Ulf_Kramer_Klagelied_016.mp3) @ 2013, Wavelike | minimal techno, progressive techno | 2023/03 |
-| [Ulf Kramer - Der fröhlich frierende Pfeifer](http://www.schmob.de/releases/schmob20/schmob-20_7_ulf_kramer-der_fr%C3%B6hlich_frierende_pfeifer-320.mp3) 2021, Schmob | minimal techno, progressive techno | 2023/03 |
+| [Ulf Kramer - Der fröhlich frierende Pfeifer](http://www.schmob.de/releases/schmob20/schmob-20_7_ulf_kramer-der_fr%C3%B6hlich_frierende_pfeifer-320.mp3) @ 2021, Schmob | minimal techno, progressive techno | 2023/03 |
 | [Ulf Kramer - Ohrspule](https://archive.org/details/ZIMMER060/Zimmer060.6_Ulf_Kramer_-_Ohrspule.mp3) @ 2010, [Zimmer Records](http://zimmer-records.org/) | minimal techno | 2023/03 |
 | [Ulf Kramer - Klagelied oo5](https://archive.org/details/ZIMMER060/Zimmer060.5_Ulf_Kramer_-_Klagelied_oo5.mp3) @ 2010, Zimmer Records | minimal techno, progressive techno | 2023/03 |
 | [Ulf Kramer - Flanger Pulse](https://archive.org/details/ZIMMER060/Zimmer060.4_Ulf_Kramer_-_Flanger_Pulse.mp3) @ 2010, Zimmer Records | minimal techno, progressive techno | 2023/03 |
@@ -380,6 +411,15 @@ tags: ["Netaudio","Creative Commons"]
 | [Sk'p - Astravel](https://archive.org/details/cl047_skp_-_astravel/cl047_01_skip_-_astravel.mp3) @ 2014, Crazy Language | electronic, idm, glitch | 2019/11 |
 | [The Dry Mouths - Impromental VII: Moustachette](https://archive.org/details/nws464/06+Impromental+VII_+Moustachette.mp3) @ 2019, [Monasterido de Cultura](https://monasteriodecultura.com/) | psychedelic rock | 2019/09 |
 | [Autorotation - Swamped (Original Version)](https://archive.org/details/global-electronic-experimental/01+-+Autorotation+-+Swamped+%28original+version%29.wav "https://archive.org/details/global-electronic-experimental/01+-+Autorotation+-+Swamped+(original+version).wav") @ 2019, Cian Orbe / Internet Daemon | synthpop, darkwave | 2019/07 |
+| [Bebhionn - Draugr](https://ia803103.us.archive.org/14/items/ZIMMER153/Zimmer153.6_Bebhionn_-_Draugr.flac) @ 2018, Zimmer Records | techno | 2019/04 |
+| [85 Decibel Monks - Roll Jordan Roll](https://archive.org/details/DWK370/85_Decibel_Monks_-_12_-_Roll_Jordan_Roll.mp3) @ 2018, Dusted Wax Kingdom | triphop, gospel | 2019/04 |
+| [Dan Lizard - Stage 4](https://ia902805.us.archive.org/31/items/videogamemusic_201806/09-Stage4sid6581858012bit32khz.flac) @ 2018, [FEUERSTEIN Records](https://archive.org/details/feuersteinrecords) | chiptune, 8-bit | 2019/04 |
+| [Eko Fisk - The Infiltrator](https://archive.org/details/EkoFisk-Hypnagogia/03.+Eko+Fisk+-+The+Infiltrator.mp3) @ 2018, Silent Flow | drone ambient | 2019/04 |
+| [Gypsy - Holding Up The World](https://archive.org/details/HoldingUpTheWorld/Holding+Up+The+World.mp3) @ 2018, [Rodent Tapes](https://archive.org/details/rodenttapesbackstage) | world, asia dub, electronic | 2019/04 |
+| [Redmann - Earworm (Notch Remix)](https://archive.org/details/tou343/tou343_redmann_earworm_notch_remix.mp3) @ 2018, Toucan Music | trance | 2019/04 |
+| [Драв \- Кар Маар](https://archive.org/details/IBR_805/07.+%D0%9A%D0%B0%D1%80+%D0%9C%D0%B0%D0%B0%D1%80.mp3) @ 2007, [Immoral Basement Records](https://archive.org/details/immoralbasementrec) | 8-bit, melodic electronic | 2019/04 |
+| [5158 - Echoes](https://archive.org/details/ET088_5158_SideToSide/2-Echoes.flac) @ 2015, [Etched Traumas](https://www.etchedtraumas.net) | downtempo | 2019/04 |
+| [.exe - Color Stripes](https://archive.org/details/illep039/04_-_.exe_-_Color_Stripes.mp3) @ 2008, illphabetik | acid techno | 2019/04 |
 | [Cousin Silas - The annoying habits of potato head man](https://archive.org/details/waag_rrl008/04_The-annoying-habits-of-potato-head-man.mp3) 2018, we are all ghosts | ambient | 2019/04 |
 | [Lang - Un Momento](https://archive.org/details/SDR040/SDR040_02_UnMomento.wav) @ 2018, Strato Dischi | pop, alternative rock | 2019/04 |
 | [Cousin Silas - An unearthly visitation in Grimsby](https://archive.org/details/waag_rrl008/06_An-unearthly-visitation-in-Grimsby.mp3) @ 2018, [we are all ghosts](https://www.weareallghosts.co.uk/) | drone ambient | 2019/04 |
@@ -397,6 +437,7 @@ tags: ["Netaudio","Creative Commons"]
 | [Skg's Dub Alliance ft. Magma Dee - Come Along](https://archive.org/details/RGWS004/10+Skg%27s+Dub+Alliance+ft.+Magma+Dee+-+Come+Along.mp3 "https://archive.org/details/RGWS004/10+Skg's+Dub+Alliance+ft.+Magma+Dee+-+Come+Along.mp3") @ 2017, Reggaewise | reggae, dub | 2019/04 |
 | [Erich Schall - Angst vor dem Zugfahren](https://archive.org/details/Wuerfel24-ErichSchall-Gewichtheben/Wuerfel24-ErichSchall-02-Angst_vor_dem_Zugfahren.mp3) @ 2018, Der kleine gruene Wuerfel | techno | 2019/04 |
 | [Ghost Radio - zz 27 Twentysix](https://archive.org/details/phoke116/phoke116-_-27-_-Ghost_Radio-_-zz_27_Twentysix.mp3) @ 2016, Phonocake | downtempo | 2019/04 |
+| [DETALTACTIC - Mezzanine](https://archive.org/details/MNMN507/07.+Mezzanine.flac) @ 2018, Monumental Records | electronic | 2019/02 |
 | [Schizoidal - Paralysed for paradise](https://ia600701.us.archive.org/4/items/MI120-VA-17SonsRecords-Vol1/17SonsRecords-Vol1__08-Schizoidal-Paralysed_for_paradise.mp3) @ 2016, [17 Sons Records](http://www.17sons.com/) | electronic, downtempo | 2019/02 |
 | [Natural Life Essence - A little plant (Big Storm)](https://archive.org/details/NaturalLifeEssencePlantsAndTrees/A+little+plant+%28Big+Storm%29.mp3 "https://archive.org/details/NaturalLifeEssencePlantsAndTrees/A+little+plant+(Big+Storm).mp3") @ 2018, CYAN | ambient, soundscape, meditative | 2019/02 |
 | [Natural Life Essence - Tree transportation dream (Part I)](https://archive.org/details/NaturalLifeEssencePlantsAndTrees/Tree+transportation+dream+%28Part+I%29.mp3 "https://archive.org/details/NaturalLifeEssencePlantsAndTrees/Tree+transportation+dream+(Part+I).mp3") @ 2018, CYAN | downtempo, ambient, chillout | 2019/02 |
@@ -411,6 +452,8 @@ tags: ["Netaudio","Creative Commons"]
 | [P è n i n ș o l a r - Vouchsafe Agglutinative w' Marco Lucchi](https://archive.org/details/brh18_V.A._-_Spirare/brh18_19_Peninsolar_-_Vouchsafe_Agglutinative_with_Marco_Lucchi.mp3) @ 2018, Breathe Compilations | electronic, idm | 2018/07 |
 | [Galerie Lochte - Ich brech dir das Genick (Punk Version)](https://archive.org/details/DOTNF09/17-gl-ich_brech_dir_das_genick_punk.wav) @ 1980, [Dance On The Noise Floor](https://dance-on-the-noise-floor.blogspot.com/) | punk rock | 2018/05 |
 | [Sacha Rush & Csum - Oberclock](https://archive.org/details/TwistedPair/05+Oberclock.mp3) @ 2018, Nenormalizm Records | electronic, idm | 2018/01 |
+| [Untitled MC - Новогодняя \[Bonus Track\]](https://archive.org/details/IBR_158/17.+%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F%D1%8F+%5BBonus+Track%5D.mp3) @ 2016, [Immoral Basement Records](https://archive.org/details/immoralbasementrec) | trap, hiphop | 2017/03 |
+| [Peter Cellar - Darling, my wallet is in the car](https://archive.org/details/lala006/lala006_murren_01_peter-cellar_darling-my-wallet-is-in-the-car.mp3) @ 2013, lalamusik | electronic, electro | 2017/03 |
 | [Floating Mind - Soft Mind](https://archive.org/details/Monokrak194FloatingMind_Horizontal_Modification/%28monokrak194%29+FloatingMind_Soft_Mind.wav "https://archive.org/details/Monokrak194FloatingMind_Horizontal_Modification/(monokrak194)+FloatingMind_Soft_Mind.wav") @ 2017, monoKraK | minimal techno | 2017/03 |
 | [Lana Lee - Historias del Bramford](https://archive.org/details/LanaLeeMDAHVol2999/07+VII+-+Historias+del+Bramford.wav) @ 2017, Bestiar Netlabel | soundscape, audiobook | 2017/03 |
 | [Alpha Male Project - Back To Samarcanda](https://archive.org/details/SDR037/SDR037_02_BackToSamarcanda.wav) @ 2017, [Strato Dischi](http://stratodischi.blogspot.com/) | synth pop | 2017/03 |
@@ -419,6 +462,7 @@ tags: ["Netaudio","Creative Commons"]
 | [Iñaki Barrocal - Sense Rendir-me (On-Fire Electro Remix)](https://archive.org/details/khmst0049-DroitDeRegne/06+-+Sense+Rendir-me+%28On-Fire+Electro+Remix%29.wav "https://archive.org/details/khmst0049-DroitDeRegne/06+-+Sense+Rendir-me+(On-Fire+Electro+Remix).wav") @ 2015, [Khannonmusic Studios](http://khannonmusicstudios.blogspot.com/) | tech trance | 2017/03 |
 | [Ulf Kramer - Kotfreqsalat](https://archive.org/details/ZIMMER142/Zimmer142.5_Ulf_Kramer_-_Kotfreqsalat.mp3) @ 2016, Zimmer Records | minimal techno, progressive techno | 2017/03 |
 | [Ulf Kramer - Dokument 11](https://archive.org/details/ZIMMER142/Zimmer142.4_Ulf_Kramer_-_Dokument.mp3) @ 2016, Zimmer Records | minimal techno, progressive techno | 2017/03 |
+| [No Human - Transplantation (Rmnski Remix)](https://ia800308.us.archive.org/7/items/slc14.no_human-sky_resort/08.No_Human-Transplantation-Rmnski_Remix.flac) @ 2015, [Soisloscerdos Netlabel](https://soisloscerdos.com/) | minimal techno | 2017/02 |
 | [Dog Hand String Band - Threw You In The Well](https://archive.org/details/Roots0052/02-ThrewYouInTheWell.mp3) @ 2017, Death Roots Syndicate | death root, alternative country | 2017/02 |
 | [Manco Group Featuring Silvia Jozifoska - Mowlana](https://archive.org/details/MancoGroupFeaturingSilviaJozifoskaLiveAtRadioBunkermusicPerformance/Mowlana.mp3) @ 2016, [Radio Bunker](https://archive.org/details/radiobunker) | world | 2017/02 |
 | [Floating Mind - Minimal Fucking Annoying](https://archive.org/details/Monokrak193FloatingMind_Molekula_Non_Grata/%28monokrak193%29+FloatingMind_Minimal_Fucking_Annoying.wav "https://archive.org/details/Monokrak193FloatingMind_Molekula_Non_Grata/(monokrak193)+FloatingMind_Minimal_Fucking_Annoying.wav") @ 2017, monoKraK | ambient techno, electronic | 2017/02 |
@@ -428,6 +472,7 @@ tags: ["Netaudio","Creative Commons"]
 | [Die Relicta - Saltus Suburbanitas](https://archive.org/details/MNMN422/01.+Saltus+Suburbanitas.flac) @ 2016, Monumental Netlabel | ambient | 2017/02 |
 | [BVBEL - Iguvnodon 1.5](https://archive.org/details/siro784Bvbel-OneWvyTape/08-Bvbel-Iguvnodon1.5.mp3) @ 2016, Sirona-Records | bass, trap | 2017/02 |
 | [TvSkY - Floating On Newborn Waves](https://archive.org/details/TvSkyVeilOfReality/Tvsky-VeilOfReality-02FloatingOnNewbornWaves.mp3) @ 2016, SubSymbolic Records | dub techno | 2017/02 |
+| [4T Thieves - Rain](https://archive.org/details/enrmp395_4t_thieves_-_electro_cool/05_4t_thieves_-_rain.mp3) @ 2016, Enough Records | melodic electronic, idm | 2017/01 |
 | [The Redemption's Colts - White Demons](https://archive.org/details/Roots0047/03+-+The+Redemption%27s+Colts+-+White+Demons.mp3 "https://archive.org/details/Roots0047/03+-+The+Redemption's+Colts+-+White+Demons.mp3") @ 2016, [Death Roots Syndicate](https://archive.org/details/deathrootssyndicate) | folk, alternative country | 2017/01 |
 | [A-Grav Lab - Spacewalkers](https://archive.org/details/BSMX0149/02-Spacewalkers_192kb.mp3) @ 2016, [blocSonic](https://blocsonic.com/) | hiphop | 2017/01 |
 | [Die Relicta - Lumen](https://ia802909.us.archive.org/9/items/MNMN422/04.%20Lumen.flac) @ 2016, Monumental Netlabel | ambient | 2017/01 |
@@ -438,10 +483,14 @@ tags: ["Netaudio","Creative Commons"]
 | [Jean Nine - Mellon Moon](https://ia601207.us.archive.org/26/items/milk-rel60/01%20-%20mellon%20moon.flac) @ 1999, Milk | electronic | 2016/08 |
 | [DISCOFORGIA feat. Smitech Wesson - La Haine!](https://archive.org/details/nwscomp008/14+La+Haine!.mp3) @ 2016, Netwaves Records | electro | 2016/08 |
 | [The Hermit - The Holy Bush](https://www.broque.de/Music/brq104_the_hermit_-_liber3_dualism/brq104_the_hermit_-_liber3_dualism_-_06_the_holy_bush.mp3) @ 2015, Broque | electronic | 2016/06 |
+| [Cuckoo Spit - Less Than Three (katarrhaktes' saucy marinara mix)](https://archive.org/details/FW150/FW150-10_CuckooSpit_LessThanThreekatarrhaktessaucymarinaramix.wav) @ 2014, Fwonk | cinematic, drone ambient | 2016/05 |
+| [Synapset - Zapoj of the exotic viking](https://archive.org/details/BPIST002/synapset_-_musical_tourism_-_05_zapoj_of_the_exotic_viking.flac) @ 2010, [Basspistol](https://basspistol.com/) | dub | 2016/05 |
 | [Csum - Discaffair](https://ia800200.us.archive.org/19/items/plus_Csum/05%20Discaffair.mp3) @ 2016, Nenormalizm Records | electronic, idm | 2016/05 |
 | [Walter Fini - Perturbazione](https://archive.org/details/WalterFini-InassenzadiLuna/4.+Perturbazione.mp3) @ 2015, [batenim netlabel](https://www.batenimnetlabel.net/) | ambient, downtempo | 2016/05 |
 | [Massimo Ruberti - Materia](https://archive.org/details/NostressNetlabelAnniversaryCompilationVol.4_201512/12.+Materia+-+Massimo+Ruberti.mp3) @ 2015, [Nostress Netlabel](http://www.nostressnetlabel.net/) | electronic | 2016/05 |
 | [Turnus - Heartglue](https://archive.org/details/ZIMMER122/Zimmer122.10_Turnus_-_Heartglue.mp3) @ 2015, Zimmer Records | ambient | 2016/05 |
+| [Alic - The Acid Flow (Triptacular Edit)](https://archive.org/details/DigitalDiamonds044/%5BDigitalDiamonds044%5D_B1_Alic_-_The_Acid_Flow_%28Triptacular_Edit%29.mp3 "https://archive.org/details/DigitalDiamonds044/%5BDigitalDiamonds044%5D_B1_Alic_-_The_Acid_Flow_(Triptacular_Edit).mp3") @ 2016, Digital Diamonds | acid techno | 2016/04 |
+| [Alec Troniq & Gabriel Vitel - Old Tortures](https://archive.org/details/brq108/03+-+Alec+Troniq+%26+Gabriel+Vitel+-+Old+Tortures.mp3) @ 2015, Broque | house | 2016/04 |
 | [Витя Скорбенко \- MNMN](https://archive.org/details/MNMN347/13.+%D0%92%D0%B8%D1%82%D1%8F+%D0%A1%D0%BA%D0%BE%D1%80%D0%B1%D0%B5%D0%BD%D0%BA%D0%BE+-+MNMN.flac) @ 2015, Monumental Netlabel | electronic, idm | 2016/04 |
 | [Csum - Off Wings](https://archive.org/details/plus_Csum/07+Off+Wings.mp3) @ 2016, [Nenormalizm Records](https://nenormalizm.wixsite.com/nenormalzim) | electronic, idm, acid | 2016/04 |
 | [Sugubo - Trippy Train](https://archive.org/details/sgustok_net_008_03_sugubo_-_touch/sgustok_net_008_02_sugubo_-_trippy_train.mp3) @ 2015, [Sgustok Music](https://sgustokmusic.org/) | electronic, idm, glitch, downtempo | 2016/04 |
@@ -453,12 +502,19 @@ tags: ["Netaudio","Creative Commons"]
 | [Phomorian - Cosmic](https://archive.org/details/Phomorian-DesensitizationReassociation/3-COSMIC.mp3) @ 2015, [BFW Recordings](https://archive.org/details/bfw-recordings) | electronic, idm | 2015/10 |
 | [José Valente - Bacalhau cheiroso](https://archive.org/details/mi238_josevalente_circunstancias/04.+Bacalhau+Cheiroso.mp3) @ 2014, [MiMi Records](http://mimirecords.clubotaku.org/) | modern classic, folk | 2015/09 |
 | [Kanellos - Inglan Is A Bitch](https://archive.org/details/siro766Kanellos-Audiojunk/05-Kanellos-InglanIsABitch.mp3) @ 2015, Sirona-Records | electronic, idm | 2015/09 |
+| [Art Electronix - Trax on Wax](https://archive.org/details/MNMN204/27.+Trax+on+Wax.mp3) @ 2013, Monumental Netlabel | electronic | 2015/08 |
 | [23:59 - Breathe One's Last](https://archive.org/details/Nenormalizm_Birthday_20150315/10+23-59+-+Breathe+One%27s+Last.mp3 "https://archive.org/details/Nenormalizm_Birthday_20150315/10+23-59+-+Breathe+One's+Last.mp3") @ 2015, Nenormalizm Records | electronic, idm, glitch | 2015/08 |
 | [FC/DC - М.В.Л.Н.](https://archive.org/details/mnmn-records_yandex_03./05.+%D0%9C.%D0%92.%D0%9B.%D0%9D..mp3) @ 2013, Monumental Netlabel | drum'n'bass | 2015/08 |
 | [PNFA - Now](http://media.sonicsquirrel.net/TropicNetlabel/tro53/TRO53_-_PNFA_-_Now.mp3) @ 2010, [Tropic Netlabel](https://tropic-netlabel.de) | house | 2015/08 |
+| [D.G Svon - Applouse](https://archive.org/details/VariousArtists-tastersVinegar4/19.d.gSvon-applouse.mp3) @ 2011, Picpack | triphop, breakbeat | 2015/05 |
 | [666L17C#88817C# - REVENGE OF MY ANDROID](https://archive.org/details/MNMN054/10.+REVENGE+OF+MY+ANDROID.mp3) @ 2012, [Monumental Netlabel](https://archive.org/details/mnmnrecords) | idm, breakcore | 2015/05 |
+| [Sara Ayers - Night Hounds](https://archive.org/details/Interiors/SaraAyers-Interiors-04-NightHounds.flac) @ 2001, [Dark Wood Recordings](https://archive.org/details/dark-wood-recordings) | darkwave | 2015/03 |
+| [Oscar Favre - Huella](https://archive.org/details/OscarFavreEnLasAfirmacionesySusEfectos/Oscar+Favre+-+En+las+afirmaciones+%28y+sus+efectos%29+-+03+-+Huella.mp3 "https://archive.org/details/OscarFavreEnLasAfirmacionesySusEfectos/Oscar+Favre+-+En+las+afirmaciones+(y+sus+efectos)+-+03+-+Huella.mp3") @ 2014, [Planeta X](http://planetax.org.ar) | alternative rock | 2015/03 |
 | [Митрий Гранков \- Песня о Бороде](https://archive.org/details/SCL157/08_-_Pesnja_o_Borode.mp3) @ 2014, Southern City‘s Lab | folk | 2015/03 |
 | [The Impossebulls - One Man's Dope](https://archive.org/details/BSXE0013/01-06-OneMansDope_192kb.mp3) @ 2004, blocSonic | hiphop | 2015/03 |
+| [Lamb - Strong The Root (Nebulist Remix)](https://archive.org/details/NebulistBootlegRomance/03-Lamb-StrongTheRootnebulistRemix.mp3) @ 2014, cOmaRecOrdz | bassline | 2014/08 |
+| [Alek X - Sputnik Babushka](https://archive.org/details/deepx305/deepx305-02_-_Alek_X_-_Sputnik_Babushka.mp3) @ 2014, [Deep-X Recordings](https://archive.org/details/deepxrec) | latin house | 2014/08 |
+| [Kingstux - Wai Wai Wai](https://archive.org/details/planet046/12WaiWaiWai.mp3) @ 2013, [Planet Terror Records](https://archive.org/details/planet-terror-records) | chipmusic, 8-bit | 2014/08 |
 | [Push Against New Fakes - Death Dance](https://archive.org/details/phoke104/phokes104-_-02-_-push_against_new_fakes-_-Death_Dance.mp3) @ 2014, [Phonocake](https://www.phonocake.org/) | electronic | 2014/08 |
 | [chunter - Springtime Air](https://archive.org/details/cedtm-006/1-springtimeair.flac) @ 2014, [Compact Electronic Desktop Music](https://cedtm.wordpress.com/) | 8-bit, electronic | 2014/08 |
 | [Rooms Delayed - Ceaseless](https://archive.org/details/Lav60/Lav60-05_Rooms_Delayed-Ceaseless.mp3) @ 2014, [Laverna](http://www.laverna.net) | ambient | 2014/08 |
@@ -469,34 +525,43 @@ tags: ["Netaudio","Creative Commons"]
 | [ENKIL - Last Minute (Tequenique Netlabel)](https://archive.org/details/EPH083AAVVNataleLetalecovers320kbps/09_enkil-LastMinutetequeniqueNetlabel.mp3) 2013, [Ephedrina](https://ephedrinanetlabel.wordpress.com/) | electro house | 2014/01 |
 | [Voodoo Puppets - Fucking Haribos](https://ia600401.us.archive.org/24/items/SCL095/06_-_FUCKING_HARIBOS.flac) @ 2013, [Southern City‘s Lab](http://www.southerncitylab.net/) | punk rock | 2013/11 |
 | [The Frankenstone - Grab Satisfactions Before I Die](https://archive.org/details/Yesno074/13.TheFrankenstone-GrabSatisfactionsBeforeIDie.mp3) @ 2013, YES NO WAVE MUSIC | punk rock | 2013/11 |
+| [Sound Spread - Plastic Mind (Silent Sea Cover Version)](https://archive.org/details/sPE_0164/Sound_Spread_-_Plastic_Mind_06_Plastic_Mind_Silent_Sea_Cover_Version.wav) @ 2013, suRRism-Phonoethics | electronic, idm | 2013/10 |
 | [Cousin Silas - The Gentle Night](https://archive.org/details/waag_rel021/03_-_Cousin-Silas_-_The-Gentle-Night.mp3) @ 2013, we are all ghosts | ambient | 2013/10 |
 | [Break The Bans - Cocksuckers (Ray Parker Jr. re-cover)](https://archive.org/details/SCL073/01_-_Cocksuckers_%28Ray_Parker_Jr-re-cover%29.flac "https://archive.org/details/SCL073/01_-_Cocksuckers_(Ray_Parker_Jr-re-cover).flac") @ 2013, Southern City‘s Lab | punk rock | 2013/10 |
 | [Alec Troniq and Mr. Yesterday - I don't need](https://archive.org/details/brq92/03+-+alec+troniq+and+mr.+yesterday+-+i+don%27t+need.mp3 "https://archive.org/details/brq92/03+-+alec+troniq+and+mr.+yesterday+-+i+don't+need.mp3") @ 2015, Broque | house | 2013/10 |
 | [Crimson Sails - Søvn](https://archive.org/details/gv205/02.CrimsonSails-Sovn.mp3) @ 2013, [GV Sound](https://gv-sound.tumblr.com/) | ambient, meditative | 2013/09 |
 | [Kai Engel - Intro (.udonthear)](https://archive.org/details/SCL081/01_-+_intro_%28udonthear%29_%28Album_version%29.flac "https://archive.org/details/SCL081/01_-+_intro_(udonthear)_(Album_version).flac") @ 2013, Southern City‘s Lab | neoclassic | 2013/09 |
 | [Oak Shine - Back To Ukraine](https://archive.org/details/o2label02-011OakShineEarthSong2012Ep/02-BackToUkraine.mp3) @ 2011, o2label | downtempo | 2013/09 |
+| [Pasquale Maassen - while you are cooking](https://archive.org/details/omaramusic033/03_pasqualeMaassen_-_while_you_are_cooking.mp3) @ 2011, Omaramusic | acid techno | 2013/07 |
 | [The Histrionics - On Kawara](https://archive.org/details/yesno071/03OnKawara.mp3) @ 2004, YES NO WAVE MUSIC | alternative rock | 2013/04 |
 | [Bradley The Buyer - Ministry Of Cliches refined](https://archive.org/details/siro335BradleyTheBuyer-UsedUsing/08-BradleyTheBuyer-MinistryOfClichesrefined.mp3) @ 2012, [Sirona-Records](http://www.sirona-records.com/) | electroclash | 2013/04 |
+| [Off Land - Greywater](https://www.monocromatica.com/netlabel/releases/tube262/tube262-03-off_land_-_greywater.mp3) @ 2012, Test Tube | chillout, ambient | 2013/03 |
 | [Ulf Kramer - schwarze Galle](https://archive.org/details/omaramusic043/03_Ulf_Kramer_-_schwarze_Galle.mp3) @ 2012, [Omaramusic](https://archive.org/details/omaramusic) | minimal techno | 2013/03 |
 | [Ulf Kramer - Drama 2](http://www.schmob.de/releases/schmob07/pre2.mp3) @ 2013, Schmob | minimal techno, progressive techno | 2013/03 |
 | [Ulf Kramer - Gesichtsverlust](http://www.schmob.de/releases/schmob07/schmob-07_3_ulf_kramer-gesichtsverlust_320.mp3) @ 2013, Schmob | minimal techno, progressive techno | 2013/03 |
 | [Ulf Kramer - Drama 1](http://www.schmob.de/releases/schmob07/pre0.mp3) @ 2013, Schmob | minimal techno, progressive techno | 2013/03 |
+| [Geolm - Floora (House Remix)](https://archive.org/details/wave012/wave012.4_Geolm_-_Floora_house_remix.mp3) @ 2012, Wavelike | deep house | 2013/02 |
 | [Penthotal - Moment Of Deep Through](https://archive.org/details/eph037Penthotal-InstabilePt.1whenActingAsAParticle/05_momentOfDeepThrough.mp3) @ 2012, Ephedrina | electronic, idm, dubstep | 2012/08 |
 | [Armed - South Nocum (Frances Lerouge's Bicos & Apertas Mix)](https://archive.org/details/rwclub014/06.armed-SouthNocumfrancesLerougesBicosApertasMix.mp3) @ 2011, [Rawmatroid](https://archive.org/details/rawmatroid) | electro house | 2012/04 |
+| [Kisstronix - Whatever!](https://archive.org/details/Kisstronix-Whatever) @ 2011, BFW Recordings | house, bigbeat | 2011/12 |
 | [Planet Awesum! - Magpipe](https://archive.org/details/tpd095/10_Magpipe.mp3) @ 2011, Take Pills Die | melodic electronic, idm | 2011/12 |
 | [Planet Awesum! - Pedal](https://archive.org/details/tpd095/01_Pedal.mp3) @ 2011, [Take Pills Die](https://archive.org/details/takepillsdie) | melodic electronic, idm | 2011/12 |
 | [room101 - Triangularity (with Michal Harish on Sitar)](https://archive.org/details/Various_Artists_-_Tachyon_Service_Pack_1/19.Room101MichalHarish-TriangularityWithMichalHarishOnSitar.mp3) @ 2016, [TACHYON netlabel](https://netlabeltachyon.wordpress.com) | world | 2011/12 |
+| [The Stringed Theory - Topology](https://archive.org/details/gruen022/gruen022_universal_relativity_06-the_stringed_theory_-_topology.mp3) @ 2007, [Stadtgruen](https://www.stadtgruenlabel.net/) | sad electronic | 2011/11 |
 | [Evilkiller - Bulletproof Imil Rmx](https://archive.org/details/MSR007_Evilkiller_vs_Anarky_-_Evilkiller_vs_Anarky/A2_Evilkiller_-_Bulletproof_Imil_Rmx.mp3) @ 2011, [Massive Speed Records](https://archive.org/details/big-bang-records) | breakcore | 2011/11 |
 | [Broken Toy - Juxtapose Euphonious](https://archive.org/details/SRmp3_218/04.Juxtapose_Euphonious.mp3) @ 2011, Sociopath Recordings | breakcore | 2011/09 |
 | [TkY - As A Leaf](https://archive.org/details/gargan057Tky-MemoriesFromFuture/gargan057_05_TkY_-_As_A_Leaf.mp3) @ 2011, [Garganrecords](https://archive.org/details/gargan-records) | progressive trance | 2011/09 |
 | [Adviruz - Imperial March (Darth Vader's Theme)](https://archive.org/details/P36-054/01ImperialMarch.mp3) @ 2011, [Pavillon36 Recordings](https://pavillon36-recordings.bandcamp.com/) | idm, glitch | 2011/02 |
-| [I Have A Box - Init](https://archive.org/details/FW054_IHaveABox/FW054-04_Init.mp3) @ 2010, Fwonk | melodic electronic | 2010/12 |
+| [I Have A Box - Init](https://archive.org/details/FW054_IHaveABox/FW054-04_Init.mp3) @ 2010, [Fwonk](https://fwonk.co.uk/) | melodic electronic | 2010/12 |
 | [Olelé Brut - Que Ser† Ser† (Doris Day)](https://archive.org/details/sPE_0046/Olele_Brut_El_Egg_Album_10_Que_Ser_Ser_Doris_Day.mp3) @ 2010, [suRRism Phonoethics](https://archive.org/details/surrism-phonoethics) | folk | 2010/09 |
 | [Bear and Lampshade - Damaged](https://archive.org/details/MIXG011/03_-_Bear_And_Lampshade_-_Damaged.mp3) @ 2010, [Mixgalaxy Records](https://archive.org/details/mixgalaxy-records) | electronica, melodic electronic | 2010/07 |
+| [That Black - Pearls Don't Need To Breathe At The Bottom Of The Sea](https://archive.org/details/top-54/6-pearlsDontNeedToBreathe.mp3) @ 2010, [top-40.org](https://archive.org/details/top40) | neo classic | 2010/03 |
 | [Brioskj - Basic emotions](https://archive.org/details/Kahvi224_brioskj_Basic_emotions/kahvi224a_brioskj-basic_emotions.mp3) @ 2007, Kahvi Collective | melodic electronic | 2010/03 |
 | [Thiaz Itch - The Gardener's Lament](https://archive.org/details/WM105/WM105-11.mp3) @ 2010, [WM Recordings](https://archive.org/details/wm) | electronic, nu-jazz | 2010/03 |
+| [Dr Nojoke - Cliknotic Session 2006-12-04](https://archive.org/details/mixotic.net_202209/Mixotic_060_-_Dr_Nojoke_-_Cliknotic_Session_2006-12-04.mp3) @ 2006, Mixotic.net | clickno, mixed | 2009/11 |
 | [Bliss - Time Time Time](https://archive.org/details/mtk137/mtk137-bliss-03-time-time-time.mp3) @ 2004, Monotonik | melodic electronic | 2009/10 |
 | [BeaviZ - Electro Aggression](https://archive.org/details/bump100/bump100_2_01-beaviz-electro_aggression.mp3) @ 2009, Bump Foot | electro techno | 2009/10 |
+| [El Zoológico - Mr. Frog](https://archive.org/details/petitejolie002/pj002a_-_El_Zoologico_-_The_Jungle_-_03_-_Mr._Frog.mp3) @ 2008, [Petite&Jolie](https://archive.org/details/petitejolie) | electronica | 2009/09 |
 | [La Nueva Guardia - Percal](https://archive.org/details/pn038/pn038_06_lng_percal.mp3) @ 2008, [Pueblo Nuevo](https://pueblonuevo.cl/) | latin house | 2009/09 |
 | [Das Timbo - Pinkes Gedöns](https://files.scene.org/view/music/groups/ideology/id044/id044_07_-_das_timbo-pinkes_gedoens.mp3) @ 2008, Ideology | electronic, chiptune | 2009/07 |
 | [GeoSuPhat -Trial Error 100 v2](https://ia800904.us.archive.org/28/items/GSP-AP_Collection_V1-4/30-TrialError_100_v2.flac) @ 2008, [Togeo Music](http://togeomusic.com/) | electroswing | 2009/07 |
