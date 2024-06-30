@@ -1555,7 +1555,7 @@ tags: ["Netaudio","Creative Commons"]
 | [Gabbenni Amenassi - To late](https://archive.org/download/rz067/01_Gabbenni_Amenassi_-_To_late.mp3) @ 2008, [RusZUD](https://archive.org/details/@ruszud) | mashcore | 2008/07 |
 | [Exist - Acid Icecream](https://archive.org/download/DTRASH25-Exist-Exist/dtrash25_01_09.13.2000__acid_icecream__vbr.mp3) @ 2001, [D-Trash Records](https://archive.org/details/d-trash-records) | digital hardcore | 2008/07 |
 | [Gopa Vrinda - Hola](https://archive.org/download/cum40_estado_vegetal/08_gopa_vrinda_hola_vbr.mp3) @ 2008, [C_mshot Records](https://archive.org/details/c_mshot_records) | folk | 2008/06 |
-| [Chenard Walcker - Na Na Na Na](https://archive.org/download/fsz020/fsz020_03-chenard_walcker-na_na_na_na.mp3) @ 2004, [Free Sample Zone](http://www.freesamplezone.org/) | rnb, pop | 2008/06 |ribal | 2027/02 |
+| [Chenard Walcker - Na Na Na Na](https://archive.org/download/fsz020/fsz020_03-chenard_walcker-na_na_na_na.mp3) @ 2004, [Free Sample Zone](http://www.freesamplezone.org/) | rnb, pop | 2008/06 |
 
 ## Resources
 
