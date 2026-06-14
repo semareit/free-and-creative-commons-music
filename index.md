@@ -20,6 +20,47 @@ Enjoy!
 
 | Artist - Title @ Year, Label | Genre | Added |
 | :-- | :-- | --- |
+| [kschzt - 300703t6](https://archive.org/download/enrcmp02_-_retork/09_kschzt_-_300703t6.mp3) @ 2003, Enough Records | electronic | 2026/06 |
+| [Dark Frequencer - Signs Of Stagnation](https://archive.org/download/ab-136DarkFrequencer-SignsOfStagnation2012/08.SignsOfStagnation.mp3) @ 2012, Abandonment Label | downtempo, ambient techno | 2026/06 |
+| [Dark Frequencer - X-4](https://archive.org/download/night-terror-recordings-dark-frequencer-xray-dreams/NTR094_-_Dark_Frequencer_-_X-Ray_Dreams_/NTR094_-_Dark_Frequencer_-_X-Ray_Dreams_/04.%20Dark%20Frequencer%20X-4.mp3) @ 2013, Night Terror Recordings | ambient techno, dark ambient | 2026/06 |
+| [Dornbusch - A Slutty Carpenter Remake](https://archive.org/download/music-for-raising-barns/03%20-%20A%20Slutty%20Carpenter%20%20Remake.flac) @ 2026, Rodent Tapes | triphop | 2026/06 |
+| [Dark Frequencer - VI](https://archive.org/download/petroglyph459Dark_Frequencer-Secret_Sequences/06_-_Dark_Frequencer_-_VI.flac) @ 2016, Petroglyph Music | ambient techno | 2026/05 |
+| [Dark Frequencer - IX](https://archive.org/download/petroglyph459Dark_Frequencer-Secret_Sequences/09_-_Dark_Frequencer_-_IX.flac) @ 2016, Petroglyph Music | electronic, dark techno | 2026/05 |
+| [Dark Frequencer - V](https://archive.org/download/petroglyph459Dark_Frequencer-Secret_Sequences/05_-_Dark_Frequencer_-_V.flac) @ 2016, Petroglyph Music | ambient techno | 2026/05 |
+| [Dark Frequencer - Tearful Mystery](https://archive.org/download/petroglyph240DarkFrequencer-AuralConnection/04_-_Dark_Frequencer_-_Tearful_Mystery.flac) @ 2014, Petroglyph Music | ambient techno | 2026/05 |
+| [Dark Frequencer - Mental Clouds](https://archive.org/download/petroglyph344DarkFrequencer-TelepathicLanguage/04_-_Dark_Frequencer_-_Mental_Clouds.flac) @ 2015, Petroglyph Music | dub, ambient techno | 2026/05 |
+| [Dark Frequencer - Special Power](https://archive.org/download/night-terror-recordings-dark-frequencer-experiment-esp/%5BNTR067%5D%20Dark%20Frequencer%20-%20Experiment%20ESP/07.%20Special%20Power.mp3) @ 2011, Night Terror Recordings | dark techno | 2026/05 |
+| [Dark Frequencer - E.S.P.](https://archive.org/download/night-terror-recordings-dark-frequencer-experiment-esp/%5BNTR067%5D%20Dark%20Frequencer%20-%20Experiment%20ESP/02.%20E.S.P..mp3) @ 2011, Night Terror Recordings | dark techno | 2026/05 |
+| [Copy Your Idols - Uphill Battle](https://archive.org/download/enrmp562_copy_your_idols_-_music_for_the_helpless/02_copy_your_idols_-_uphill_battle.mp3) @ 2026, Enough Records | electronic | 2026/05 |
+| [Copy Your Idols - This Heart Doesn't Live Here Anymore](https://archive.org/download/enrmp562_copy_your_idols_-_music_for_the_helpless/09_copy_your_idols_-_this_heart_doesn_t_live_here_anymore.mp3) @ 2026, Enough Records | electronic | 2026/05 |
+| [Charles Rice Goff III - Pay The Subscription](https://archive.org/download/SoCalledSolutionsToTheHumanPredicament/04PayTheSubscription.flac) @ 2026, Taped Rugs Productions Audio | electronic, acid | 2026/05 |
+| [Black Market Brains - OLDTVMANSFACE (original RING transmission remix)](https://archive.org/details/va-you-pressed-play...-now-you-have-seven-days) @ 2026, Down of Darkness | industrial | 2026/05 |
+| [Rephazer - Nippers](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi501c_rephazer-nippers.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Muldavo - Reiko's Diary](https://archive.org/download/ring-black-market-brains/07%20-%20Muldavo%20-%20Reikos%20Diary.mp3) @ 2026, Dawn of the Darkness | industrial, electronic, experimental | 2026/05 |
+| [Muldavo - You Watched The Cursed Video](https://archive.org/download/ring-black-market-brains/03%20-%20Muldavo%20-%20You%20Watched%20The%20Cursed%20Video.mp3) @ 2026, Dawn of the Darkness | electronic, experimental | 2026/05 |
+| [Black Market Brains - Showtime With Kashiwada](https://archive.org/download/ring-black-market-brains/05%20-%20Black%20Market%20Brains%20-%20Showtime%20With%20Kashiwada.mp3) @ 2026, Dawn of the Darkness | melodic electronic | 2026/05 |
+| [Black Market Brains - RASEN (74262918 pReseNt)](https://archive.org/download/ring-black-market-brains/02%20-%20Black%20Market%20Brains%20-%20RASEN%20%2874262918%20pReseNt%29.mp3) @ 2026, Dawn of the Darkness | industrial, electronic | 2026/05 |
+| [NN - Stella](https://archive.org/download/a22040_silabario/STELLA%20MASTER%2096KHZ%2024BITS.flac) @ 2026, Archivo Veintidós | industrial, audiobook | 2026/05 |
+| [Planet Boelex - Vacuum](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi500i_planet_boelex-vacuum.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Planet Boelex - Blackholes](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi500h_planet_boelex-blackholes.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Planet Boelex - Vortices](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi500g_planet_boelex-vortices.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Planet Boelex - Double Standards](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi500f_planet_boelex-double_standards.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Planet Boelex - Sideways](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi500e_planet_boelex-sideways.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Planet Boelex - Rabbitholes](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi500a_planet_boelex-rabbitholes.ogg) @ 2026, Kahvi Collective | melodic electronic | 2026/05 |
+| [Wivresse - Kiss the abyss](https://archive.org/download/v-a-lust-for-a-vampire/11%20-%20Wivresse%20-%20Kiss%20the%20abyss.mp3) @ 2026, Dawn of Darkness | electronic | 2026/05 |
+| [Pizzabox - Vampires Get Kicked!!](https://archive.org/download/v-a-lust-for-a-vampire/25%20-%20Pizzabox%20-%20Vampires%20Get%20Kicked%21%21.mp3) @ 2026, Dawn of Darkness | electronic, 8-bit | 2026/05 |
+| [RAUPPWAR - Dust Poem (Remix)](https://archive.org/download/v-a-lust-for-a-vampire/15%20-%20RAUPPWAR%20-%20Dust%20Poem%20%28Remix%29.mp3) @ 2026, Dawn of Darkness | electro house | 2026/05 |
+| [Ourobonic Plague - Night Ceremony](https://archive.org/download/v-a-lust-for-a-vampire/02%20-%20Ourobonic%20Plague%20-%20Night%20Ceremony.mp3) @ 2026, Dawn of Darkness | bassmusic | 2026/05 |
+| [FC Stoffel - Stubenhocker](https://archive.org/download/Wuerfel44-FC_Stoffel-Sockenpartymann/Wuerfel44-FC_Stoffel-02-Stubenhocker.mp3) @ 2026, Der kleine grüne Würfel | folk, songwriter, humor | 2026/05 |
+| [FC Stoffel - Eine Milch](https://archive.org/download/Wuerfel44-FC_Stoffel-Sockenpartymann/Wuerfel44-FC_Stoffel-05-Eine_Milch.mp3) @ 2026, Der kleine grüne Würfel | folk, songwriter, humor | 2026/05 |
+| [Door213 - Entre Nós](https://archive.org/download/enrmp563_door213_-_monstros_e_sonhadores/05_door213_-_entre_nos.mp3) @ 2026, Enough Records | triphop | 2026/05 |
+| [Door213 - Bilhete de Ida](https://archive.org/download/enrmp563_door213_-_monstros_e_sonhadores/07_door213_-_bilhete_de_ida.mp3) @ 2026, Enough Records | pop, soul | 2026/05 |
+| [user55864367882 - Darkness](https://archive.org/download/user083-user55864367882-deep-ep/%28USER083%29%2002.%20user55864367882%20-%20Darkness_Deep%20EP.flac) @ 2026, USER Records | Acid Techno | 2026/05 |
+| [user72467634894 - Fear](https://archive.org/download/user082-user72467634894-fear-ep/%28USER082%29%2001.%20user72467634894%20-%20Fear_Fear%20EP.flac) @ 2026, USER Records | acid techno | 2026/05 |
+| [Toni Dimitrov and Blanket Swimming - Hermetic](https://archive.org/download/mhrk492/Toni%20Dimitrov%20%2B%20Blanket%20Swimming%20-%20Hermetic%20-%2001%20Hermetic.mp3) @ 2026, Mahorka | ambient | 2026/05 |
+| [My Own Cuboc Stone - Perseid 1](https://archive.org/download/MOCS-Les_Murmures_intemporels/06-Perseid_1.flac) @ 2026, Murmure Intemporel | dark ambient | 2026/05 |
+| [Iliaque - Perséides](https://archive.org/download/enrmp560_iliaque_-_coruscant/07_iliaque_-_perseides.mp3) @ 2026, Enough Records | electronic | 2026/05 |
+| [Hideyoshi.V94 - Giant Monkey’s Paw](https://archive.org/download/nws.bpm0210/09%20Giant%20Monkey_s%20Paw.mp3) @ 2026, No Problema Tapes | electronic | 2026/04 |
 | [New Delhi FM - Exit Peacemaker](https://archive.org/download/Wuerfel07-NewDelhiFm-RowBy/Wuerfel07-NewDelhiFm-02_exit_peacemaker.mp3) @ 2008, Der kleine gruene Wuerfel | dub techno | 2026/04 |
 | [FloatingMind - Quiet Tension](https://archive.org/download/monoKraK314_FloatingMind_Extra_Life/%28monoKraK314%29%20FloatingMind_Quiet_Tension.flac) @ 2026, monoKraK | ambient | 2026/04 |
 | [FloatingMind - Sur Nuage](https://archive.org/download/monoKraK314_FloatingMind_Extra_Life/%28monoKraK314%29%20FloatingMind_Sur_Nuage.flac) @ 2026, monoKraK | ambient | 2026/04 |
@@ -107,7 +148,7 @@ Enjoy!
 | [M-PeX - Sombras que brilham](https://archive.org/download/enrmp556_m-pex_-_dialugus/10_m-pex_-_sombras_que_brilham.mp3) @ 2025, Enough Records | folktronic | 2026/02 |
 | [M-PeX - Silêncio navegável](https://archive.org/download/enrmp556_m-pex_-_dialugus/11_m-pex_-_silencio_navegavel.mp3) @ 2025, Enough Records | folktronic | 2026/02 |
 | [FloatingMind - Le Pouvoir Femme (Sascha Müller Remix)](https://archive.org/download/monokrak311_saschamuller_tunnel-ep/%28monoKraK311%29%20FloatingMind%20-%5BAmbient%5D%28:/cebccbde63ca4a89ab4fbbc6f5b34c7c%29%20Le%20Pouvoir%20Femme%20%28Sascha%20Mu%CC%88ller%20Remix%29.flac "https://archive.org/download/monokrak311_saschamuller_tunnel-ep/%28monoKraK311%29%20FloatingMind%20-%5BAmbient%5D&#40;:/cebccbde63ca4a89ab4fbbc6f5b34c7c&#41;%20Le%20Pouvoir%20Femme%20%28Sascha%20Mu%CC%88ller%20Remix%29.flac") @ 2026, monoKraK | techno | 2026/02 |
-| [Raja Kirik - Tangis Bumi](https://archive.org/download/yesno118/04.%20Tangis%20Bumi.mp3) @ 2026, Yes No Wave Music | tribal, eperimental | 2026/02 |
+| [Raja Kirik - Tangis Bumi](https://archive.org/download/yesno118/04.%20Tangis%20Bumi.mp3) @ 2026, Yes No Wave Music | tribal, experimental | 2026/02 |
 | [Trollhead - Deadlinez](https://archive.org/download/enrcmp14_-_enough_dubs_2/13_trollhead_-_deadlinez.mp3) @ 2010, Enough Records | dubstep | 2026/02 |
 | [Wahn - Call of the Beacon](https://archive.org/download/mhrk481/Wahn%20-%20Echo%20Mist%20Light%20-%2001%20Call%20of%20the%20Beacon.mp3) @ 2026, Mahorka | downtempo | 2026/02 |
 | [Wahn - A Place Slightly Wrong](https://archive.org/download/mhrk481/Wahn%20-%20Echo%20Mist%20Light%20-%2002%20A%20Place%20Slightly%20Wrong.mp3) @ 2026, Mahorka | electronic | 2026/02 |
@@ -120,11 +161,62 @@ Enjoy!
 | [David Doiel - Night Candy](https://archive.org/download/david-doiel-night-candy/David%20Doiel%20-%20Night%20Candy%20-%2001%20night%20candy.flac) @ 2010, Identical Records | melodic electronic | 2026/02 |
 | [David Doiel - Neuroid](https://archive.org/download/david-doiel-conversations-with-water-05-emergence/David%20Doiel%20-%20Conversations%20With%20Water%20-%2001%20neuroid.flac) @ 2008, Identical Records | electronic, experimental | 2026/02 |
 | [David Doiel - a galaxy](https://archive.org/download/ccosmicvitaminss-world-in-motion/CcosmicvitaminsS%20-%20World%20In%20Motion%20-%2008%20a%20galaxy.flac) @ 2016, Identical Records | electronic | 2026/02 |
+| [user46786121478 - The YPS CD Engraver 01](https://archive.org/download/user072-user46786121478-engrav-ii-ep/%28USER072%29%2001.%20user46786121478%20-%20The%20YPS%20CD%20Engraver%2001_EngravII%20EP.flac) @ 2025, USER Records | techno | 2026/01 |
+| [user04574546444 - Mistaken Identity](https://archive.org/download/user074-user04574546444-ident-ep/%28USER074%29%2001.%20user04574546444%20-%20Mistaken%20Identity_Ident%20EP.flac) @ 2026, USER Records | acid techno | 2026/01 |
+| [VOID//LUNA - АНАСТАСИЯ](https://archive.org/download/16-years-of-witch-house/30%20-%20VOIDLUNA%20-%20%D0%90%D0%9D%D0%90%D0%A1%D0%A2%D0%90%D0%A1%D0%98%D0%AF.mp3) @ 2025, Dawn of Darkness | darkwave | 2026/01 |
+| [Thomas Park - 25 Years Into The Future](https://archive.org/download/Th.Park-Dark_Unsilent_Place/3%20-%2025%20Years%20Into%20The%20Future.mp3) @ 2023, Murmure Intemporel | ambient, soundscape | 2026/01 |
+| [M.A.L.A - Miss Me](https://archive.org/download/MNF053_MALA--Selected_Bass_Works_Vol_3/04_MALA_-_Miss_Me.mp3) 2025, Monofónicos | electro funk | 2026/01 |
+| [Kol9remesez - fly2](https://archive.org/download/foot293/foot293_01-kol9remesez-fly2.m4a) @ 2025, Bump Foot | electronic, idm, glitch | 2026/01 |
+| [Kol9remesez - le cuisoepose](https://archive.org/download/foot293/foot293_04-kol9remesez-le_cuisoepose.m4a) @ 2025, Bump Foot | electronic, idm | 2026/01 |
+| [Kol9remesez - rand](https://archive.org/download/foot293/foot293_07-kol9remesez-rand.m4a) @ 2025, Bump Foot | electronic, idm | 2026/01 |
+| [Gothwitch - In The Sun With Love](https://archive.org/download/16-years-of-witch-house/38%20-%20Gothwitch%20-%20In%20The%20Sun%20With%20Love.mp3) @ 2025, Dawn of Darkness | industrial, darkwave | 2026/01 |
+| [FloatingMind - Dans Mes Chordes](https://archive.org/download/monoKraK309_floatingmind_intensensitiv/%28monoKraK309%29%20FloatingMind_Dans_Mes_Chordes.flac) @ 2025, monoKraK | ambient | 2026/01 |
+| [Fallen - Night Flowers are in Bloom](https://archive.org/download/mhrk472/Fallen%20-%20Our%20Endless%20Waltz%20between%20Wonder%20and%20Mud%20-%2006%20Night%20Flowers%20are%20in%20Bloom.mp3) @ 2025, Mahorka | electronic | 2026/01 |
+| [Fallen - Lost Empathy, New Complicity](https://archive.org/download/mhrk472/Fallen%20-%20Our%20Endless%20Waltz%20between%20Wonder%20and%20Mud%20-%2004%20Lost%20Empathy%2C%20New%20Complicity.mp3) @ 2025, Mahorka | electronic | 2026/01 |
+| [Dolphins of Venice - Polly is Broken](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2015%20Polly%20is%20Broken.mp3) @ 2025, Mahorka | electronic, idm | 2026/01 |
+| [Dolphins of Venice - Office Pingers](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2012%20Office%20Pingers.mp3) @ 2025, Mahorka | electronic, idm | 2026/01 |
+| [Dolphins of Venice - Monday Morning](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2008%20Monday%20Morning.mp3) @ 2025, Mahorka | ambient, cinematic | 2026/01 |
+| [Dolphins of Venice - Lugs Kalimbo](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2014%20Lugs%20Kalimbo.mp3) @ 2025, Mahorka | melodic electronic, idm | 2026/01 |
+| [Dolphins of Venice - Three Thirty TG](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2004%20Three%20Thirty%20TG.mp3) @ 2025, Mahorka | melodic electronic, idm | 2026/01 |
+| [Dolphins of Venice - Automated Executive](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2013%20Automated%20Executive.mp3) @ 2025, Mahorka | melodic electronic, idm | 2026/01 |
+| [Dolphins of Venice - Captains of Industry](https://archive.org/download/mhrk470/Dolphins%20of%20Venice%20-%20Captains%20of%20Industry%20-%2003%20Captains%20of%20Industry.mp3) @ 2025, Mahorka | electronic, idm | 2026/01 |
+| [Dissolved - Pleroma Breakers (Weldroid Remix)](https://archive.org/download/dissolved-i-flux-rmx/Dissolved%20-%20Island%20Flux%20Remixes%20-%2002%20Pleroma%20Breakers%20%28Weldroid%20Remix%29.flac) 2023, Section 27 | electronic, idm | 2026/01 |
+| [Disorder of the Sleep - Reality Preparation](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/06_disorder_of_the_sleep_-_reality_preparation.mp3) @ 2024, Enough Records | electronic | 2026/01 |
+| [Disorder of the Sleep - Form Currents (featuring Astrid Bellefroid)](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/16_disorder_of_the_sleep_-_form_currents__featuring_astrid_bellefroid_.mp3) @ 2024, Enough Records | triphop, cinematic | 2026/01 |
+| [Disorder of the Sleep - Learned](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/09_disorder_of_the_sleep_-_learned.mp3) @ 2024, Enough Records | electronic, idm | 2026/01 |
+| [Digital Volt - Cadencia Rota](https://archive.org/download/epa106/EPA106-Digital_Volt-Bucle_Temporal-flac.zip/EPA106-Digital_Volt-Bucle_Temporal-06-Cadencia_Rota.flac) @ 2025, EPA Sonidos | electo, electronic | 2026/01 |
+| [Digital Volt - Efecto Inercia](https://archive.org/download/epa106/EPA106-Digital_Volt-Bucle_Temporal-flac.zip/EPA106-Digital_Volt-Bucle_Temporal-05-Efecto_Inercia.flac) @ 2025, EPA Sonidos | electo, progressive techno | 2026/01 |
+| [Vziel Projet - Let Me Stay Indoors](https://archive.org/download/GT-20260105-1210/03%20Let%20Me%20Stay%20Indoors.flac) @ 2026, Genetic Trance | drone ambient | 2026/01 |
+| [SubUnit - Pen Expers Variation](https://archive.org/download/IP-026/IP-026-02-Pen%20Expers%20Variation.mp3) @ 2026, 1834 | ambient | 2026/01 |
+| [SubUnit - Optimal Stopping](https://archive.org/download/IP-026/IP-026-01-Optimal%20Stopping.mp3) @ 2026, 1834 | ambient, cinematic | 2026/01 |
+| [The City Of Pyramids - Suite For Sleeping City](https://archive.org/download/enrmp544_the_city_of_pyramids_-_suite_for_sleeping_city/01_the_city_of_pyramids_-_suite_for_sleeping_city.mp3) @ 2025, Enough Records | ambient | 2026/01 |
+| [Bipolardepth - event one](https://motorlab.su/sites/default/files/release/ML053/preview/01-bipolardepth_-_event_one.mp3) @ 2013, Motorlab Records | electronica, deep house | 2026/01 |
+| [Bipolardepth - event two](https://motorlab.su/sites/default/files/release/ML053/preview/02-bipolardepth_-_event_two.mp3) @ 2013, Motorlab Records | electronica, deep house | 2026/01 |
+| [Häxa - Månen (MONOMORTE Remix)](https://archive.org/download/16-years-of-witch-house/43%20-%20H%C3%A4xa%20-%20M%C3%A5nen%20%28MONOMORTE%20Remix%29.mp3) @ 2025, Dawn of Darkness | darkwave | 2026/01 |
+| [Häxa - Månen](https://archive.org/download/16-years-of-witch-house/42%20-%20H%C3%A4xa%20-%20M%C3%A5nen.mp3) @ 2025, Dawn of Darkness | darkwave | 2026/01 |
 | [David Doiel - Resonance](https://archive.org/download/david-doiel-intersection-point/David%20Doiel%20-%20Intersection%20Point%20-%2009%20resonance.flac) @ 2012, Identical Records | melodic electronic | 2026/01 |
 | [David Doiel - Cantations Lured](https://archive.org/download/DavidDoiel-newHorizons_999/DavidDoiel-NewHorizons-02CantationsLured.mp3) @ 2008, Identical Records | electronic | 2026/01 |
 | [David Doiel - Waves](https://archive.org/download/david-doiel-soft-compartment/David%20Doiel%20-%20Soft%20Compartment%20-%2010%20Waves.flac) @ 2012, Identical Records | melodic electronic, idm | 2026/01 |
 | [FloatingMind - Le Pouvoir Femme](https://archive.org/download/monoKraK306_FloatingMind-6-stem_Altered/%28monoKraK306%29%20FloatingMind_Le_Pouvoir_Femme.flac) @ 2025, monoKraK | ambient techno | 2026/01 |
 | [FloatingMind - Fusion Robot](https://archive.org/download/monoKraK306_FloatingMind-6-stem_Altered/%28monoKraK306%29%20FloatingMind_Fusion_Robot.flac) @ 2025, monoKraK | ambient techno | 2026/01 |
+| [vekon - Teatime Foliage](https://archive.org/download/v-a-november-experimental-2025/03%20-%20vekon%20-%20Teatime%20Foliage.mp3) @ 2025, Dawn of Darkness | electronic | 2025/12 |
+| [Transient - damascus](https://archive.org/download/return_to_the_white_blazes-21913/transient_-_02_-_damascus.mp3) @ 2016, Noisy Vagabond | electronic, idm | 2025/12 |
+| [Transient - ismschism](https://archive.org/download/return_to_the_white_blazes-21913/transient_-_07_-_ismschism.mp3) @ 2016, Noisy Vagabond | electronic, idm | 2025/12 |
+| [Transient - Powerful Place](https://archive.org/download/transient-abide/transient%20-%20abide%20-%2004%20powerful%20place.mp3) @ 2021, Noisy Vagabond | electronic | 2025/12 |
+| [Sascha Müller - T8CiD a42](https://archive.org/download/p145-sascha-muller-t8cid-traxx-vol.22/%28P145%29%2002.%20Sascha%20M%C3%BCller%20-%20T8CiD%20a42_T8CID%20Traxx%20Vol.%2022.flac) @ 2025, Psychocandies | acid techno | 2025/12 |
+| [Tom Bragl - Synchronous Orbit](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi499k_tom_bragl-synchronous_orbit.ogg) @ 2025, Kahvi Collective | ambient | 2025/12 |
+| [Tom Bragl - Tidal Force](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi499j_tom_bragl-tidal_force.ogg) @ 2025, Kahvi Collective | idm, electronic | 2025/12 |
+| [Substak + LR Friberg - Like Thought Beneath Sleep](https://archive.org/download/mhrk468/Substak%20%2B%20LR%20Friberg%20-%20The%20White%20Between%20Words%20-%2002%20Like%20Thought%20Beneath%20Sleep.mp3) @ 2025, Mahorka | ambient, downtempo | 2025/12 |
+| [Stereokollektor - Euphoria](https://archive.org/download/enrmp555_stereokollektor_-_holly_graphic_sound_archives/03_stereokollektor_-_euphoria.mp3) @ 2025, Enough Records | bass, triphop, soul | 2025/12 |
+| [sevensy + Roberto Vodanović Čopor - fortification](https://archive.org/download/mhrk466/sevensy%20%2B%20Roberto%20Vodanovi%C4%87%20%C4%8Copor%20-%20refug3%20-%2009%20fortification.mp3) @ 2025, Mahorka | ambient, electroacoustic | 2025/12 |
+| [Pandacetamol - Below The Surface](https://archive.org/download/mhrk467/Pandacetamol%20-%20Below%20The%20Surface%20-%2011%20Below%20The%20Surface.mp3) @ 2025, Mahorka | downtempo, electronic | 2025/12 |
+| [Pandacetamol - Tumble](https://archive.org/download/mhrk467/Pandacetamol%20-%20Below%20The%20Surface%20-%2009%20Tumble.mp3) @ 2025, Mahorka | downtempo, electronic | 2025/12 |
+| [Neosintetico - Radio reggae music](https://archive.org/download/pn247/pn247_voz-energia_flac.zip/pn247_01_neosintetico_reggae-radio-music.flac) @ 2025, Pueblo Nuevo | triphop, reggae | 2025/12 |
+| [Dissolved - Alveolate Minds (Tokee Remix)](https://archive.org/download/mhrk469/Dissolved%20-%20Exposure%20Fields%20-%2010%20Alveolate%20Minds%20%28Tokee%20Remix%29.mp3) 2025, Mahorka | electronic, idm | 2025/12 |
+| [Dissolved - Azuline Receiving Structure](https://archive.org/download/mhrk469/Dissolved%20-%20Exposure%20Fields%20-%2004%20Azuline%20Receiving%20Structure.mp3) 2025, Mahorka | electronic, idm | 2025/12 |
+| [Everyday People - Girls](https://archive.org/download/lp_everyday-people_everyday-people/disc1/02.04.%20Girls.mp3) @ 1971, Paramount Records | soul rock | 2025/12 |
+| [Everyday People - Nova Scotia Home Blues](https://archive.org/download/lp_everyday-people_everyday-people/disc1/02.03.%20Nova%20Scotia%20Home%20Blues.mp3) @ 1971, Paramount Records | soul rock | 2025/12 |
+| [Everyday People - Everyday People](https://archive.org/download/lp_everyday-people_everyday-people/disc1/01.01.%20Everyday%20People.mp3) @ 1971, Paramount Records | soul rock | 2025/12 |
 | [krai - duskveil](https://archive.org/download/shadowcrawlerost/duskveil.mp3) @ 2025, krai music | soundscape, dark ambient | 2025/12 |
 | [Disco Romancin' - Starburstz (Demo)](https://archive.org/download/TDCDV003/11%20-%20Starburstz%20%28Demo%29.mp3) @ 2011, Get Some! Records | house | 2025/12 |
 | [Vetovoimaa - Hallucihate, Talman & Shatterling](https://archive.org/download/kovaweb20/kovaweb20-flac.zip/03%20-%20Hallucihate%2C%20Talman%20%26%20Shatterling%20-%20Vetovoimaa.flac) @ 2025, Kovaydin.NET | hardcore techno | 2025/12 |
@@ -137,10 +229,65 @@ Enjoy!
 | [Snowpixels – Unstable Black Hole Evolver](https://archive.org/download/kovaweb20/kovaweb20-flac.zip/16%20-%20Snowpixels%20-%20Unstable%20Black%20Hole%20Evolver.flac) @ 2025, Kovaydin.NET | hardcore techno | 2025/12 |
 | [Dsum & Morris - N283153 O813222](https://archive.org/download/MNF023_Dsum_Morris--Arium_FL/03_Dsum_Morris_-_N283153_O813222.mp3) @ 2017, Monofonicos | ambient techno | 2025/12 |
 | [Sacha Müller - T8CiD a22](https://archive.org/download/p135-sascha-muller-t8cid-traxx-vol.-11/%28P135%29%2002.%20Sascha%20M%C3%BCller%20-%20T8CiD%20a22_T8CID%20Traxx%20Vol.%2011.flac) @ 2025, Psychocandies | acid | 2025/12 |
+| [Wahn - Rashan's Wake](https://archive.org/download/mhrk439/Wahn%20-%20Black%20Sea%20-%2001%20Rashan%27s%20Wake.mp3) @ 2025, Mahorka | dark ambient | 2025/11 |
+| [Succulent Succubus - Ligeti And Gira Floating In A Pool Filled With Soy Milk](https://archive.org/download/mhrk400c/15%20SUCCULENT%20SUCCUBUS%20-%20Ligeti%20And%20Gira%20Floating%20In%20A%20Pool%20Filled%20With%20Soy%20Milk.mp3) @ 2025, Mahorka | ambient | 2025/11 |
+| [Chris DeBry - One Big Movement](https://archive.org/download/mhrk400c/09%20Chris%20DeBry%20-%20One%20Big%20Movement.mp3) @ 2025, Mahorka | electronica | 2025/11 |
+| [Pariah - The Helix](https://archive.org/download/mhrk400c/10%20Pariah%20-%20The%20Helix.mp3) @ 2025, Mahorka | electronica | 2025/11 |
+| [Marie Wilhelmine Anders - Fire (Illuvia Inversion)](http://www.broque.de/Music/brq158_marie_wilhelmine_anders_-_fire_remixes/brq158_03_marie_wilhelmine_anders_-_fire_illuvia_inversion.mp3) @ 2025, Broque | triphop | 2025/11 |
+| [Marie Wilhelmine Anders - Fire (Art Cuebik Remix)](http://www.broque.de/Music/brq158_marie_wilhelmine_anders_-_fire_remixes/brq158_02_marie_wilhelmine_anders_-_fire_art_cuebik_remix.mp3) @ 2025, Broque | drum and bass | 2025/11 |
+| [Marie Wilhelmine Anders - Fire (2024 Original Mix)](http://www.broque.de/Music/brq158_marie_wilhelmine_anders_-_fire_remixes/brq158_01_marie_wilhelmine_anders_-_fire_2024_original_mix.mp3) @ 2025, Broque | electronic | 2025/11 |
+| [Lucasle - Time Between](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi498a_lucasle-time_between.ogg) @ 2025, Kahvi Collective | melodic electronic | 2025/11 |
+| [Jari Pitkänen - Sirin](https://archive.org/download/enrmp305_jari_pitkanen_-_sirin/01_jari_pitkanen_-_sirin.mp3) @ 2012, Enough Records | ambient, drone | 2025/11 |
+| [Seazo - Black Moon](https://archive.org/download/enrmp351_seazo_-_a_tribute_to_cosmos/05_seazo_-_black_moon.mp3) @ 2014, Enough Records | electronic, idm | 2025/11 |
+| [Seazo - Flush](https://archive.org/download/enrmp351_seazo_-_a_tribute_to_cosmos/03_seazo_-_flush.mp3) @ 2014, Enough Records | electronic, idm | 2025/11 |
+| [Seazo - Synthetic Triangulum](https://archive.org/download/enrmp351_seazo_-_a_tribute_to_cosmos/02_seazo_-_synthetic_triangulum.mp3) @ 2014, Enough Records | electronic, idm, glitch | 2025/11 |
+| [Patrick Walker- bat country pipe band - live](https://archive.org/download/AVXLive004/walker_bat_country_live.mp3) @ 2006, Avionix | techno, mixtape | 2025/11 |
 | [The Easton Ellises - Ersatz (D Xela & Nomis Yor Summer Mix Radio Edit)](https://archive.org/download/enrmp283_the_easton_ellises_-_ersatz/02_the_easton_ellises_-_ersatz__d_xela___nomis_yor_summer_mix_radio_edit_.mp3) @ 2011, Enough Records | electro house | 2025/11 |
 | [The Easton Ellises - Ersatz](https://archive.org/download/enrmp283_the_easton_ellises_-_ersatz/01_the_easton_ellises_-_ersatz.mp3) @ 2011, Enough Records | alternative rock | 2025/11 |
 | [Bunshi - Dance Practice](https://archive.org/download/slc85.bunshi-dance_practice/1.Bunshi-Dance_Practice-Dance_Practice-Soisloscerdos_SLC85.flac) @ 2025, Soisloscerdos | progressive trance | 2025/11 |
 | [Bunshi - Moving Body To The Music](https://archive.org/download/slc85.bunshi-dance_practice/2.Bunshi-Moving_Body_To_The_Music-Dance_Practice-Soisloscerdos_SLC85.flac) @ 2025, Soisloscerdos | progressive techno | 2025/11 |
+| [苦い寒さ - 寒さの中で死ぬ](https://archive.org/download/BFTG_261/01%20%E5%AF%92%E3%81%95%E3%81%AE%E4%B8%AD%E3%81%A7%E6%AD%BB%E3%81%AC.flac) @ 2025, Bayview Financial Trading Group | drone ambient | 2025/10 |
+| [Weldroid - Space](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi497a_weldroid-space.ogg) @ 2025, Kahvi Collective | electronic | 2025/10 |
+| [Weldroid - Mountaintop](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi497b_weldroid-mountaintop.ogg) @ 2025, Kahvi Collective | electronic | 2025/10 |
+| [Weldroid - Castle](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi497c_weldroid-castle.ogg) @ 2025, Kahvi Collective | electronic | 2025/10 |
+| [Weldroid - Desert](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi497d_weldroid-desert.ogg) @ 2025, Kahvi Collective | electronic, downtempo | 2025/10 |
+| [Toni Dimitrov + Dionisaf - Orthodoxy](https://archive.org/download/mhrk455/Toni%20Dimitrov%20%2B%20Dionisaf%20-%20Pastoral%20-%2002%20Orthodoxy.mp3) @ 2025, Mahorka | ambient, soundscape | 2025/10 |
+| [Radical Elsewhere - Holloway 1992](https://archive.org/download/enrmp523_radical_elsewhere_-_places__for_those_that_know/02_radical_elsewhere_-_holloway_1992.mp3) @ 2023, Enough Records | electronic, idm, ambient | 2025/10 |
+| [Pudova - Deep Inside (Taavi Remix)](https://archive.org/download/digital-diamonds-111/%5BDigitalDiamonds111%5D_B1_Pudova_-_Deep_Inside_%28Taavi_Remix%29.mp3) @ 2025, Digital Diamonds | pprogressive trance | 2025/10 |
+| [ps vs Megatone - Merging the Light Fields](https://archive.org/download/enrmp419_ps_vs_megatone_-_merging_the_light_fields/01_ps_vs_megatone_-_merging_the_light_fields.mp3) @ 2018, Enough Records | electronic, mashup | 2025/10 |
+| [Pizzabox - Whistlin' Whisp](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/23%20-%20Whistlin%27%20Whisp.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
+| [Pizzabox - Spooh Keys](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/21%20-%20Spooh%20Keys.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
+| [Pizzabox - Itchee Tastee](hhttps://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/14%20-%20Itchee%20Tastee.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
+| [Pizzabox - Frutegrabb](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/09%20-%20Frutegrabb.mp3) @ 2022, Dawn of Darkness | electronic, idm | 2025/10 |
+| [Pizzabox - Call for Help (Squint)](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/05%20-%20Call%20for%20Help%20%28Squint%29.mp3) @ 2022, Dawn of Darkness | electronic, 8-bit | 2025/10 |
+| [R\$kp - Vemork 6](https://archive.org/download/mhrk456/R%24kp%20-%20L%E2%80%99EAU%20LOURDE%20-%20Vemork%20-%20Mazingarbe%20-%2006%20Vemork%206.mp3) @ 2025, Mahoka | electronic, ambient | 2025/10 |
+| [R\$kp - Vemork 4](https://archive.org/download/mhrk456/R%24kp%20-%20L%E2%80%99EAU%20LOURDE%20-%20Vemork%20-%20Mazingarbe%20-%2004%20Vemork%204.mp3) @ 2025, Mahoka | melodic electronic | 2025/10 |
+| [R\$kp - Mazingarbe 5](https://archive.org/download/mhrk456/R%24kp%20-%20L%E2%80%99EAU%20LOURDE%20-%20Vemork%20-%20Mazingarbe%20-%2012%20Mazingarbe%205.mp3) @ 2025, Mahoka | electronic | 2025/10 |
+| [P.T.B.S. & Sascha Müller - Waveshaper](https://archive.org/download/dfs036-p.t.b.s.-sascha-muller-content-waveshaper/%28DFS036%29%2002.%20P.T.B.S.%20%26%20Sascha%20M%C3%BCller%20-%20Waveshaper_Content%20Waveshaper.flac) @ 2025, Dancefloor Socialism | progressive techno | 2025/10 |
+| [Nonima + Abdicant - Vapor Frame](https://archive.org/download/mhrk464/Nonima%20%2B%20Abdicant%20-%20Phase%20Memory%20-%2007%20VAPOR%20FRAME.mp3) @ 2025, Mahorka | downtempo | 2025/10 |
+| [North Hive - Cascade](https://archive.org/download/gv289/NorthHive-2014CeraAlbaflac.zip/03.%20North%20hive%20-%20Cascade.flac) @ 2014, GV Sound | ambient, soundscape, downtempo | 2025/10 |
+| [Seazo - Instant Twisted Preception](https://archive.org/download/enrmp351_seazo_-_a_tribute_to_cosmos/01_seazo_-_instant_twisted_preception.mp3) @ 2014, Enough Records | electronic, idm, glitch | 2025/10 |
+| [Seazo - Binarium](https://archive.org/download/enrmp351_seazo_-_a_tribute_to_cosmos/07_seazo_-_binarium.mp3) @ 2014, Enough Records | electronic, idm, glitch | 2025/10 |
+| [The Easton Ellises - Dance it, Dance all (Funkt Remix)](https://archive.org/download/enrmp311_the_easton_ellises_-_dance_it__dance_all/11_the_easton_ellises_-_dance_it__dance_all__funkt_remix_.mp3) @ 2012, Enough Records | dubstep | 2025/10 |
+| [The Easton Ellises - Dance it, Dance all (Mattanoll Remix)](https://archive.org/download/enrmp311_the_easton_ellises_-_dance_it__dance_all/12_the_easton_ellises_-_dance_it__dance_all__mattanoll_remix_.mp3) @ 2012, Enough Records | electrowave | 2025/10 |
+| [FloatingMind - Un Voyage Nommé Psyché](https://archive.org/download/mono-kra-k-307-FloatingMind_Elipse_01/%28monoKraK307%29%20Floating%20Mind%20%22Un%20Voyage%20Nomme%CC%81%20Psyche%CC%81%22.flac) @ 2025, monoKraK | ambient techno | 2025/10 |
+| [FloatingMind - Un Voyage Nommé Psyché](https://archive.org/download/mono-kra-k-307-FloatingMind_Elipse_01/%28monoKraK307%29%20Floating%20Mind%20%22Un%20Voyage%20Nomme%CC%81%20Psyche%CC%81%22.flac) @ 2025, monoKraK | ambient techno | 2025/10 |
+| [FloatingMind - Paloma Trees](https://archive.org/download/mono-kra-k-307-FloatingMind_Elipse_01/%28monoKraK307%29%20Floating%20Mind%20%22Paloma%20Trees%22.flac) @ 2025, monoKraK | ambient techno | 2025/10 |
+| [Fascinating Earthbound Objects - Don't Panic](https://archive.org/download/dont_panic_FEO/fascinating_earthbound_objects-40-don_t_panic.mp3) @ 2020, Noisy Vagabond | electronic, trance | 2025/10 |
+| [Fascinating Earthbound Objects - Chicadee](https://archive.org/download/dont_panic_FEO/fascinating_earthbound_objects-17-chicadee.mp3) @ 2020, Noisy Vagabond | electronic, trance | 2025/10 |
+| [Fascinating Earthbound Objects - Calmsoul](https://archive.org/download/dont_panic_FEO/fascinating_earthbound_objects-11-calmsoul.mp3) @ 2020, Noisy Vagabond | electronic | 2025/10 |
+| [Fascinating Earthbound Objects - Brutes](https://archive.org/download/dont_panic_FEO/fascinating_earthbound_objects-15-brutes.mp3) @ 2020, Noisy Vagabond | electronic | 2025/10 |
+| [Duncan Avoid - Zandzeepsodemineraalwatersteenstralen](https://archive.org/download/enrcmp02_-_retork/06_duncan_avoid_-_zandzeepsodemineraalwatersteenstralen.mp3) @ 2003, Enough Records | electronic, idm | 2025/10 |
+| [Dissociative Identity Quartet - Melodies and voices](https://archive.org/download/mhrk460/Dissociative%20Identity%20Quartet%20-%20Melodies%20and%20Voices%20-%2010%20Melodies%20and%20voices.mp3) @ 2025, Mahorka | electronic, ambient | 2025/10 |
+| [Dissociative Identity Quartet - Actions speak louder than words](https://archive.org/download/mhrk460/Dissociative%20Identity%20Quartet%20-%20Melodies%20and%20Voices%20-%2007%20Actions%20speak%20louder%20than%20words.mp3) @ 2025, Mahorka | electronic, ambient | 2025/10 |
+| [Demonic Sweaters - Ableton Live and Akai MPD performance](https://archive.org/download/stream-visuals-2021/Ableton%20Live%20and%20Akai%20MPD%20performance%20-%20Demonic%20Sweaters.mp4) @ 2021, Anthill Recordings | triphop | 2025/10 |
+| [Brainquake + Grosso Gadgetto - Gamma Rays](https://archive.org/download/mhrk459/Brainquake%20%2B%20Grosso%20Gadgetto%20-%20Dehumanize%20the%20World%20-%2003%20Gamma%20Rays.mp3) @ 2025, Mahorka | electronic | 2025/10 |
+| [Brainquake + Grosso Gadgetto - Bytes & Pieces](https://archive.org/download/mhrk459/Brainquake%20%2B%20Grosso%20Gadgetto%20-%20Dehumanize%20the%20World%20-%2005%20Bytes%20%26%20Pieces.mp3) @ 2025, Mahorka | electronic | 2025/10 |
+| [Fascinating Earthbound Objects - Quest](https://archive.org/download/FEO-Singularity/Fascinating_Earthbound_Objects-Quest.mp3) @ 2025, Noisy Vagabond | electronic | 2025/10 |
+| [Fascinating Earthbound Objects - Flood](https://archive.org/download/FEO-Singularity/Fascinating_Earthbound_Objects-Flood.mp3) @ 2025, Noisy Vagabond | electronic | 2025/10 |
+| [Fascinating Earthbound Objects - Good Function](https://archive.org/download/In_Mind/fascinating_earthbound_objects-02-good_function.mp3) @ 2023, Noisy Vagabond | electronic | 2025/10 |
+| [Roberto Massoni - Buen Trabajo Buen Policia](https://archive.org/download/xio_20251019/06_BuenTrabajoBuenPolicia.mp3) @ 2022, Hueco Negro | electronic, idm | 2025/10 |
+| [kilowatts feat synesthesia - reflective deceptor](https://archive.org/download/enrcmp02_-_retork/03_kilowatts_feat_synesthesia_-_reflective_deceptor.mp3) @ 2003, Enough Records | electronic, triphop | 2025/10 |
 | [Alexander Blu - Jan Song](https://archive.org/download/jamendo-000718/05.mp3) @ 2005, The Jamendo Albums Collection | electronic | 2025/10 |
 | [4T Thieves - Ports of Call](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/06_4t_thieves_-_ports_of_call.mp3) @ 2025, Enough Records | electronic, 8-bit | 2025/10 |
 | [4T Thieves - Superglider](hhttps://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/07_4t_thieves_-_superglider.mp3) @ 2025, Enough Records | electronic, 8-bit | 2025/10 |
@@ -164,6 +311,11 @@ Enjoy!
 | [FloatingMind - Miel Pop](https://archive.org/download/monoKraK305_FloatingMind-Magenta/%28monoKraK305%29%20FloatingMind_Miel_Pop.flac) @ 2025, monoKraK | ambient techno | 2025/10 |
 | [Dominik Vogel - 21st century witchhunt](https://archive.org/download/phokes154/phokes154-_-Dominik_Vogel-_-_how_to_avoid_common_mistakes-flac.zip/%5Bphokes154%5D%20Dominik%20Vogel%20-%20%28how%20to%20avoid%29%20common%20mistakes%20in%20your%20divine%20creation%20%28flac%29%2Fphokes154-_-08-_-Dominik_Vogel-_-21st_century_witchhunt.flac) @ 2025, Phonocake | techno | 2025/10 |
 | [Dominik Vogel - that door was not there before](https://archive.org/download/phokes154/phokes154-_-Dominik_Vogel-_-_how_to_avoid_common_mistakes-flac.zip/%5Bphokes154%5D%20Dominik%20Vogel%20-%20%28how%20to%20avoid%29%20common%20mistakes%20in%20your%20divine%20creation%20%28flac%29%2Fphokes154-_-02-_-Dominik_Vogel-_-that_door_was_not_there_before.flac) @ 2025, Phonocake | techno | 2025/10 |
+| [Sascha Müller - Dr. NoiseM MOD Showcase](https://archive.org/download/dr.-noisem-dr.-noisem-rb-338-mod/02.%20Sascha%20M%C3%BCller%20-%20Dr.%20NoiseM%20MOD%20Showcase_Dr.%20NoiseM%20RB-338%20MOD.flac) @ 2025, Dr. NoiseM Tapes | acid techno | 2025/09 |
+| [Juan Rodriguez - Forhouse](https://archive.org/download/MNF052_Juan_Rodriguez--Forhouse_EP/03_Juan_Rodriguez_-_Forhouse.mp3) @ 2025, Monofónicos | progressive house | 2025/09 |
+| [Grain of Sand - Korreltje Zand (featuring Genie Dee)](https://archive.org/download/nws391/08GrainOfSand-KorreltjeZand.mp3) @ 2016, Soundsphere | downtempo | 2025/09 |
+| [Captive Portal - They Went Shopping](https://archive.org/download/CaptivePortal-TheyWentShopping/Captive%20Portal%20-%20They%20Went%20Shopping%20%28Single%29%20-%2001%20They%20Went%20Shopping.flac) 2016, Petroglyph Music | electronic | 2025/09 |
+| [Cognition Delay - None Too Intrepid](https://archive.org/download/mhrk454/Cognition%20Delay%20-%20Dazzled%20By%20The%20Dark%20-%2003%20None%20Too%20Intrepid.mp3) @ 2025, Mahorka | ambient | 2025/09 |
 | [xols - chispi](http://www.broque.de/Music/brq156_xols_-_sharp_and_chispi_ep/brq156_xols_-_02_chispi.mp3) @ 2025, Broque | vocal house | 2025/09 |
 | [Insatiable Void - Planet Skipping](https://archive.org/download/variis-sonis-album/12%20-%20Planet%20Skipping.mp3) @ 2024, Dawn of Darkness | electro house, electronic | 2025/09 |
 | [Flores Salvajes - De Dolor y Olvido](https://archive.org/download/NXL144/NXL144_Quemaduras_FLAC.zip/Quemaduras%20FLAC%2F07%20De%20dolor%20y%20olvido.flac) @ 2025, Nacion Libre Records | punk rock | 2025/09 |
@@ -289,6 +441,8 @@ Enjoy!
 | [Wahn - The Black Tide](https://archive.org/download/mhrk439/Wahn%20-%20Black%20Sea%20-%2004%20The%20Black%20Tide.mp3) @ 2025, Mahorka | downtempo | 2025/08 |
 | [Wahn - Abyssal Oaths](https://archive.org/download/mhrk439/Wahn%20-%20Black%20Sea%20-%2003%20Abyssal%20Oaths.mp3) @ 2025, Mahorka | downtempo | 2025/08 |
 | [user78654786842 - 3am](https://archive.org/download/user068-user78654786842-over-ep/%28USER068%29%2002.%20user78654786842%20-%203am_Over%20EP.flac) @ 2025, USER Records | hard techno, rave | 2025/08 |
+| [Insatiable Void - From The Depths We Rise](https://archive.org/download/variis-sonis-album/19%20-%20From%20The%20Depths%20We%20Rise.mp3) @ 2024, Dawn of Darkness | aggrotech, gothic | 2025/07 |
+| [Cloudwarmer - The Quiet Haunt That Follows You](https://archive.org/download/nws.bpm0197/04%20The%20Quiet%20Haunt%20That%20Follows%20You.mp3) @ 2023, Netwaves | dub | 2025/07 |
 | [Kesson Shoujo - June](https://archive.org/download/enrmp166_kesson_shoujo_-_childhood_in_housing_complex/08_kesson_shoujo_-_june.mp3) @ 2008, Enough Records | electronic, ambient | 2025/07 |
 | [Christophe Bailleau O'Farrell - ... .....](https://archive.org/download/mhrk445/Christophe%20Bailleau%20O%27Farrell%20-%20Locust%20bean%20gum%20-%2001%20...%20......mp3) @ 2025, Mahorka | electroacoustic | 2025/07 |
 | [Singularity Observatory - Blue Cloud Number Nine](https://archive.org/download/enrmp545_singularity_observatory_-_aeon_thunders/03_singularity_observatory_-_blue_cloud_number_nine.mp3) @ 2025, Enough Records | melodic electronic | 2025/07 |
@@ -302,6 +456,8 @@ Enjoy!
 | [Singularity Observatory feat. Yvelle - To Be Free](https://archive.org/download/enrmp548_singularity_observatory_-_the_infinite_improbability/07_singularity_observatory_-_to_be_free__with_yvelle_.mp3) @ 2025, Enough Records | electro techno, industrial | 2025/07 |
 | [Grosso Gadgetto + Tokee - Just passing through](https://archive.org/download/mhrk452/32%20Grosso%20Gadgetto%20%2B%20Tokee%20-%20Just%20passing%20through.mp3) @ 2025, Mahorka | electronic | 2025/07 |
 | [Fallen + Philippe Blache - Supplique au Vent](https://archive.org/download/mhrk452/35%20Fallen%20%2B%20Philippe%20Blache%20-%20Supplique%20au%20Vent.mp3) @ 2025, Mahorka | downtempo | 2025/07 |
+| [Weldroid - Painted City](https://archive.org/download/mhrk438/Weldroid%20-%20Painted%20City%20-%2001%20Painted%20City.mp3) @ 2025, Mahorka | industrial, acid | 2025/06 |
+| [Galeria Disco - Memorias (MALA Remix)](https://archive.org/download/MNF015_Galeria_Disco--Memorias_EP/03_Galeria_Disco_-_Memorias_MALA_Remix.mp3) @ 2014, Monofónicos | minimal techno | 2025/06 |
 | [Sir Leaks - Espejismo](https://archive.org/download/MNS006_VA--Colores_Paralelos/06_Sir_Leaks_-_Espejismo.mp3) @ 2016, Monofónicos | deep house | 2025/06 |
 | [db-Maui - this feeling (late night remix)](http://www.broque.de/Music/brq155_db-maui_-_from_pm_to_am/brq155_db-maui_-_from_pm_to_am_-_02_this_feeling_late_night_remix.mp3) @ 2025, Broque | progessive trance | 2025/06 |
 | [Marwood Williams - In the Parking Lot](https://archive.org/download/bark-at-the-moon/In%20the%20Parking%20Lot.mp3) @ 2022, Inkster Recordings | folk, alternative country | 2025/06 |
@@ -391,7 +547,7 @@ Enjoy!
 | [The Ścisław Dercz Experience - Perestroika In Reverse - Parts I-IV](https://archive.org/download/IP-017/IP-017-01-Parts%20I-IV.mp3) @ 2023, 1834 | electronica, soundscape | 2025/03 |
 | [Yukiga Futte Uresii - 彼の者](https://archive.org/download/SihukuII/01_Kano_Mono.flac) @ 2024, OL Oil | ambient, soundscape | 2025/03 |
 | [Yukiga Futte Uresii - 流域](https://archive.org/download/SihukuII/02_Ryuuiki.flac) @ 2024, OL Oil | ambient, soundscape | 2025/03 |
-| [Hezzel - De Puta Padre](https://archive.org/download/enrmp295_hezzel_-_perspective/16_hezzel_-_de_puta_padre.mp3) @ 2012, Enough Records | idustrial, breakcore | 2025/03 |
+| [Hezzel - De Puta Padre](https://archive.org/download/enrmp295_hezzel_-_perspective/16_hezzel_-_de_puta_padre.mp3) @ 2012, Enough Records | industrial, breakcore | 2025/03 |
 | [Hezzel - Handle Not Cure](https://archive.org/download/enrmp295_hezzel_-_perspective/14_hezzel_-_handle_not_cure.mp3) @ 2012, Enough Records | drum'n'bass | 2025/03 |
 | [Disorder of the Sleep - Property](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/04_disorder_of_the_sleep_-_property.mp3) @ 2025, Enough Records | electronic, downtempo | 2025/03 |
 | [Disorder of the Sleep - Ash In the Morning](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/02_disorder_of_the_sleep_-_ash_in_the_morning.mp3) @ 2025, Enough Records | electronic, downtempo | 2025/03 |
@@ -1768,8 +1924,15 @@ Enjoy!
 | [ViViTA - A Hex](https://archive.org/download/Roots0046/01-AHex.mp3) @ 2016, Death Roots Syndicate | alternative country | 2019/09 |
 | [The Dry Mouths - Impromental VII: Moustachette](https://archive.org/download/nws464/06%20Impromental%20VII_%20Moustachette.mp3) @ 2019, [Monasterido de Cultura](https://monasteriodecultura.com/) | psychedelic rock | 2019/09 |
 | [Mu Tiny - Ambient Abandonment](https://archive.org/download/mu-tiny-ep/03%20-%20AMBIENT%20ABANDONMENT.flac) @ 2019, Cian Orbe | acid techno, rave | 2019/09 |
+| [Flamingods - Quesso](https://archive.org/download/PleaseComeIn.myrdalCompilation/Myrdal-PleaseComeIn.2012mycp001.zip/02%20Quesso.mp3) @ 2012, MYRDAL | alternative pop | 2019/07 |
+| [Elandh - Arenas movedizas](https://archive.org/download/PleaseComeIn.myrdalCompilation/Myrdal-PleaseComeIn.2012mycp001.zip/03%20Arenas%20movedizas.mp3) @ 2012, MYRDAL | electro pop | 2019/07 |
+| [Twin Cabins - If you could](https://archive.org/download/PleaseComeIn.myrdalCompilation/Myrdal-PleaseComeIn.2012mycp001.zip/09%20If%20you%20could.mp3) @ 2012, MYRDAL | electro pop | 2019/07 |
+| [Uvilov - ¿Y si me visto de mujer?](https://archive.org/download/PleaseComeIn.myrdalCompilation/Myrdal-PleaseComeIn.2012mycp001.zip/10%20%C2%BFY%20si%20me%20visto%20de%20mujer_.mp3) @ 2012, MYRDAL | alternative rock | 2019/07 |
+| [Little Ethiopia - Hurt](https://archive.org/download/PleaseComeIn.myrdalCompilation/Myrdal-PleaseComeIn.2012mycp001.zip/15%20Hurt.mp3) @ 2012, MYRDAL | alternative rock | 2019/07 |
 | [Himalayha - Tão Perto, Tão Longe...](https://archive.org/download/enrmp438_himalayha_-_ii/05_himalayha_-_tao_perto__tao_longe___.mp3) @ 2019, Enough Records | ambient, cinematic | 2019/07 |
 | [Autorotation - Swamped (Original Version)](https://archive.org/download/global-electronic-experimental/01%20-%20Autorotation%20-%20Swamped%20%28original%20version%29.wav) @ 2019, Cian Orbe / Internet Daemon | synthpop, darkwave | 2019/07 |
+| [Faserklang - Motivation](https://archive.org/download/CYAN094/%5BCYAN%20094%5D%20Faserklang%20-%20Dubmosphere%20%28FLAC%29.zip/%5BCYAN%20094%5D%20Faserklang%20-%20Dubmosphere%20%28FLAC%29%2FFaserklang%20-%20Dubmospheric.flac) @ 2019, CYAN | dub techno, ambient techno | 2019/06 |
+| [tsone - The Militant Upcycle](https://archive.org/download/ET-009/ET-009-01-The%20Militant%20Upcycle.mp3) @ 2017, 1834 | ambient | 2019/06 |
 | [EMBA Soundsystem - Lucifer Church](https://archive.org/download/v-a-dark-ambient-conjure-ii/11%20-%20EMBA%20Soundsystem%20-%20Lucifer%20Church.flac) @ 2019, Cian Orbe / Internet Daemon | dark ambient | 2019/06 |
 | [Halo Svevo - Erster Buchstabe des Alphabets](https://archive.org/download/ET-020/ET-020-04-A%20-%20Erster%20Buchstabe%20des%20Alphabets.mp3) @ 2018, 1834 | ambient, cinematic | 2019/06 |
 | [I Can Chase Dragons - Escoge tu animal](https://archive.org/download/mycp001/04%20Escoge%20tu%20animal.mp3) @ 2012, MYRDAL | latin house, electro | 2019/06 |
@@ -1942,6 +2105,7 @@ Enjoy!
 | [Dreams Beat - ...Taliy](https://archive.org/download/45e-072-2018DreamsBeat/12dreamsBeat_-_taliy.mp3) @ 2018, 45 Echoes Sounds | electronica, newage | 2019/01 |
 | [Natural Life Essence - Tree Transportation Dream (Part II)](https://archive.org/download/NaturalLifeEssencePlantsAndTrees/Tree%20transportation%20dream%20%28Part%20II%29.mp3) @ 2018, CYAN | downtempo, chillout | 2018/11 |
 | [Natural Life Essence - Roots and minerals (Part II)](https://archive.org/download/NaturalLifeEssencePlantsAndTrees/Roots%20and%20minerals%20%28Part%20II%29.mp3) @ 2018, CYAN | downtempo, chillout | 2018/11 |
+| [Milky Chance - Down By The River](https://archive.org/download/sadnecessary-mc/08.%20Milky%20Chance%20-%20Down%20By%20The%20River.flac) @ 2013, Community Audio | alternative pop, folktronic | 2018/09 |
 | [4bstr4ck3r - World Hop](https://files.freemusicarchive.org/storage-freemusicarchive-org/music/Ziklibrenbib/4bstr4ck3r/4bstr4ck3r/4bstr4ck3r_-_02_-_World_hop.mp3) @ 2018, FMA | world, triphop | 2018/08 |
 | [Sevensy - Tunnel of light](https://archive.org/download/mhrk197/Sevensy%20-%20Finally%20Infinite%20-%2003%20Tunnel%20of%20light.mp3) @ 2018, Mahorka | ambient | 2018/07 |
 | [Dsum - Tension](https://archive.org/download/MNF027_Dsum--Intimate/02_Dsum_-_Tension.mp3) @ 2018, Monofonicos | dub techno | 2018/07 |
@@ -1987,6 +2151,7 @@ Enjoy!
 | [Gabriel Vitel - Quite Some Time](https://archive.org/download/GabrielVitelNewNewWorld/GabrielVitel-QuiteSomeTime.mp3) @ 2017, Broque | tech house | 2017/07 |
 | [Alec Troniq & Gabriel Vitel, Dortmunder Philharmoniker - Old Tortures (Feat. Dortmunder Philharmoniker)](https://archive.org/download/GabrielVitelNewNewWorld/AlecTroniqGabrielVitelDortmunderPhilharmoniker-OldTorturesfeat.DortmunderPhilharmoniker.mp3) @ 2017, Broque | vocal house, neoclassic, live | 2017/07 |
 | [Radiomaniac - Knock](https://archive.org/download/mz016_Radiomaniac/01_Knock.mp3) @ 2017, [Mizou](https://archive.org/details/mizou) | psychedelic rock | 2017/06 |
+| [Darius (aka Mist) - The Expulsion Of The Spirit Of Mechanical Dolls](https://archive.org/download/monoKraKpodcast25DariusakaMistTheExpulsionOfTheSpiritOfMechanicalDolls/%28monoKraKpodcast25%29%20Darius%20%28aka%20Mist%29_The_Expulsion_Of_The_Spirit_Of_Mechanical_Dolls%20.mp3) @ 2017, monoKraK | minimal techno | 2017/05 |
 | [Saluberrimae - Trapped Inside](https://archive.org/download/ektoplazm-flac/Saluberrimae%20-%20Time%20Is%20A%20Flat%20Circle%20-%202017%20-%20FLAC.zip/01%20-%20Saluberrimae%20-%20Trapped%20Inside.flac) @ 2017, Ae Records & Neogoa | asia dub, psydub | 2017/05 |
 | [Tusk Mite - Splinter Children](https://archive.org/download/kovaweb13/kovaweb13-flac.zip/06%20-%20Tusk%20Mite%20-%20Splinter%20Children.flac) @ 2017, Kovaydin.NET | breakcore, hardcore techno | 2017/05 |
 | [Radiomaniac - Leaving](https://archive.org/download/mz016_Radiomaniac/03_Leaving.mp3) @ 2017, Mizou | psychedelic rock | 2017/05 |
@@ -2189,15 +2354,15 @@ Enjoy!
 | [Hypp Fractal - Sleepless (Tony Deus Remix)](https://archive.org/download/MNMN340/08.%20Sleepless%20%28Tony%20Deus%20remix%29.flac) @ 2015, Monumental Netlabel | electronic, idm | 2015/11 |
 | [Dr.GROOVER - Invisible Voices](https://archive.org/download/Dr.GROOVERTheoryOfSpace/09.%20Invisible%20voices.mp3) @ 2015, [o2label](https://o2label.ru/) | electronica, newage | 2015/11 |
 | [U.M.M. - Estúpido Dub (Outro)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/15_umm_-_estupido_dub__outro_.mp3) @ 2015, Enough Records | dub | 2015/10 |
-| [U.M.M. - O Mineiro (Volframio Mix)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/14_umm_-_o_mineiro__volframio_mix_.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
-| [U.M.M. - O Mineiro (Der Nomader Mix By Technomader)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/13_umm_-_o_mineiro__der_nomader_mix_by_technomader_.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
-| [U.M.M. - O Mineiro (A.D.A.C. 8286 Remix)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/12_umm_-_o_mineiro__a_d_a_c__8286_remix_.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
+| [U.M.M. - O Mineiro (Volframio Mix)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/14_umm_-_o_mineiro__volframio_mix_.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
+| [U.M.M. - O Mineiro (Der Nomader Mix By Technomader)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/13_umm_-_o_mineiro__der_nomader_mix_by_technomader_.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
+| [U.M.M. - O Mineiro (A.D.A.C. 8286 Remix)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/12_umm_-_o_mineiro__a_d_a_c__8286_remix_.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
 | [U.M.M. - Democracia (Prá Frentex Mix)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/10_umm_-_democracia__pra_frentex_mix_.mp3) @ 2015, Enough Records | ebm, future pop | 2015/10 |
-| [U.M.M. - Poligamia (2015 EQ)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/06_umm_-_poligamia__2015_eq_.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
-| [U.M.M. - Macho Alfa](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/05_umm_-_macho_alfa.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
-| [U.M.M. - Comando Ninja (Pila Dura Version)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/04_umm_-_comando_ninja__pila_dura_version_.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
-| [U.M.M. - Democracia](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/03_umm_-_democracia.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
-| [U.M.M. - Estúpido](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/02_umm_-_estupido.mp3) @ 2015, Enough Records | ebm, idustrial | 2015/10 |
+| [U.M.M. - Poligamia (2015 EQ)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/06_umm_-_poligamia__2015_eq_.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
+| [U.M.M. - Macho Alfa](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/05_umm_-_macho_alfa.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
+| [U.M.M. - Comando Ninja (Pila Dura Version)](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/04_umm_-_comando_ninja__pila_dura_version_.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
+| [U.M.M. - Democracia](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/03_umm_-_democracia.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
+| [U.M.M. - Estúpido](https://archive.org/download/enrmp371_umm_-_estupidez_e_p_/02_umm_-_estupido.mp3) @ 2015, Enough Records | ebm, industrial | 2015/10 |
 | [Prismático - Al Revés](https://archive.org/download/PrismaticoEP/03%20Al%20Reves.mp3) @ 2015, Aullidos Records | alternative rock | 2015/10 |
 | [Mexican Stepper - Run and Tell (Injham Remix)](https://archive.org/download/DPH020/03_Run_and_Tell_remix_-_Injham.mp3) @ 2015, Dubophonic Records | reggae, dub | 2015/10 |
 | [LuKrautman - Kurze Schlange Von Marakesh](https://archive.org/download/LuKrautman-MusikFuerSchwacheGeraete/13%20Kurze%20Schlange%20Von%20Marakesh.mp3) @ 2015, Tipsypoodl | electronic | 2015/10 |
@@ -2357,6 +2522,9 @@ Enjoy!
 | [Memories Of The Surface - Environment I: Daydream](https://archive.org/download/foot201/foot201_01-memories_of_the_surface-environment_i-_daydream.mp3) @ 2012, Bump Foot | ambient | 2013/02 |
 | [Stratosonics - Dont You Just Know It](https://archive.org/download/FW100-4_Stratosonics/FW100-4-12_DontYouJustKnowIt.flac) @ 2012, Fwonk | garage rock, punk rock | 2013/02 |
 | [Geolm - Floora (House Remix)](https://archive.org/download/wave012/wave012.4_Geolm_-_Floora_house_remix.mp3) @ 2012, Wavelike | deep house | 2013/02 |
+| [The Easton Ellises - Dance it, Dance all (Kidnas & Asai Remix)](https://archive.org/download/enrmp311_the_easton_ellises_-_dance_it__dance_all/09_the_easton_ellises_-_dance_it__dance_all__kidnas_and_asai_remix_.mp3) @ 2012, Enough Records | electro house | 2013/01 |
+| [The Easton Ellises - Dance it, Dance all (Neopol Remix)](https://archive.org/download/enrmp311_the_easton_ellises_-_dance_it__dance_all/05_the_easton_ellises_-_dance_it__dance_all__neopol_remix_.mp3) @ 2012, Enough Records | electro, trance | 2013/01 |
+| [The Easton Ellises - Dance it, Dance all (Violet & The Mutants Remix)](https://archive.org/download/enrmp311_the_easton_ellises_-_dance_it__dance_all/03_the_easton_ellises_-_dance_it__dance_all__violet_and_the_mutants_remix_.mp3) @ 2012, Enough Records | dubstep, electro | 2013/01 |
 | [Kyoto - 200 Millones De Veces](https://archive.org/download/Vv.aa.-LaGramolaNetlabel-Rewind.UnaRetrospectiva2013lgn021/04200MillonesDeVeces.mp3) @ 2013, La Gramola Netlabel | psychedelic rock | 2013/01 |
 | [The Merricks - Box 4](https://archive.org/download/siro381TheMerricks-Volume3volume4/05-TheMerricks-Box4.mp3) @ 2012, Sirona Records | electronic | 2013/01 |
 | [Ucleden - Disconnect Me](https://www.broque.de/Music/brq86_ucleden_-_hello_cruel_world/brq86_ucleden_-_hello_cruel_world_-_03_disconnect_me.mp3) @ 2012, Broque | ambient techno, deep house | 2013/01 |
