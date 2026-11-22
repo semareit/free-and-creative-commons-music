@@ -2920,6 +2920,11 @@ Enjoy!
 | [Gopa Vrinda - Hola](https://archive.org/download/cum40_estado_vegetal/08_gopa_vrinda_hola_vbr.mp3) @ 2008, [C_mshot Records](https://archive.org/details/c_mshot_records) | folk | 2008/06 |
 | [Chenard Walcker - Na Na Na Na](https://archive.org/download/fsz020/fsz020_03-chenard_walcker-na_na_na_na.mp3) @ 2004, [Free Sample Zone](http://www.freesamplezone.org/) | rnb, pop | 2008/06 |
 
+## Playlist for Audio Players
+
+- the tracklist as *.m3u formated playlist  
+[https://github.com/semareit/free-and-creative-commons-music/assets/playlist.m3u](https://raw.githubusercontent.com/semareit/free-and-creative-commons-music/main/assets/playlist.m3u)
+
 ## Resources
 
 - Ektoplazm Free Music Portal  
