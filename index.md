@@ -61,7 +61,7 @@ Enjoy!
 | [4T Thieves - Chocolate Gnome Creator](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/02_4t_thieves_-_chocolate_gnome_creator.mp3) @ 2025, Enough Records | electronic, 8-bit | 2026/10 |
 | [4T Thieves - Mexican Catapult Hell](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/03_4t_thieves_-_mexican_catapult_hell.mp3) @ 2025, Enough Records | electronic, 8-bit | 2026/10 |
 | [4T Thieves - Ports of Call](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/06_4t_thieves_-_ports_of_call.mp3) @ 2025, Enough Records) @ 2025, Enough Records | melodic electronic, 8-bit | 2026/10 |
-| [4T Thieves - Superglider](hhttps://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/07_4t_thieves_-_superglider.mp3) @ 2025, Enough Records) @ 2025, Enough Records | melodic electronic, idm, 8-bit | 2026/10 |
+| [4T Thieves - Superglider](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/07_4t_thieves_-_superglider.mp3) @ 2025, Enough Records) @ 2025, Enough Records | melodic electronic, idm, 8-bit | 2026/10 |
 | [DarkBob - Chaos Hunter](https://archive.org/download/chaos-hunter/Chaos%20Hunter.flac) @ 2026, Jamendo | dark ambient | 2026/10 |
 | [Thomas Park - Percussion 4](https://archive.org/download/BackupDrumsForLiveSet/Percussion_2.flac) @ 2026, Treetrunk | tribal | 2026/10 |
 | [Thomas Park - Percussion 2](https://archive.org/download/BackupDrumsForLiveSet/Percussion_2.flac) @ 2026, Treetrunk | tribal | 2026/10 |
@@ -488,7 +488,7 @@ Enjoy!
 | [ps vs Megatone - Merging the Light Fields](https://archive.org/download/enrmp419_ps_vs_megatone_-_merging_the_light_fields/01_ps_vs_megatone_-_merging_the_light_fields.mp3) @ 2018, Enough Records | electronic, mashup | 2025/10 |
 | [Pizzabox - Whistlin' Whisp](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/23%20-%20Whistlin%27%20Whisp.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
 | [Pizzabox - Spooh Keys](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/21%20-%20Spooh%20Keys.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
-| [Pizzabox - Itchee Tastee](hhttps://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/14%20-%20Itchee%20Tastee.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
+| [Pizzabox - Itchee Tastee](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/14%20-%20Itchee%20Tastee.mp3) @ 2022, Dawn of Darkness | electronic | 2025/10 |
 | [Pizzabox - Frutegrabb](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/09%20-%20Frutegrabb.mp3) @ 2022, Dawn of Darkness | electronic, idm | 2025/10 |
 | [Pizzabox - Call for Help (Squint)](https://archive.org/download/instrumenties-03-bangin-my-head-on-a-ghost-yup/05%20-%20Call%20for%20Help%20%28Squint%29.mp3) @ 2022, Dawn of Darkness | electronic, 8-bit | 2025/10 |
 | [R\$kp - Vemork 6](https://archive.org/download/mhrk456/R%24kp%20-%20L%E2%80%99EAU%20LOURDE%20-%20Vemork%20-%20Mazingarbe%20-%2006%20Vemork%206.mp3) @ 2025, Mahoka | electronic, ambient | 2025/10 |
@@ -521,7 +521,7 @@ Enjoy!
 | [kilowatts feat synesthesia - reflective deceptor](https://archive.org/download/enrcmp02_-_retork/03_kilowatts_feat_synesthesia_-_reflective_deceptor.mp3) @ 2003, Enough Records | electronic, triphop | 2025/10 |
 | [Alexander Blu - Jan Song](https://archive.org/download/jamendo-000718/05.mp3) @ 2005, The Jamendo Albums Collection | electronic | 2025/10 |
 | [4T Thieves - Ports of Call](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/06_4t_thieves_-_ports_of_call.mp3) @ 2025, Enough Records | electronic, 8-bit | 2025/10 |
-| [4T Thieves - Superglider](hhttps://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/07_4t_thieves_-_superglider.mp3) @ 2025, Enough Records | electronic, 8-bit | 2025/10 |
+| [4T Thieves - Superglider](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/07_4t_thieves_-_superglider.mp3) @ 2025, Enough Records | electronic, 8-bit | 2025/10 |
 | [TOKEE - Путешествие (Takamu Exquisite Corpse)](https://archive.org/download/mhrk463/TOKEE%20-%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20Remixes%20-%2006%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%28Takamu%20Exquisite%20Corpse%29.mp3) @ 2025, Mahorka | electronic | 2025/10 |
 | [TOKEE - Путешествие (Suokas Remix)](https://archive.org/download/mhrk463/TOKEE%20-%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20Remixes%20-%2004%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%28Suokas%20Remix%29.mp3) @ 2025, Mahorka | triphop | 2025/10 |
 | [TOKEE - Путешествие (Genda Glitched Remix)](https://archive.org/download/mhrk463/TOKEE%20-%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20Remixes%20-%2002%20%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%28Genda%20Glitched%20Remix%29.mp3) @ 2025, Mahorka | electronic, idm | 2025/10 |
@@ -1405,7 +1405,7 @@ Enjoy!
 | [Winterberg - Schlichtes Ding](https://archive.org/download/phokes123/phokes123-2-_-06-_-Winterberg-_-Schlichtes_Ding.mp3) @ 2017, Phonocake | electronica, berlin school | 2024/03 |
 | [Whiskers - Sorry, Moustache](https://archive.org/download/Whiskers-Whiskers/Whiskers%20-%20Whiskers%20-%2008%20Sorry%2C%20Moustache.flac) @ 2012, Kill Your Own Archive | punk rock | 2024/03 |
 | [vvglyy - Autumn](https://archive.org/download/vvglyy-for-seasons/vvglyy%20-%20For%20Seasons%20-%2004%20%234%20Autumn.flac) @ 2023, Webelotrax | electro house | 2024/03 |
-| [vvglyy - Summer](Webelotrax) @ 2023, Webelotrax | progressive techno | 2024/03 |
+| [vvglyy - Summer](https://archive.org/download/vvglyy-for-seasons/vvglyy%20-%20For%20Seasons%20-%2003%20%233%20Summer.flac) @ 2023, Webelotrax | progressive techno | 2024/03 |
 | [vvglyy - Spring](https://archive.org/download/vvglyy-for-seasons/vvglyy%20-%20For%20Seasons%20-%2002%20%232%20Spring.flac) @ 2023, Webelotrax | progressive techno | 2024/03 |
 | [user88800903441 - Barada](https://archive.org/download/user053-user88800903441-eisen-ep/%28USER053%29%2002.%20user88800903441%20-%20Barada_Eisen%20EP.flac) @ 2023, USER Records | acid techno | 2024/03 |
 | [Uroko - Stick Around Or Die](https://archive.org/download/lf216mp3/04.%20Uroko%20-%20Stick%20Around%20Or%20Die.mp3) @ 2023, Lost Frog Productions | hardcore techno, mashcore | 2024/03 |
@@ -1782,7 +1782,7 @@ Enjoy!
 | [Mr. Dee - Perros De Pelea](http://www.indigosilver.de/releases/isc016-Mr_Dee-Guerrero/03-Mr._Dee-Perros_De_Pelea.flac) @ 2012, Indigo Silver Club | techno | 2023/05 |
 | [Modwheel - Tiberium](https://archive.org/download/digital-diamonds-098/%5BDigitalDiamonds098%5D_A1_Modwheel_-_Tiberium.mp3) @ 2023, Digital Diamonds | acid techno | 2023/05 |
 | [Modwheel - Tiberium (Club Mix)](https://archive.org/download/digital-diamonds-098/%5BDigitalDiamonds098%5D_A2_Modwheel_-_Tiberium_%28Club_Mix%29.mp3) @ 2023, Digital Diamonds | progressive trance | 2023/05 |
-| [Mare Imbrium vs Senmuth feat. Red Hat - «Cutting the Last Threads» Обрывая Последние Нити [feat. ANNIE RED HAT](Mare Imbrium remix'2004)](https://archive.org/download/snmth005/11_-_Obryvaya_Poslednie_Niti_.mp3) @ 2004, Senmuth Discography | darkwave | 2023/05 |
+| [Mare Imbrium vs Senmuth feat. Red Hat - «Cutting the Last Threads» Обрывая Последние Нити \[feat. ANNIE RED HAT\]\(Mare Imbrium remix'2004\)](https://archive.org/download/snmth005/11_-_Obryvaya_Poslednie_Niti_.mp3) @ 2004, Senmuth Discography | darkwave | 2023/05 |
 | [Jazzaria - Insomnolent Jellyfish](https://archive.org/download/insomnolent-jellyfish/insomnolent-jellyfish.flac) @ 2023, [Jazzaria.com](https://jazzaria.com/) | electronic | 2023/05 |
 | [IntrinsicDNB - PART 2](https://archive.org/download/ende423-va-intrinsicdnb-no-compromise-2-marathon/02%20-%20IntrinsicDNB%20-%20PART%202.wav) @ 2023, ENDE Records | drum'n'bass, mixed | 2023/05 |
 | [Imagine That - Always](https://archive.org/download/cuntroll120V.a.-BestOfLabelCuntrollPart32018/%5BCUNTROLL120%5D%20V.A.%20-%20Best%20of%20Label%20Cuntroll%2C%20part%203%20%282018%29/19%20-%20Imagine%20that%20-%20Always.mp3) @ 2018, Cuntroll Collection | electronic | 2023/05 |
@@ -2437,12 +2437,12 @@ Enjoy!
 | [Bralitz - Pledge of Allegiance](https://archive.org/download/BSMX0155/05-PledgeofAllegiance_192kb.mp3) @ 2017, blocSonic | folk | 2017/05 |
 | [Bralitz - Couchdrifting](https://archive.org/download/BSMX0155/03-Couchdrifting_192kb.mp3) @ 2017, blocSonic | folk | 2017/05 |
 | [Bralitz - My Island](https://archive.org/download/BSMX0155/01-MyIsland_192kb.mp3) @ 2017, blocSonic | folktronic | 2017/05 |
-| [Flesh Control - Shock Treatment](https://archive.org/download/FleshControlTwoBodyFridgeDemo/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2006%20Shock%20Treatment.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
-| [Flesh Control - Hamburger Fingers](https://archive.org/download/FleshControlTwoBodyFridgeDemo/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2002%20Hamburger%20Fingers.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
-| [Flesh Control - Himalayan yogurt](https://archive.org/download/FleshControlTwoBodyFridgeDemo/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2007%20Himalayan%20yogurt.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
+| [Flesh Control - Shock Treatment](https://archive.org/download/skull-dungeon-discography/FleshControl-TwoBodyFridgeDemo.zip/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2006%20Shock%20Treatment.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
+| [Flesh Control - Hamburger Fingers](https://archive.org/download/skull-dungeon-discography/FleshControl-TwoBodyFridgeDemo.zip/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2002%20Hamburger%20Fingers.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
+| [Flesh Control - Himalayan yogurt](https://archive.org/download/skull-dungeon-discography/FleshControl-TwoBodyFridgeDemo.zip/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2007%20Himalayan%20yogurt.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
 | [Nenormalizm Crew - Dub We Do](https://archive.org/download/JAM004/08Dub_We_Do.flac) @ 2017, Cota 303 | electronic, dub | 2017/05 |
 | [Monkey Puzzle - 3D](https://archive.org/download/ektoplazm-flac/Monkey%20Puzzle%20-%20The%20Multi-Dimensional%20Satchel%20-%202016%20-%20FLAC.zip/01%20-%20Monkey%20Puzzle%20-%203D.flac) @ 2016, Blueleaf Studio | psydub | 2017/05 |
-| [Flesh Control - Mold Folks Home](https://archive.org/download/FleshControlTwoBodyFridgeDemo/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2005%20Mold%20Folks%20Home.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
+| [Flesh Control - Mold Folks Home](https://archive.org/download/skull-dungeon-discography/FleshControl-TwoBodyFridgeDemo.zip/Flesh%20Control%20-%20Two%20Body%20Fridge%20Demo%20-%2005%20Mold%20Folks%20Home.mp3) @ 2017, Skull Dungeon | hardcore, punk rock | 2017/05 |
 | [PFL11 - Uno strumento importante](https://archive.org/download/EPH150PFL11PrimoRadiante/04_PFL11%20-%20Uno%20strumento%20importante.mp3) @ 2017, Ephedrina | electronic | 2017/05 |
 | [The Hairy Giant- Deteriorated Outriggers](https://archive.org/download/TheHairyGiant-SunlitArachnidEPSlumberlamp3storageunit013/05%20Deteriorated%20Outriggers.mp3) @ 2017, Storage Unit Netlabel | drone ambient | 2017/05 |
 | [ps - Take a Moment to Understand Your Internal Guiding System](https://archive.org/download/enrmp400_ps_-_volatile/09_ps_-_take_a_moment_to_understand_your_internal_guiding_system.mp3) @ 2017, Enough Records | soundscape, ambient | 2017/05 |
