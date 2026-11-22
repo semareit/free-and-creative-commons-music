@@ -13,8 +13,9 @@ tags:
 
 A collection of freely available music from **Free Music**, **Creative Commons**, **Netaudio**, and **Demoscene** communities.
 The tracks are mostly sourced from **The Internet Archive**, **Scene.org**, **Soundcloud**, **SonicSquirrel**, and **Ektoplazm**.
-This list is dedicated to music lovers that like to dive into the beautiful world of Free Music and Netaudio.
-Enjoy!
+This list is dedicated to music lovers that like to dive into the beautiful world of Free Music and Netaudio. <a href="https://semareit.github.io/free-and-creative-commons-music/assets/playlist.m3u"
+   download="free-and-creative-commons-music.m3u">Open the playlist (.m3u)
+</a> and Enjoy!
 
 ## Tracklist
 
@@ -2307,7 +2308,7 @@ Enjoy!
 | [Redmann - Earworm (Notch Remix)](https://archive.org/download/tou343/tou343_redmann_earworm_notch_remix.mp3) @ 2018, Toucan Music | trance | 2019/04 |
 | [Ochitsuki - Internal](https://archive.org/download/RAWCOFFIN142/02%20Ochitsuki%20-%20Internal.mp3) @ 2017, Raw Coffin Rec. | breakcore | 2019/04 |
 | [NUH - Americaca](https://archive.org/download/mlem005/03%20Americaca.wav) @ 2018, [mlemPfree](https://archive.org/details/mlempfree) | dancecore | 2019/04 |
-| [Mutestare - Go Home, It's Night Already](https://archive.org/download/Mutestare-AVioletWind2018/Mutestare%20-%20A%20Violet%20Wind%20-%2005%20Go%20Home%2C%20It%27s%20Night%20Already.mp3) @ 2018, [Vulpiano Records](https://vulpianorecords.com/) | ambient | 2019/04 |
+| [Mutestare - Go Home, It's Night Already](https://archive.org/download/Mutestare-AVioletWind2018/Mutestare%20-%20A%20Violet%20Wind%20-%2005%20Go%20Home%2C%20It%27s%20Night%20Already.mp3) @ 2018, Vulpiano Records | ambient | 2019/04 |
 | [Leksha + Kuflex - Portal 03](https://archive.org/download/MNMN540/04.%20Portal%2003.flac) @ 2018, Monumental Netlabel | ambient | 2019/04 |
 | [Lang - Un Momento](https://archive.org/download/SDR040/SDR040_02_UnMomento.wav) @ 2018, Strato Dischi | pop, alternative rock | 2019/04 |
 | [Kevin Lyons - State Zero](https://archive.org/download/waag_rel115/06_State-Zero.mp3) @ 2018, we are all ghosts | ambient | 2019/04 |
@@ -2476,7 +2477,7 @@ Enjoy!
 | [Momentum - For Our Future](https://archive.org/download/ektoplazm-flac/VA%20-%20Inner%20Holographic%20Reality%20-%202017%20-%20FLAC.zip/13%20-%20Momentum%20-%20For%20Our%20Future.flac) @ 2017, Badgers Records | psychill | 2017/04 |
 | [Iñaki Barrocal - Sense Rendir-me (Andorran AmbientStep Remix)](https://archive.org/download/khmst0034-SenseRendirMe/03%20-%20Sense%20Rendir-me%20%28Andorran%20AmbientStep%20Remix%29.wav) @ 2014, Khannonmusic Studios | dubstep | 2017/04 |
 | [4T Thieves - Blue](https://archive.org/download/mhrk183/4t%20Thieves%20-%20Details%20-%2001%20Blue.mp3) @ 2017, Mahorka | ambient | 2017/03 |
-| [Enrico Falbo - Psychostasis](https://archive.org/download/EnricoFalbo-Tranceformer2017/04%20Psychostasis%20-%20Enrico%20Falbo.mp3) @ 2017, Vulpiano Records | drone ambient | 2017/03 |
+| [Enrico Falbo - Psychostasis](https://archive.org/download/EnricoFalbo-Tranceformer2017/04%20Psychostasis%20-%20Enrico%20Falbo.mp3) @ 2017, [Vulpiano Records](https://archive.org/details/vulpiano-records) | drone ambient | 2017/03 |
 | [Cutside - Solaris (Featuring Lion from Struggle Crew)](https://archive.org/download/BSOG0062/06-Solaris_FeaturingLionfromStruggleCrew.mp3) @ 2017, blocSonic | hiphop | 2017/03 |
 | [Peter - Cellar Braegle](https://archive.org/download/lala006/lala006_murren_04_peter-cellar_braegle.mp3) @ 2013, lalamusik | electro pop | 2017/03 |
 | [The Forsaken Shadow - That Ain't Gonna Make You Come Back](https://archive.org/download/Roots0055/01-ThatAintGonnaMakeYouComeBack.mp3) @ 2017, Death Roots Syndicate | alternative country | 2017/03 |
@@ -2518,7 +2519,7 @@ Enjoy!
 | [Dubrajah - Deep Karnataka](https://archive.org/download/DPH028/8._Deep_Karnataka.mp3) @ 2017, Dubophonic Netlabel | dub | 2017/02 |
 | [Dog Hand String Band - Threw You In The Well](https://archive.org/download/Roots0052/02-ThrewYouInTheWell.mp3) @ 2017, Death Roots Syndicate | death root, alternative country | 2017/02 |
 | [Die Relicta - Saltus Suburbanitas](https://archive.org/download/MNMN422/01.%20Saltus%20Suburbanitas.flac) @ 2016, Monumental Netlabel | ambient | 2017/02 |
-| [Convivial Cannibal - An Apparent Slight Acceleration Of The Expansion Of The Universe](https://archive.org/download/ConvivialCannibalBuyThePeopleAffordThePeople/Convivial%20Cannibal%20-%20Buy%20The%20People%20-%20Afford%20The%20People%20-%2001%20An%20Apparent%20Slight%20Acceleration%20Of%20The%20Expansion%20Of%20The%20Universe.mp3) @ 2013, Skull Dungeon | dark ambient | 2017/02 |
+| [Convivial Cannibal - An Apparent Slight Acceleration Of The Expansion Of The Universe](https://archive.org/download/skull-dungeon-discography/ConvivialCannibal-BuyThePeople-AffordThePeople.zip/Convivial%20Cannibal%20-%20Buy%20The%20People%20-%20Afford%20The%20People%20-%2001%20An%20Apparent%20Slight%20Acceleration%20Of%20The%20Expansion%20Of%20The%20Universe.mp3) @ 2013, Skull Dungeon | dark ambient | 2017/02 |
 | [BVBEL - Iguvnodon 1.5](https://archive.org/download/siro784Bvbel-OneWvyTape/08-Bvbel-Iguvnodon1.5.mp3) @ 2016, Sirona-Records | bass, trap | 2017/02 |
 | [Blossom - Im Here](https://archive.org/download/DWK339/Blossom_-_07_-_Im_Here.mp3) @ 2017, Dusted Wax Kingdom | triphop, downtempo | 2017/02 |
 | [Sum - Dead Can Dub](https://archive.org/download/RRR036/RRR036-A__Sum_-_Dead_Can_Dub.flac) @ 2016, Ringe Raja Records | asia dub | 2017/01 |
@@ -2645,7 +2646,7 @@ Enjoy!
 | [Mercado De Peixe - Nois É Índio](https://archive.org/download/foot248/foot248_05-mercado_de_peixe-nois_e_indio.mp3) @ 2015, Bump Foot | triphop | 2015/10 |
 | [Fire to the Stars - Keep You Safe (Wayab Remix)](https://archive.org/download/mhrk162/06%20Keep%20You%20Safe%20%28Wayab%20Remix%29.mp3) @ 2015, Mahorka | electronic | 2015/10 |
 | [Fexomat - Happy End](https://archive.org/download/RRR034/RRR034-D__Fexomat_-_Happy_End.wav) @ 2015, Ringe Raja Records | gypsycore, mashcore, breakcore | 2015/10 |
-| [Eric Pietras - All This And More Than A Brother](https://archive.org/download/EricPietrasAllThisAndMoreThanABrother) @ 2015, [Treetrunk](https://treetrunkrecords.com/) | ambient, electronica | 2015/10 |
+| [Eric Pietras - All This And More Than A Brother](https://archive.org/download/EricPietrasAllThisAndMoreThanABrother) @ 2015, [Treetrunk](https://archive.org/details/treetrunk/) | ambient, electronica | 2015/10 |
 | [Alexis Storm - Entracte (BXP Remix)](https://archive.org/download/SOSEP57/05%20Entracte%20%28BXP%20Remix%29.mp3) @ 2015, [Sostanze Records](https://archive.org/details/sostanze-records) | dub techno | 2015/10 |
 | [4T Thieves - IF](https://archive.org/download/mhrk163/mhrk163_03_4T_Thieves_-_IF.mp3) @ 2015, Mahorka | electronic, idm | 2015/10 |
 | [Ostensibly Ossified - The Raymonds](https://archive.org/download/MNMN140/08.%20Ostensibly%20Ossified%20-%20The%20Raymonds.mp3) @ 2012, Monumental Netlabel | industrial, noise | 2015/09 |
@@ -2919,11 +2920,6 @@ Enjoy!
 | [Exist - Acid Icecream](https://archive.org/download/DTRASH25-Exist-Exist/dtrash25_01_09.13.2000__acid_icecream__vbr.mp3) @ 2001, [D-Trash Records](https://archive.org/details/d-trash-records) | digital hardcore | 2008/07 |
 | [Gopa Vrinda - Hola](https://archive.org/download/cum40_estado_vegetal/08_gopa_vrinda_hola_vbr.mp3) @ 2008, [C_mshot Records](https://archive.org/details/c_mshot_records) | folk | 2008/06 |
 | [Chenard Walcker - Na Na Na Na](https://archive.org/download/fsz020/fsz020_03-chenard_walcker-na_na_na_na.mp3) @ 2004, [Free Sample Zone](http://www.freesamplezone.org/) | rnb, pop | 2008/06 |
-
-## Playlist for Audio Players
-
-- the tracklist as *.m3u formated playlist  
-[https://github.com/semareit/free-and-creative-commons-music/assets/playlist.m3u](https://raw.githubusercontent.com/semareit/free-and-creative-commons-music/main/assets/playlist.m3u)
 
 ## Resources
 
