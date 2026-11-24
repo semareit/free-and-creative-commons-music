@@ -28,9 +28,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      # (Optional but recommended) Configure Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Install Markdown
+        run: pip install markdown
 
       - name: Generate M3U playlist
         run: python assets/md2m3u.py assets/playlist.m3u
@@ -41,18 +45,33 @@ jobs:
           import markdown
           with open('index.md', 'r', encoding='utf-8') as f:
               md_content = f.read()
-          html_content = markdown.markdown(md_content)
+          body = markdown.markdown(md_content, extensions=['tables', 'fenced_code'])
+          html = f'''<!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Free and Creative Commons Music</title>
+            <style>
+              body {{ font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }}
+              table {{ border-collapse: collapse; width: 100%; margin: 1rem 0; }}
+              th, td {{ border: 1px solid #ddd; padding: 0.5rem; text-align: left; }}
+              th {{ background: #f4f4f4; }}
+              a {{ color: #0969da; }}
+            </style>
+          </head>
+          <body>
+          {body}
+          </body>
+          </html>'''
           with open('index.html', 'w', encoding='utf-8') as f:
-              f.write(html_content)
+              f.write(html)
           PY
-        # Alternatively, use pandoc:
-        # - name: Convert Markdown to HTML
-        #   run: pandoc index.md -o index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .   # now includes index.html at the root
+          path: .
 
   deploy:
     needs: build
