@@ -3,9 +3,9 @@ name: Generate Playlist & Deploy Pages
 on:
   push:
     paths:
-      - 'index.md'                # Trigger when the tracklist changes
-      - 'assets/md2m3u.py'        # Trigger if the generator script changes
-  workflow_dispatch:               # Allow manual runs from the Actions tab
+      - 'index.md'
+      - 'assets/md2m3u.py'
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -28,13 +28,31 @@ jobs:
         with:
           python-version: '3.x'
 
+      # (Optional but recommended) Configure Pages
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Generate M3U playlist
         run: python assets/md2m3u.py assets/playlist.m3u
+
+      - name: Convert index.md to index.html
+        run: |
+          python - <<'PY'
+          import markdown
+          with open('index.md', 'r', encoding='utf-8') as f:
+              md_content = f.read()
+          html_content = markdown.markdown(md_content)
+          with open('index.html', 'w', encoding='utf-8') as f:
+              f.write(html_content)
+          PY
+        # Alternatively, use pandoc:
+        # - name: Convert Markdown to HTML
+        #   run: pandoc index.md -o index.html
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .                     # Deploy the whole repo (including the new playlist)
+          path: .   # now includes index.html at the root
 
   deploy:
     needs: build
