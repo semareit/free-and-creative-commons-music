@@ -13,8 +13,7 @@ tags:
 
 A collection of freely available music from **Free Music**, **Creative Commons**, **Netaudio**, and **Demoscene** communities.
 The tracks are mostly sourced from **The Internet Archive**, **Scene.org**, **Soundcloud**, **SonicSquirrel**, and **Ektoplazm**.
-This list is dedicated to music lovers that like to dive into the beautiful world of Free Music and Netaudio. <a href="https://semareit.github.io/free-and-creative-commons-music/assets/playlist.m3u"
-   download="free-and-creative-commons-music.m3u">Open the playlist (.m3u)
+This list is dedicated to music lovers that like to dive into the beautiful world of Free Music and Netaudio. <a href="assets/playlist.m3u" download="free-and-creative-commons-music.m3u">Open the playlist (.m3u)
 </a> and Enjoy!
 
 ## Tracklist
@@ -1654,8 +1653,8 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Floating Mind - CrystaLuv](https://archive.org/download/monoKraK278_FloatingMind_Liquido_EP/%28monoKraK278%29%20FloatingMind%20CrystaLuv.wav) @ 2023, monoKraK | ambient techno | 2023/08 |
 | [Fedaden - Dirty Kid (Sale Gosse Remix)](https://archive.org/download/Delocalized-6823/Fedaden_-_02_-_Dirty_Kid_Sale_Gosse_Remix.mp3) @ 2005, [eDogm](http://www.edogm.net/) | acid jazz, triphop | 2023/08 |
 | [FC Stoffel - Der Frieden](https://archive.org/download/Wuerfel39-FC_Stoffel-Der_Frieden/Wuerfel39-FC_Stoffel-Der_Frieden.mp3) @ 2023, Der kleine gruene Wuerfel | songwriter | 2023/08 |
-| [Fabio Keiner & Ryo Utasato - Ushi no koku mairi - Day Three](https://archive.org/download/eg0_259/03%20Day%20Three.flac) @ 2023, Eg0cide Productions | dark ambient | 2023/08 |
-| [Fabio Keiner & Ryo Utasato - Ushi no koku mairi - Day Four](https://archive.org/download/eg0_259/04%20Day%20Four.flac) @ 2023, Eg0cide Productions | dark ambient | 2023/08 |
+| [Fabio Keiner & Ryo Utasato - Day Three](https://archive.org/download/eg0_259/03%20Day%20Three.flac) @ 2023, Eg0cide Productions | dark ambient | 2023/08 |
+| [Fabio Keiner & Ryo Utasato - Day Four](https://archive.org/download/eg0_259/04%20Day%20Four.flac) @ 2023, Eg0cide Productions | dark ambient | 2023/08 |
 | [Dominik Vogel - Strange Loop](https://archive.org/download/Wuerfel38-DominikVogel-A_strange_loop/Wuerfel38-DominikVogel-03_Strange_Loop.mp3) @ 2023, Der kleine gruene Wuerfel | electronic, downtempo | 2023/08 |
 | [Dhavali Giri - (U can't be more mini) Tounekti](https://archive.org/download/dhavali-giri-barycentre/Dhavali%20Giri%20-%20Live%20%40%20KRAAK%20Festival%202022%20-%2002%20%28U%20can%27t%20be%20more%20mini%29%20Tounekti.wav) @ 2022, Echotope | electronica | 2023/08 |
 | [Detached - V51](https://archive.org/download/VariousArtists-NoisybeatSelectionVol.2noisybeat001/Detached-V51Www.noisybeat.com.mp3) @ 2008, [Noisybeat [Net]Label](https://archive.org/details/noisybeat) | dub techno | 2023/08 |
