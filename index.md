@@ -20,6 +20,9 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 
 | Artist - Title @ Year, Label | Genre | Added |
 | :-- | :-- | --- |
+| [WLCM dragon - Entro Disco](https://archive.org/download/wlcm_dragon/03_Entro_Disco.mp3) @ 2012, Huego Necro | electro pop | 2026/11 |
+| [WLCM dragon - Moment Inside](https://archive.org/download/wlcm_dragon/02_Moment_Inside.mp3) @ 2012, Huego Necro | electro pop | 2026/11 |
+| [WLCM dragon - A Prey](https://archive.org/download/wlcm_dragon/01_A_Prey.mp3) @ 2012, Huego Necro | electro pop | 2026/11 |
 | [Tagmond - Phone Call](http://www.broque.de/Music/brq163_tagmond_-_phone_call_ep/brq163_tagmond_-_phone_call_ep_-_01_phone_call.mp3) @ 2026, Broque | house | 2026/11 |
 | [Tagmond - Baha](http://www.broque.de/Music/brq163_tagmond_-_phone_call_ep/brq163_tagmond_-_phone_call_ep_-_02_baha.mp3) @ 2026, Broque | house | 2026/11 |
 | [NLC + EMERGE - âme 3](https://archive.org/download/mhrk515/NLC%20%2B%20EMERGE%20-%20%C3%A2me%20-%2003%20%C3%A2me%203.mp3) @ 2026, Mahorka | drone ambient | 2026/11 |
