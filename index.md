@@ -45,7 +45,6 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Andrew Lang + Tim Koch - Faux Departs](https://archive.org/download/mhrk516/Andrew%20Lang%20%2B%20Tim%20Koch%20-%20Comminuere%20Communitas%20-%2002%20Faux%20Departs.mp3) @ 2026, Mahorka | ambient | 2026/11 |
 | [Fascinating Earthbound Objects - Crisp](https://archive.org/download/FEO-LIG/Fascinating_Earthbound_Objects-04-Crisp.flac) @ 2026, Noisy Vagabond | electronic | 2026/11 |
 | [Fascinating Earthbound Objects - This Is It](https://archive.org/download/FEO-LIG/Fascinating_Earthbound_Objects-02-This_Is_It.flac) @ 2026, Noisy Vagabond | electronic | 2026/11 |
-| [Cinnabar Club - Interloper](https://archive.org/download/nws.bpm0223/02%20Interloper.mp3) @ 2026, djummi Records | electronic | 2026/10 |
 | [Julien Ash + Philippe Neau - Répétitions aléatoires](https://archive.org/download/mhrk512/Julien%20Ash%20%2B%20Philippe%20Neau%20-%20Les%20all%C3%A9es%20tourbillonnaires%20-%2009%20R%C3%A9p%C3%A9titions%20al%C3%A9atoires.mp3) @ 2026, Mahorka | drone ambient | 2026/10 |
 | [Julien Ash + Philippe Neau - Croisements nodulaires](https://archive.org/download/mhrk512/Julien%20Ash%20%2B%20Philippe%20Neau%20-%20Les%20all%C3%A9es%20tourbillonnaires%20-%2006%20Croisements%20nodulaires.mp3) @ 2026, Mahorka | electroacoustic | 2026/10 |
 | [Julien Ash + Philippe Neau - Formation de motifs périodiques](https://archive.org/download/mhrk512/Julien%20Ash%20%2B%20Philippe%20Neau%20-%20Les%20all%C3%A9es%20tourbillonnaires%20-%2002%20Formation%20de%20motifs%20p%C3%A9riodiques.mp3) @ 2026, Mahorka | drone ambient | 2026/10 |
@@ -61,17 +60,13 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Tazer McFictionzap (Dominic Palmer) - A Rose By Any Other Name](https://archive.org/download/a-dark-experimental-tribute-to-the-shining/23%20-%20Tazer%20McFictionzap%20%28Dominic%20Palmer%29%20-%20A%20Rose%20By%20Any%20Other%20Name.mp3) @ 2026, Dawn of Darkness | darkwave, dark ambient, cinematic | 2026/10 |
 | [Mindart - Jack is a dull boy](https://archive.org/download/a-dark-experimental-tribute-to-the-shining/34%20-%20Mindart%20-%20Jack%20is%20a%20dull%20boy.mp3) @ 2026, Dawn of Darkness | electronic, electrowave | 2026/10 |
 | [4T Thieves - Magic Circus Plus](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/08_4t_thieves_-_magic_circus_plus.mp3) @ 2025, Enough Records) @ 2025, Enough Records | electronic, 8-bit | 2026/10 |
-| [4T Thieves - Chocolate Gnome Creator](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/02_4t_thieves_-_chocolate_gnome_creator.mp3) @ 2025, Enough Records | electronic, 8-bit | 2026/10 |
-| [4T Thieves - Mexican Catapult Hell](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/03_4t_thieves_-_mexican_catapult_hell.mp3) @ 2025, Enough Records | electronic, 8-bit | 2026/10 |
-| [4T Thieves - Ports of Call](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/06_4t_thieves_-_ports_of_call.mp3) @ 2025, Enough Records) @ 2025, Enough Records | melodic electronic, 8-bit | 2026/10 |
-| [4T Thieves - Superglider](https://archive.org/download/enrmp550_4t_thieves_-_ports_of_call/07_4t_thieves_-_superglider.mp3) @ 2025, Enough Records) @ 2025, Enough Records | melodic electronic, idm, 8-bit | 2026/10 |
 | [DarkBob - Chaos Hunter](https://archive.org/download/chaos-hunter/Chaos%20Hunter.flac) @ 2026, Jamendo | dark ambient | 2026/10 |
 | [Thomas Park - Percussion 4](https://archive.org/download/BackupDrumsForLiveSet/Percussion_2.flac) @ 2026, Treetrunk | tribal | 2026/10 |
 | [Thomas Park - Percussion 2](https://archive.org/download/BackupDrumsForLiveSet/Percussion_2.flac) @ 2026, Treetrunk | tribal | 2026/10 |
 | [Thomas Park - Percussion 1](https://archive.org/download/BackupDrumsForLiveSet/Percussion_1.flac) @ 2026, Treetrunk | tribal | 2026/10 |
-| [Mothe Bank feat. Frau, Rani Jambak - Badudingpak](https://archive.org/download/yesno122/04%20Badudingpak.mp3) @ 2026, Yes No Wave Music | alternative pop, world | 2026/10 |
-| [Mothe Bank feat. Frau, Rani Jambak - Gapoktanhut Wukirsari](https://archive.org/download/yesno122/02%20Gapoktanhut%20Wukirsari.mp3) @ 2026, Yes No Wave Music | world | 2026/10 |
-| [Mothe Bank feat. Frau, Rani Jambak - Perempuan Mangrove](https://archive.org/download/yesno122/01%20Perempuan%20Mangrove.mp3) @ 2026, Yes No Wave Music | alternative pop, audiobook | 2026/10 |
+| [Mother Bank feat. Frau, Rani Jambak - Badudingpak](https://archive.org/download/yesno122/04%20Badudingpak.mp3) @ 2026, Yes No Wave Music | alternative pop, world | 2026/10 |
+| [Mother Bank feat. Frau, Rani Jambak - Gapoktanhut Wukirsari](https://archive.org/download/yesno122/02%20Gapoktanhut%20Wukirsari.mp3) @ 2026, Yes No Wave Music | world | 2026/10 |
+| [Mother Bank feat. Frau, Rani Jambak - Perempuan Mangrove](https://archive.org/download/yesno122/01%20Perempuan%20Mangrove.mp3) @ 2026, Yes No Wave Music | alternative pop, audiobook | 2026/10 |
 | [Volfoniq - Balkan Banghra](https://archive.org/download/lcl30Volfoniq-Ernest/LCL30_-_Volfoniq_-_Ernest_-_08_-_Balkan_Banghra.mp3) @ 2011, Libre Comme Lair | dubstep, balkanbeats | 2026/10 |
 | [Unterm Rad - Cornered (Breathing Space Mix by Cole)](https://archive.org/download/mhrk508/Unterm%20Rad%20-%20The%20Getaway%20-%2013%20Cornered%20%28Breathing%20Space%20Mix%20by%20Cole%29.mp3) @ 2026, Mahorka | electronic, idm, glitch | 2026/10 |
 | [Unterm Rad - Cornered (Heptagonal Mix by Feederwire)](https://archive.org/download/mhrk508/Unterm%20Rad%20-%20The%20Getaway%20-%2011%20Cornered%20%28Heptagonal%20Mix%20by%20Feederwire%29.mp3) @ 2026, Mahorka | electronic, idm | 2026/10 |
@@ -279,8 +274,8 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [FloatingMind - Sur Nuage](https://archive.org/download/monoKraK314_FloatingMind_Extra_Life/%28monoKraK314%29%20FloatingMind_Sur_Nuage.flac) @ 2026, monoKraK | ambient | 2026/04 |
 | [Zark - 17.2](https://archive.org/download/z17-zark-17/%28Z17%29%2002.%20Zark%20-%2017.2_17.flac) @ 2026, Zarkon Records | techno | 2026/04 |
 | [Flugazi - Party Promo B1 ( bonus)](https://archive.org/download/corpse-pig-repugnant-cannibal-gastrointestinal-candidiasis-corpse-pig-repugnant-/Corpse%20Pig-%20Repugnant%20Cannibal-%20Gastrointestinal%20Candidiasis%20-%20Corpse%20pig-%20Repugnant%20cannibal-%20GxCx%203%20way%20split%20-%20Pig%20party.zip/Porno%20primo%20-%20Corpse%20pig-%20Repugnant%20cannibal-%20GxCx%203%20way%20split%20-%20Pig%20party%20-%2005%20Party%20Promo%20B1%20%28%20bonus%29.mp3) @ 2024, Bipolar Media | techno, dance | 2026/04 |
-| [Fascianting Earthbound Objects - Now I Sleep](https://archive.org/download/fascinating-earthbound-objects-now-i-sleep/Fascinating_Earthbound_Objects-Now_I_Sleep.flac) @ 2026, Noisy Vagabond | ambient, soundscape, jazz | 2026/04 |
-| [Fascianting Earthbound Objects - Again](https://archive.org/download/fascinating-earthbound-objects-now-i-sleep/Fascianting_Earthbound_Objects-Again.flac) @ 2026, Noisy Vagabond | electronic, dub, jazz | 2026/04 |
+| [Fascinating Earthbound Objects - Now I Sleep](https://archive.org/download/fascinating-earthbound-objects-now-i-sleep/Fascinating_Earthbound_Objects-Now_I_Sleep.flac) @ 2026, Noisy Vagabond | ambient, soundscape, jazz | 2026/04 |
+| [Fascinating Earthbound Objects - Again](https://archive.org/download/fascinating-earthbound-objects-now-i-sleep/Fascianting_Earthbound_Objects-Again.flac) @ 2026, Noisy Vagabond | electronic, dub, jazz | 2026/04 |
 | [Six Umbrellas - Arrival](https://archive.org/download/Wuerfel43-SixUmbrellas-Back_to_Work/Wuerfel43-Six_Umbrellas-02-Arrival.mp3) @ 2026, Der kleine gruene Wuerfel | electronic, techno | 2026/04 |
 | [Six Umbrellas - Back To Work](https://archive.org/download/Wuerfel43-SixUmbrellas-Back_to_Work/Wuerfel43-Six_Umbrellas-03-Back_To_Work.mp3) @ 2026, Der kleine gruene Wuerfel | electronic, electro house | 2026/04 |
 | [Six Umbrellas - Dumpling Euphoria](https://archive.org/download/Wuerfel43-SixUmbrellas-Back_to_Work/Wuerfel43-Six_Umbrellas-04-Dumpling_Euphoria.mp3) @ 2026, Der kleine gruene Wuerfel | electronic | 2026/04 |
@@ -648,7 +643,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Professor Kliq - Flip](https://archive.org/download/Movements_EP-9239/Professor_Kliq_-_05_-_Flip.mp3) @ 2010, Free Music Archive | electro house | 2025/08 |
 | [Professor Kliq - Work At Night](https://archive.org/download/Movements_EP-9239/Professor_Kliq_-_03_-_Work_At_Night.mp3) @ 2010, Free Music Archive | electro house | 2025/08 |
 | [Professor Kliq - All Control (Hard Version)](https://archive.org/download/Movements_EP-9239/Professor_Kliq_-_02_-_All_Control_Hard_Version.mp3) @ 2010, Free Music Archive | electro house | 2025/08 |
-| [Kino Oko - Jacuzzi Twin Size](https://archive.org/download/digitaldiamonds109l/%5BDigitalDiamonds109L%5D_07_Kino_Oko_-_Jacuzzi_Twin_Size.mp3) @ 2025, Digital Diamonds Netlabel | electro house | 2025/08 |
+| [Kino Oko - Jacuzzi Twin Size](https://archive.org/download/digitaldiamonds109l/%5BDigitalDiamonds109L%5D_07_Kino_Oko_-_Jacuzzi_Twin_Size.mp3) @ 2025, Digital Diamonds | electro house | 2025/08 |
 | [Francisco Pinto - Paseo en la Micro Amarilla](https://archive.org/download/pn213/pn213_10_Fco-Pinto_Paseo-en-la-Micro-Amarilla.flac) @ 2022, Pueblo Nuevo | ambient techno | 2025/08 |
 | [Tapu Records - Through Global Frequency v3](https://archive.org/download/through-global-frequency-v-2-2160p/Through_Global_Frequency_v3%20%282160p%29.mp4) @ 2025, Tapu Records | drone ambient, soundscape | 2025/08 |
 | [TieFenRauSch - Baikal](https://archive.org/download/dfs033-various-netlabel-day-2025-techno-warriors/%28DFS033%29%2003.%20TieFenRauSch%20-%20Baikal_Netlabel%20Day%202025%20Techno%20Warriors.flac) @ 2025, Dancefloor Socialism | acid techno | 2025/08 |
@@ -792,7 +787,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Rani Jambak - Parade Waktu](https://archive.org/download/yesno114/7.%20Parade%20Waktu.mp3) @ 2025, Yes No Wave Music | tribal, world | 2025/03 |
 | [Rani Jambak - Orang Piaman](https://archive.org/download/yesno114/2.%20Orang%20Piaman.mp3) @ 2025, Yes No Wave Music | tribal, world | 2025/03 |
 | [Rani Jambak - Suara Minangkabau - Dare (Extended)](https://archive.org/download/yesno114/1.%20Suara%20Minangkabau%20-%20Dare%20%28Extended%29.mp3) @ 2025, Yes No Wave Music | tribal, world | 2025/03 |
-| [mexCalito & Utz - Paulito Callutzi (Decode Blue Remix)](https://archive.org/download/digital-diamonds-106l/%5BDigitalDiamonds106L%5D_02_mexCalito_%26_Utz_-_Paulito_Callutzi_%28Decode_Blue_Remix%29.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2025/03 |
+| [mexCalito & Utz - Paulito Callutzi (Decode Blue Remix)](https://archive.org/download/digital-diamonds-106l/%5BDigitalDiamonds106L%5D_02_mexCalito_%26_Utz_-_Paulito_Callutzi_%28Decode_Blue_Remix%29.mp3) @ 2024, Digital Diamonds | progressive trance | 2025/03 |
 | [Douglas Fugazi - Mar Espumoso](https://archive.org/download/mnf050-douglas-fugazi-mar-de-la-tranquilidad/Douglas_Fugazi-02_Mar_Espumoso.mp3) @ 2025, Monofonicos | dub techno | 2025/03 |
 | [Disorder of the Sleep - Property](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/04_disorder_of_the_sleep_-_property.mp3) @ 2024, Enough Records | electronic | 2025/03 |
 | [Disorder of the Sleep - Ash In the Morning](https://archive.org/download/enrmp542_disorder_of_the_sleep_-_question_to_the_central_brain/02_disorder_of_the_sleep_-_ash_in_the_morning.mp3) @ 2024, Enough Records | electronic | 2025/03 |
@@ -966,7 +961,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [I SHAT THE BED - anne boonchuy scat porn](https://archive.org/download/BFTG_209/075%20anne%20boonchuy%20scat%20porn.flac) @ 2024, Bayview Financial Trading Group | electronic | 2024/10 |
 | [McDonald's™ - Food, Folks & Fun](https://archive.org/download/BFTG_209/132.flac) @ 2024, Bayview Financial Trading Group | pop | 2024/10 |
 | [Spacebirds - Old Disco Machine](https://archive.org/download/lv001Spacebirds-Spacebirds/06Spacebirds_-_old_disco_machine.mp3) @ 2010, Laser Visa | electronic, 8-bit | 2024/10 |
-| [Shortcuts - Techno](https://archive.org/download/djummi.028_shortcuts_maldonado/djummi.028_shortcuts_maldonado_09_techno.mp3) @ 2023, Djummi Records | space rock | 2024/10 |
+| [Shortcuts - Techno](https://archive.org/download/djummi.028_shortcuts_maldonado/djummi.028_shortcuts_maldonado_09_techno.mp3) @ 2023, djummi Records | space rock | 2024/10 |
 | [Ruoho Ruotsi - Aschka - Moments Do Not Endure (Ruoho Ruotsi Reshape)](https://archive.org/download/nws.bpm0171/09%20Aschka%20-%20Moments%20Do%20Not%20Endure%20%28Ruoho%20Ruotsi%20Reshape%29.mp3) @ 2021, Ruoho Records | microhouse | 2024/10 |
 | [Flooba - Slow Motion Circus](https://archive.org/download/NN_Comp010_03_23.zip/08.%20Slow%20Motion%20Circus%20-%20Flooba.mp3) @ 2023, Nostress Netlabel | soundscape, ambient | 2024/10 |
 | [Pablo Gómez Bate - Calor en la Ciudad](https://archive.org/download/pn234/pn234_04_pablo-gomez_calor-en-la-ciudad.mp3) @ 2024, Pueblo Nuevo | microhouse | 2024/10 |
@@ -1101,7 +1096,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Carl Brown - Ring](https://archive.org/download/amen-talist-round-1/08%20Ring.flac) @ 2009, Kill Your Own Archive | drum'n'bass | 2024/08 |
 | [279 - Day, Who Is Eternal](https://archive.org/download/gv425/279%20-%20In%20Love%20-%2005%20Day%2C%20Who%20Is%20Eternal.mp3) @ 2015, GV Sound | ambient, soundscape | 2024/06 |
 | [Lzie - ツンデレソーダ](https://archive.org/download/lf232mp3/01.%20Lzie%20-%20%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC%E3%82%BD%E3%83%BC%E3%83%80.mp3) @ 2024, Lost Frog Productions | mashcore, lolicore | 2024/06 |
-| [Nicorus - Faces](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_B1_Nicorus_-_Faces.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/06 |
+| [Nicorus - Faces](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_B1_Nicorus_-_Faces.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/06 |
 | [Violet And The Mutants - Cum In My Face](https://archive.org/download/enrmp131_violet_and_the_mutants_-_violet_ep/03_violet_and_the_mutants_-_cum_in_my_face.mp3) @ 2007, Enough Records | electro pop | 2024/06 |
 | [Wrekkerz - Air](https://archive.org/download/wrekkerz-elements-sjsep-0301/wrekkerz-elements_sjsep-0301/04-wrekkerz-air.mp3) @ 2000, Sojus Records | triphop, electronic | 2024/06 |
 | [S.Z.I. - Jebeš Nacija](https://archive.org/download/nwtwo-0509-s.-z.-i.-jebes-nacija/NWTWO0509-S.Z.I.%20-%20Jebe%C5%A1%20Nacija.mp3) @ 1999, Nowaytwowayout. | hardcore, grindcore, punk rock | 2024/06 |
@@ -1124,9 +1119,9 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Lzie - mashup Radio #4](https://archive.org/download/lf232mp3/03.%20Lzie%20-%20mashup%20Radio%20%234.mp3) @ 2024, Lost Frog Productions | mashcore, breakcore | 2024/06 |
 | [Lzie - ツンデレめぁｂりで!!](https://archive.org/download/lf232mp3/02.%20Lzie%20-%20%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC%E3%82%81%E3%81%81%EF%BD%82%E3%82%8A%E3%81%A7%21%21.mp3) @ 2024, Lost Frog Productions | mashcore, breakcore | 2024/06 |
 | [Goudzoeker - Duinfeest](https://archive.org/download/enrcmp23_-_meet_me_at_kuiper_s/108_goudzoeker_-_duinfeest.mp3) @ 2022, Enough Records | electro house | 2024/06 |
-| [Nicorus - L'Odyssée](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_B2_Nicorus_-_L%27Odyss%C3%A9e.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/06 |
-| [Nicorus - Faces](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_B1_Nicorus_-_Faces.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/06 |
-| [Nicorus - Yuna](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_A1_Nicorus_-_Yuna.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/06 |
+| [Nicorus - L'Odyssée](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_B2_Nicorus_-_L%27Odyss%C3%A9e.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/06 |
+| [Nicorus - Faces](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_B1_Nicorus_-_Faces.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/06 |
+| [Nicorus - Yuna](https://archive.org/download/digital-diamonds-105/%5BDigitalDiamonds105%5D_A1_Nicorus_-_Yuna.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/06 |
 | [Audio Compress & Polyklinik - Growing](https://archive.org/download/enrmp525_audio_compress___polyklinik_-_bloom/02_audio_compress___polyklinik_-_growing.mp3) @ 2023, Enough Records | ambient, soundscape | 2024/06 |
 | [Audiotoolz - I Don't Care](https://archive.org/download/audiotoolz-molecules-sjsep-3104/02-audiotoolz-i_don_t_care.mp3) @ 2003, Sojus Records | breakbeat, bigbeat | 2024/06 |
 | [Audiotoolz - Destroy Detroit](https://archive.org/download/audiotoolz-molecules-sjsep-3104/03-audiotoolz-destroy_detroit.mp3) @ 2003, Sojus Records | breakbeat, bigbeat | 2024/06 |
@@ -1215,9 +1210,9 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [SubUnit - Avant-Nuit](https://archive.org/download/IP-019/IP-019-03-Avant-Nuit.mp3) @ 2024, INNERSPACE Prod. | ambient | 2024/05 |
 | [Sascha Müller - Underground Communism Tape Vol. 04](https://archive.org/download/underground-communism-tape-vol.-04-by-sascha-muller/Underground%20Communism%20Tape%20Vol.%2004%20by%20Sascha%20M%C3%BCller.mp4) @ 2024, Underground Communism Tape | acid, techno, mixtape | 2024/05 |
 | [PNFA - Seize](https://archive.org/download/nws.bpm0162/08%20Seize.mp3) @ 2007, Deepwise | deep house | 2024/05 |
-| [Plateau Sigma - Misfortune Teller](https://archive.org/download/digital-diamonds-104/%5BDigitalDiamonds104%5D_B2_Plateau_Sigma_-_Misfortune_Teller.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/05 |
-| [Plateau Sigma - 333](https://archive.org/download/digital-diamonds-104/%5BDigitalDiamonds104%5D_B1_Plateau_Sigma_-_333.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/05 |
-| [Plateau Sigma - Sigma Virus](https://archive.org/download/digital-diamonds-104/%5BDigitalDiamonds104%5D_A2_Plateau_Sigma_-_Sigma_Virus.mp3) @ 2024, Digital Diamonds Netlabel | progressive trance | 2024/05 |
+| [Plateau Sigma - Misfortune Teller](https://archive.org/download/digital-diamonds-104/%5BDigitalDiamonds104%5D_B2_Plateau_Sigma_-_Misfortune_Teller.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/05 |
+| [Plateau Sigma - 333](https://archive.org/download/digital-diamonds-104/%5BDigitalDiamonds104%5D_B1_Plateau_Sigma_-_333.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/05 |
+| [Plateau Sigma - Sigma Virus](https://archive.org/download/digital-diamonds-104/%5BDigitalDiamonds104%5D_A2_Plateau_Sigma_-_Sigma_Virus.mp3) @ 2024, Digital Diamonds | progressive trance | 2024/05 |
 | [rEmPiT g0dDe$$ - OPULENCE](https://archive.org/download/yesno110/6.%20OPULENCE.mp3) @ 2024, Yes No Wave Music | progressive techno | 2024/05 |
 | [rEmPiT g0dDe$$ - PROTO](https://archive.org/download/yesno110/1.%20PROTO.mp3) @ 2024, Yes No Wave Music | progressive techno | 2024/05 |
 | [rEmPiT g0dDe$$ - HIERARCHY IS NATURE](https://archive.org/download/yesno110/2.%20HIERARCHY%20IS%20NATURE.mp3) @ 2024, Yes No Wave Music | progressive techno | 2024/05 |
@@ -1288,8 +1283,8 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Remote Guest List - When angels descend](https://ftp.scene.org/pub/music/groups/kahvicollective/kahvi479p_remote_guest_list-when_angels_descend.ogg) @ 2023, Kahvi Collective | downtempo | 2024/04 |
 | [Jazzaria.com - Glassy Weasel](https://archive.org/download/glassy-weasel/glassy-weasel.flac) @ 2024, Jazzaria | neo classic | 2024/04 |
 | [Julien Ash + Antonella Eye Porcelluzzi - I Tuoi Pensieri](https://archive.org/download/mhrk381b/Julien%20Ash%20%2B%20Antonella%20Eye%20Porcelluzzi%20-%20Il%20Pesce%20d%27Oro%20EP%20-%2001%20I%20Tuoi%20Pensieri.mp3) @ 2024, Mahorka | neo classic | 2024/04 |
-| [Harrison Downes - Bleed For Me (One Million Toys Remix)](https://archive.org/download/digital-diamonds-103/%5BDigitalDiamonds103%5D_A2_Harrison_Downes_-_Bleed_For_Me_%28One_Million_Toys_Remix%29.mp3) @ 2024, Digital Diamonds Netlabel | dark progressive | 2024/04 |
-| [Harrison Downes - Bleed For Me (Peter Groskreutz Remix)](https://archive.org/download/digital-diamonds-103/%5BDigitalDiamonds103%5D_B1_Harrison_Downes_-_Bleed_For_Me_%28Peter_Groskreutz_Remix%29.mp3) @ 2024, Digital Diamonds Netlabel | house | 2024/04 |
+| [Harrison Downes - Bleed For Me (One Million Toys Remix)](https://archive.org/download/digital-diamonds-103/%5BDigitalDiamonds103%5D_A2_Harrison_Downes_-_Bleed_For_Me_%28One_Million_Toys_Remix%29.mp3) @ 2024, Digital Diamonds | dark progressive | 2024/04 |
+| [Harrison Downes - Bleed For Me (Peter Groskreutz Remix)](https://archive.org/download/digital-diamonds-103/%5BDigitalDiamonds103%5D_B1_Harrison_Downes_-_Bleed_For_Me_%28Peter_Groskreutz_Remix%29.mp3) @ 2024, Digital Diamonds | house | 2024/04 |
 | [Jesse Gallagher - Venkatesananda](https://archive.org/download/drifting-at-432-hz-unicorn-heads-1/Venkatesananda%20-%20Jesse%20Gallagher.mp3) @ 2023, Community Audio | ambient | 2024/04 |
 | [ЧЕРНИХОВ \| CERNICHOV - October 1957](https://archive.org/download/mhrk380/%D0%A7%D0%95%D0%A0%D0%9D%D0%98%D0%A5%D0%9E%D0%92%20-%20CERNICHOV%20-%20We%20are%20all%20deaf%20-%2002%20October%201957.mp3) @ 2024, Mahorka | drone ambient, dark ambient | 2024/03 |
 | [Encased in Amber - Neha](https://archive.org/download/mhrk368/Encased%20in%20Amber%20-%20Story%20of%20Summer%20-%2005%20Neha.mp3) @ 2023, Mahorka | folktronic | 2024/03 |
@@ -1473,7 +1468,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [TieFenRauSch - Blade Gunner](https://archive.org/download/00ff04-tiefenrausch-magelan-ep/%2800ff04%29%2002.%20TieFenRauSch%20-%20Blade%20Gunner_Magelan%20EP.flac) @ 2023, Fischfresse | acid techno | 2024/02 |
 | [user22067782234 - The A Master](https://archive.org/download/user054-user22067782234-hood-ep/%28USER054%29%2002.%20user22067782234%20-%20The%20A%20Master_Hood%20EP.flac) @ 2023, USER Records | acid techno | 2024/02 |
 | [X.D.D. - Momentaufnahme](https://archive.org/download/xdd008-x.d.d.-vol.-08/%28XDD008%29%2002.%20X.D.D.%20-%20Momentaufnahme_Vol.%2008.flac) @ 2023, X-static Dance Departement | techno | 2024/02 |
-| [The Cream Canteens - Roman Fortress](https://archive.org/download/03Djummi.005TheCreamCanteensModeratePerilRomanFortress/03-djummi.005-The_Cream_Canteens-Moderate_Peril-Roman_Fortress.mp3) @ 2016, Djummi Records | psychedelic rock | 2024/02 |
+| [The Cream Canteens - Roman Fortress](https://archive.org/download/03Djummi.005TheCreamCanteensModeratePerilRomanFortress/03-djummi.005-The_Cream_Canteens-Moderate_Peril-Roman_Fortress.mp3) @ 2016, djummi Records | psychedelic rock | 2024/02 |
 | [Fixinmytie - Tungsten](https://archive.org/download/LaptopHooligansXmasSpecialEdition/Fixinmytie-Tungsten.mp3) @ 2011, Laptop Hooligans | chipmusic, 8-bit | 2024/02 |
 | [GERT 3000 - Wo ist Walter?](https://archive.org/download/kellerloch-012/01%20-%20Wo%20ist%20Walter_.mp3) @ 2007, Kellerloch | techno | 2024/02 |
 | [Hengky Strawberry - dancethedresdendancefloor](https://archive.org/download/MusicMusicBeyondNoBordersVol1/02__Hengky_Strawberry__dancethedresdendancefloor.mp3) @ 2007, Yes No Wave Music | electro house | 2024/02 |
@@ -1484,7 +1479,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Bunshi - Pollen](https://archive.org/download/slc78.bunshi-plants/03.Bunshi-Pollen-Plants-Soisloscerdos_SLC78.flac) @ 2024, Soisloscerdos Netlabel | minimal techno, dub techno | 2024/02 |
 | [Bunshi - Fern](https://archive.org/download/slc78.bunshi-plants/02.Bunshi-Fern-Plants-Soisloscerdos_SLC78.flac) @ 2024, Soisloscerdos Netlabel | progressive trance | 2024/02 |
 | [Bunshi - Desmids](https://archive.org/download/slc78.bunshi-plants/01.Bunshi-Desmids-Plants-Soisloscerdos_SLC78.flac) @ 2024, Soisloscerdos Netlabel | techno | 2024/02 |
-| [Bratenschneider - Shaved First](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_23_Bratenschneider_-_Shaved_First.mp3) @ 2023, Digital Diamonds Netlabel | micro house, techno | 2024/02 |
+| [Bratenschneider - Shaved First](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_23_Bratenschneider_-_Shaved_First.mp3) @ 2023, Digital Diamonds | micro house, techno | 2024/02 |
 | [constraint programming - instantiality 0](https://archive.org/download/kellerloch-009/01%20-%20instantiality%200.mp3) @ 2005, [Kellerloch](https://archive.org/details/kellerloch) | electronic, acid | 2024/01 |
 | [Ayankoko - AntiDark](https://archive.org/download/ayan-dub-anti-dark/1%20AntiDark.mp3) @ 2023, [Ayan Records](https://archive.org/details/ayan-records) | progressive techno | 2024/01 |
 | [Achell - Ceylon Plain](https://archive.org/download/achell-star-atlas/06.Ceylon%20Plain.flac) @ 2023, [Mindblasting](https://mindblasting.wordpress.com/) | idm, breakcore | 2024/01 |
@@ -1504,7 +1499,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Audiodrome - Beta K](https://archive.org/download/4four004/03%20-%20Beta%20K.mp3) @ 2006, 4four Netlabel | electro | 2024/01 |
 | [Audiodrome - Bird Rib](https://archive.org/download/4four004/02%20-%20Bird%20Rib.mp3) @ 2006, 4four Netlabel | house, minimal techno | 2024/01 |
 | [The Ścisław Dercz Experience - Perestroika In Reverse - Parts I-IV](https://archive.org/download/IP-017/IP-017-01-Parts%20I-IV.mp3) @ 2023, 1834 | experimental, electronic, soundscape | 2024/01 |
-| [Zeus Scientist - Nemo In Patria](https://archive.org/download/djummi.004_Zeus-Scientist_Zeus-LP/02-djummi.004-Zeus_Scientist-Zeus_LP-Nemo_In_Patria.mp3) @ 2013, Djummi Records | breakbeat, triphop | 2024/01 |
+| [Zeus Scientist - Nemo In Patria](https://archive.org/download/djummi.004_Zeus-Scientist_Zeus-LP/02-djummi.004-Zeus_Scientist-Zeus_LP-Nemo_In_Patria.mp3) @ 2013, djummi Records | breakbeat, triphop | 2024/01 |
 | [Zark - 9.1](https://archive.org/download/z9-zark-9/%28Z9%29%2001.%20Zark%20-%209.1_9.flac) @ 2023, Zarkon Records | minimal techno | 2024/01 |
 | [Vicnet - Up And Down](https://archive.org/download/Mr_Hadopi-5123/Vicnet_-_07_-_Up_And_Down.mp3) @ 2010, Da ! Heard It Records | electro | 2024/01 |
 | [Vicnet - Chinese Sportswear](https://archive.org/download/Mr_Hadopi-5123/Vicnet_-_06_-_Chinese_Sportswear.mp3) @ 2010, Da ! Heard It Records | electro, acid | 2024/01 |
@@ -1553,8 +1548,8 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Atheist - If Jesus Was A Raver](https://archive.org/download/dfs023-atheist-if-jesus-was-a-raver-ep/%28DFS023%29%2001.%20Atheist%20-%20If%20Jesus%20Was%20A%20Raver_If%20Jesus%20Was%20A%20Raver%20EP.flac) @ 2023, Dancefloor Socialism | techno | 2024/01 |
 | [Atheist - The Horns Of Jericho](https://archive.org/download/dfs023-atheist-if-jesus-was-a-raver-ep/%28DFS023%29%2002.%20Atheist%20-%20The%20Horns%20Of%20Jericho_If%20Jesus%20Was%20A%20Raver%20EP.flac) @ 2023, Dancefloor Socialism | techno | 2024/01 |
 | [Adrian Juarez - Lautrec- Grillons nocturnes à la maison de Mary](https://archive.org/download/fortin017/fortin017-20-Adrian_Juarez-Documentalista_3-Lautrec-%20Grillons%20nocturnes%20%C3%A0%20la%20maison%20de%20Mary.flac) @ 2022, Ruidemos | soundscape | 2024/01 |
-| [Aerodroemme - Gamelon](https://archive.org/download/digital-diamonds-102/%5BDigitalDiamonds102%5D_B2_Aerodroemme_-_Gamelon.mp3) @ 2023, Digital Diamonds Netlabel | progressive trance | 2024/01 |
-| [Aerodroemme - Jakku](https://archive.org/download/digital-diamonds-102/%5BDigitalDiamonds102%5D_B1_Aerodroemme_-_Jakku.mp3) @ 2023, Digital Diamonds Netlabel | progressive trance, techno | 2024/01 |
+| [Aerodroemme - Gamelon](https://archive.org/download/digital-diamonds-102/%5BDigitalDiamonds102%5D_B2_Aerodroemme_-_Gamelon.mp3) @ 2023, Digital Diamonds | progressive trance | 2024/01 |
+| [Aerodroemme - Jakku](https://archive.org/download/digital-diamonds-102/%5BDigitalDiamonds102%5D_B1_Aerodroemme_-_Jakku.mp3) @ 2023, Digital Diamonds | progressive trance, techno | 2024/01 |
 | [Asher Baker - Anabasis](https://archive.org/download/AsherBaker-TheWayBack/Asher%20Baker%20-%20The%20Way%20Back%20-%2001%20Anabasis.flac) @ 2023, Kill Your Own Archive | alternative rock | 2024/01 |
 | [Advances in Obsolete Technology - You Get What You Get (Right Now Mix)](https://archive.org/download/YouGetWhatYouGet/03_You%20Get%20What%20You%20Get%20%28Right%20Now%20Mix%29.mp3) @ 2013, Believe In Billy Records | electronica, new age | 2024/01 |
 | [Advances in Obsolete Technology - End of Year (Runtime Mix)](https://archive.org/download/YouGetWhatYouGet/02_%20End%20of%20Year%20%28Runtime%20Mix%29.mp3) @ 2013, Believe In Billy Records | electronica, new age | 2024/01 |
@@ -1566,27 +1561,27 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Asher Baker - Something in England](https://archive.org/download/AsherBaker-TheWayBack/Asher%20Baker%20-%20The%20Way%20Back%20-%2005%20Something%20in%20England.flac) @ 2023, Kill Your Own Archive | alternative rock | 2024/01 |
 | [Yadak - Artificial Hope](https://archive.org/download/pn222/pn222_01_yadak_artificial-hope.mp3) @ 2023, Pueblo Nuevo | drone ambient | 2023/12 |
 | [Zark - 8.2](https://archive.org/download/z8-zark-8_202310/%28Z8%29%2002.%20Zark%20-%208.2_8.flac) @ 2023, Zarkon Records | minimal techno | 2023/12 |
-| [Dardi - Addict](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_A1_Dardi_-_Addict.mp3) @ 2023, Digital Diamonds Netlabel | dark progressive | 2023/12 |
+| [Dardi - Addict](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_A1_Dardi_-_Addict.mp3) @ 2023, Digital Diamonds | dark progressive | 2023/12 |
 | [AFFLICTED & Hanzzo - Du Weib (DJ Nightnoise Deep Atmosphere Remix)](https://archive.org/download/dfs-022-afflicted-hanzzo--du-weib-ep/%28DFS022%29%2002.%20AFFLICTED%20%26%20Hanzzo%20-%20Du%20Weib%20%28DJ%20Nightnoise%20Deep%20Atmosphere%20Remix%29_Du%20Weib%20EP.flac) @ 2023, Dancefloor Socialism | dark progressive | 2023/12 |
-| [Dardi - Push The Button (Joonmack Remix)](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_C1_Dardi_-_Push_The_Button_%28Joonmack_Remix%29.mp3) @ 2023, Digital Diamonds Netlabel | dark progressive | 2023/12 |
+| [Dardi - Push The Button (Joonmack Remix)](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_C1_Dardi_-_Push_The_Button_%28Joonmack_Remix%29.mp3) @ 2023, Digital Diamonds | dark progressive | 2023/12 |
 | [CBR vs. Shihen - Disaster Foretold](https://archive.org/download/lf214mp3/09.%20CBR%20vs%20Shihen%20-%20Disaster%20Foretold.mp3) @ 2023, Lost Frog Productions | hardcore, rave | 2023/12 |
 | [Wanda & Nova deViator - Arcologies](https://archive.org/download/nws.bpm0139/03%20Arcologies.mp3) @ 2015, Kamizdat | electroclash, electronic | 2023/11 |
 | [Tom Fahy - Cristantiellos Song (Playing House)](https://archive.org/download/eighty-one/06CristantiellosSongplayingHou.flac) @ 2012, [Cratediggers](https://archive.org/download/cratediggers) | chamber, acoustic | 2023/11 |
 | [Sneaking Fog - Private Lust](https://archive.org/download/SneakingFog-ShootLikeThunder/03%20Private%20Lust.flac) @ 2002, Kill Your Own Archive | punk rock | 2023/11 |
-| [aaahhchestra - Pillow](http://media.sonicsquirrel.net/djummi-records/djummi_018/04-djummi.018-aaahhchestra-Pillow.mp3) @ 2020, Djummi Records | alternative pop | 2023/11 |
-| [Dardi - Dark Dance](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_A2_Dardi_-_Dark_Dance.mp3) @ 2023, Digital Diamonds Netlabel | progressive trance | 2023/11 |
+| [aaahhchestra - Pillow](http://media.sonicsquirrel.net/djummi-records/djummi_018/04-djummi.018-aaahhchestra-Pillow.mp3) @ 2020, djummi Records | alternative pop | 2023/11 |
+| [Dardi - Dark Dance](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_A2_Dardi_-_Dark_Dance.mp3) @ 2023, Digital Diamonds | progressive trance | 2023/11 |
 | [Armada Racun - Kupu](https://archive.org/download/MusicMusicBeyondNoBordersVol1/08__Armada_Racun__Kupu.mp3) @ 2007, Yes No Wave Music | alternative rock | 2023/11 |
 | [A Bit Advanced Music - Gatekeeper (feat. Alina Goltsova)](https://archive.org/download/cuntroll123V.a.TakeATripPt.42018/%5BCUNTROLL123%5D%20V.A.%20%E2%80%93%20Take%20a%20trip%2C%20part%204%20%282018%29/09%20-%20A%20Bit%20Advanced%20Music%20-%20Gatekeeper%20%28feat.%20Alina%20Goltsova%29.mp3) @ 2018, Cuntroll | triphop | 2023/11 |
 | [antrru & All Ann - Знаешь только ты](https://archive.org/download/cuntroll142/%5BCUNTROLL142%5D%20V.A.%20%E2%80%94%20Take%20a%20trip%2C%20part%206%20%282020%29%20mp3/12%20-%20antrru%20%26%20ALL%20ANN%20-%20%D0%97%D0%BD%D0%B0%D0%B5%D1%88%D1%8C%20%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20%D1%82%D1%8B.mp3) @ 2020, Cuntroll | alternative pop | 2023/11 |
 | [Vietnam - Bolsillos sangrantes - Acido domingo](https://archive.org/download/VietnamFanaticosDelSilencio/05%20Bolsillos%20sangrantes%20-%20%C3%81cido%20domingo.flac) @ 2015, Bestiar Netlabel | progressive rock | 2023/11 |
 | [FloatingMind - La Ritmica](https://archive.org/download/monoKraK282_FloatingMind-VioletSky/%28monoKraK282%29%20FloatingMind_La_Ritmica.flac) @ 2023, monoKraK | ambient techno | 2023/11 |
 | [Alec Troniq & Gabriel Vitel - Message To Frank](https://archive.org/download/brq108/06%20-%20Alec%20Troniq%20%26%20Gabriel%20Vitel%20-%20Message%20To%20Frank.mp3) @ 2015, Broque | soundscape, acoustic | 2023/11 |
-| [Dardi - Addict (Astro Pleasure Remix)](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_B2_Dardi_-_Addict_%28Astro_Pleasure_Remix%29.mp3) @ 2023, Digital Diamonds Netlabel | dark progressive | 2023/11 |
-| [Dardi - Push The Button](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_B1_Dardi_-_Push_The_Button.mp3) @ 2023, Digital Diamonds Netlabel | dark progressive | 2023/11 |
+| [Dardi - Addict (Astro Pleasure Remix)](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_B2_Dardi_-_Addict_%28Astro_Pleasure_Remix%29.mp3) @ 2023, Digital Diamonds | dark progressive | 2023/11 |
+| [Dardi - Push The Button](https://archive.org/download/digital-diamonds-101/%5BDigitalDiamonds101%5D_B1_Dardi_-_Push_The_Button.mp3) @ 2023, Digital Diamonds | dark progressive | 2023/11 |
 | [Evil Symbols - The Lake (feat Humanfobia)](https://archive.org/download/v-a-x-humanfobia-horrorlake/09%20-%20Evil%20Symbols%20-%20The%20Lake%20%28feat%20Humanfobia%29.mp3) @ 2023, Cian Orbe / Internet Daemon | triphop, dubstep | 2023/11 |
 | [Vicnet - Handicapped Lover](https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Vicnet/Mr_Hadopi/Vicnet_-_03_-_Handicapped_Lover.mp3) @ 2010, [Da ! Heard It Records](https://www.daheardit-records.net) | electro house | 2023/11 |
 | [Alec Troniq & Gabriel Vitel - All We Loved](https://archive.org/download/brq108/05%20-%20Alec%20Troniq%20%26%20Gabriel%20Vitel%20-%20All%20We%20Loved.mp3) @ 2015, Broque | house | 2023/11 |
-| [Luis M - Taurus](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_11_Luis_M_-_Taurus.mp3) @ 2023, Digital Diamonds Netlabel | progressive techno | 2023/11 |
+| [Luis M - Taurus](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_11_Luis_M_-_Taurus.mp3) @ 2023, Digital Diamonds | progressive techno | 2023/11 |
 | [Palancar - Grand Tour of the Pleiades](https://archive.org/download/Palancar_GrandTourOfThePleiades/Palancar%20-%20Grand%20Tour%20of%20the%20Pleiades%20-%201-1%20-%202023%20-%2001-01-Grand%20Tour%20of%20the%20Pleiades.flac) @ 2023, Emergent World | electronica, ambient | 2023/11 |
 | [user46558880234 - Yoga Session](https://archive.org/download/user052-user46558880234-yoga-ep/%28USER052%29%2001.%20user46558880234%20-%20Yoga%20Session_Yoga%20EP.flac) @ 2023, [USER Records](https://archive.org/details/user-records-netlabel) | acid techno | 2023/11 |
 | [Charles Rice Goff III - Jollification & Memorialization](https://archive.org/download/SoundtracksTRVideo/02Jollification%26Memorialization.wav) @ 2011, [Taped Rugs Productions Audio](https://www.tapedrugs.com/) | electronic, soundscape | 2023/11 |
@@ -1644,7 +1639,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Sascha Müller - Bang The Beat](https://archive.org/download/dfs021-various-netlabel-day-2023-techno-warriors/%28DFS021%29%2005.%20Sascha%20M%C3%BCller%20-%20Bang%20The%20Beat_Netlabel%20Day%202023%20Techno%20Warriors.mp3) @ 2023, [Dancefloor Socialism](https://archive.org/details/dancefloor-socialism-netlabel) | techno | 2023/08 |
 | [One Tru Odd - My Dead Body](https://archive.org/download/mhrk358/One%20Tru%20Odd%20-%20Hits%20for%20the%20Misplaced%20-%2007%20My%20Dead%20Body.mp3) @ 2023, Mahorka | triphop | 2023/08 |
 | [One Tru Odd - Answer #2 (Mars)](https://archive.org/download/mhrk358/One%20Tru%20Odd%20-%20Hits%20for%20the%20Misplaced%20-%2005%20Answer%20%232%20%28Mars%29.mp3) @ 2023, Mahorka | triphop, alternative pop | 2023/08 |
-| [Ohad Slavin - Wild Side](https://archive.org/download/digital-diamonds-099/%5BDigitalDiamonds099%5D_A2_Ohad_Slavin_-_Wild_Side.mp3) @ 2023, Digital Diamonds Netlabel | downtempo | 2023/08 |
+| [Ohad Slavin - Wild Side](https://archive.org/download/digital-diamonds-099/%5BDigitalDiamonds099%5D_A2_Ohad_Slavin_-_Wild_Side.mp3) @ 2023, Digital Diamonds | downtempo | 2023/08 |
 | [Kaelin Bougneit - Stained Glass for St. Marien](https://archive.org/download/vulpiano-records-sampler-ep-vol.-17-2023/10%20Kaelin%20Bougneit%20-%20Stained%20Glass%20for%20St.%20Marien.mp3) @ 2023, Vulpiano Records | ambient | 2023/08 |
 | [Jack Bethel - Falls of Clyde](https://archive.org/download/raretunes_268_falls-clyde/raretunesbethelclyde.flac) @ 2008, [RareTunes](https://raretunes.org/) | folk | 2023/08 |
 | [Funeral Mood - A23](https://archive.org/download/skd-1488/23.%20A23.mp3) @ 2023, Skull Dungeon | nightcore, mashup | 2023/08 |
@@ -1686,7 +1681,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Cognition Delay - Leika's Heartbeat](https://archive.org/download/mhrk354/Cognition%20Delay%20-%20Mostly%20Dreaming%20-%2002%20Leika%27s%20Heartbeat.mp3) @ 2023, Mahorka | downtempo | 2023/07 |
 | [Watt Freak - Seb Return](https://archive.org/download/VT22-Watt_Freak/VT22-3-Watt_Freak-Seb_Return.mp3) @ 2007, [Valiza Tools](http://valiza-tools.com/) | dub techno | 2023/07 |
 | [user12132546540 - Untitled 8](https://archive.org/download/user050-user12132546540-hotel-ep/%28USER050%29%2002.%20user12132546540%20-%20Untitled%208_Hotel%20EP.mp3) @ 2023, [USER Records](https://archive.org/details/user-records-netlabel) | acid techno | 2023/07 |
-| [Torn Vega - Alive](https://archive.org/download/04Djummi.009TornVegaBeachesBeaches/03-djummi.009-Torn_Vega-Beaches-Alive.mp3) @ 2018, [Djummi Records](https://www.djummi-records.de) | psychedelic rock | 2023/07 |
+| [Torn Vega - Alive](https://archive.org/download/04Djummi.009TornVegaBeachesBeaches/03-djummi.009-Torn_Vega-Beaches-Alive.mp3) @ 2018, [djummi Records](https://www.djummi-records.de) | psychedelic rock | 2023/07 |
 | [Tone Tone - Your Ideal](https://archive.org/download/mhrk348/03%20-%20Tone%20Tone%20-%20INTENT%202023-%20Eudaimonia%20-%20Your%20Ideal.mp3) @ 2023, Mahorka | triphop | 2023/07 |
 | [The Maravines - Bay in the Wood Medley](https://archive.org/download/MARAV074R/01%20Bay%20in%20the%20Wood%20Medley.mp3) @ 2023, Maravines | acoustic, guitar, folk | 2023/07 |
 | [THE D3VI7 - Umstieg](https://archive.org/download/p105-the-d3vi7-ausstieg-umstieg/%28P105%29%2002.%20THE%20D3VI7%20-%20Umstieg_Ausstieg-Umstieg.flac) @ 2023, Psychocandies | acid techno | 2023/07 |
@@ -2131,7 +2126,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Lavoura - Deep Safe](https://archive.org/download/foot286/foot286_01-lavoura-deep_safe.mp3) @ 2021, [Bump Foot](https://www.bumpfoot.net/) | jazz house, acid jazz | 2021/05 |
 | [DJ R3V3R3ND MURD3R - In Limbo](https://archive.org/download/nws.bpm0175/01%20In%20Limbo.mp3) @ 2021, Netwaves | rnb, triphop | 2021/04 |
 | [Boogie Belgique - A Little While](https://archive.org/download/DWK260/Boogie_Belgique_-_07_-_A_Little_While.flac) @ 2014, Dusted Wax Kingdom | triphop | 2021/04 |
-| [Anyer Quantum - Moonlight Flowers Blossom In Casket Hills (Portal To Madness)](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_08_Anyer_Quantum_-_Moonlight_Flowers_Blossom_In_Casket_Hills_%28Portal_To_Madness%29.mp3) @ 2021, Digital Diamonds Netlabel | progressive trance | 2021/03 |
+| [Anyer Quantum - Moonlight Flowers Blossom In Casket Hills (Portal To Madness)](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_08_Anyer_Quantum_-_Moonlight_Flowers_Blossom_In_Casket_Hills_%28Portal_To_Madness%29.mp3) @ 2021, Digital Diamonds | progressive trance | 2021/03 |
 | [Piece of Acid - Purple Flower](https://archive.org/download/digital-diamonds-076/%5BDigitalDiamonds076%5D_B1_Piece_Of_Acid_-_Purple_Flower.mp3) @ 2020, [Digital Diamonds](https://www.digital-diamonds.com) | acid trance | 2021/02 |
 | [Morgen Wurde und Tis - Sinkt (feat. Maria Estrella)](http://www.broque.de/Music/brq134a_-_morgen_wurde_und_tis_-_zeitigt_2025remaster/brq134a_-_morgen_wurde_und_tis_-_zeitigt_-_01_sinkt_-_feat_maria_estrella_2025remaster.mp3) @ 2020, Broque | deep house, ambient techno | 2020/12 |
 | [Morgen Wurde und Tis - Weist (feat. Georges Emmanuel Schneider)](http://www.broque.de/Music/brq134a_-_morgen_wurde_und_tis_-_zeitigt_2025remaster/brq134a_-_morgen_wurde_und_tis_-_zeitigt_-_04_weist_-_feat_georges_emmanuel_schneider_2025remaster.mp3) @ 2020, Broque | deep house, ambient techno | 2020/12 |
@@ -2145,7 +2140,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Faserklang - Future](https://archive.org/download/faserklang-lightheaded/Future.mp3) @ 2020, CYAN | dub techno | 2020/09 |
 | [Faserklang - Vision](https://archive.org/download/faserklang-lightheaded/Vision.mp3) @ 2020, CYAN | dub techno | 2020/09 |
 | [Evil Macaroni - Beer Girl](https://archive.org/download/EvilMacaroni-SixChicksWithDicks/08%20Beer%20Girl.flac) @ 1998, Kill Your Own Archive | ska punk, punk rock | 2020/09 |
-| [Cosmic Kingsnake - Absence Of Self](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_18_Cosmic_Kingsnake_-_Absence_Of_Self.mp3) @ 2023, Digital Diamonds Netlabel | dark progressive | 2020/09 |
+| [Cosmic Kingsnake - Absence Of Self](https://archive.org/download/digital-diamonds-100xl/%5BDigitalDiamonds100XL%5D_18_Cosmic_Kingsnake_-_Absence_Of_Self.mp3) @ 2023, Digital Diamonds | dark progressive | 2020/09 |
 | [BitBasic - wirral](https://archive.org/download/wtf-0012/03%20-%20Bitbasic%20-%20wirral.mp3) @ 2012, WTF Records | melodic electronic, idm | 2020/06 |
 | [M-PeX - Talvez Seja Dia Fora do Metro](https://archive.org/download/enrmp459_m-pex_-_o_cultivo_de_flores_de_plastico/02_m-pex_-_talvez_seja_dia_fora_do_metro.mp3) @ 2020, Enough Records | drone ambient | 2020/06 |
 | [M-PeX - À Espera do Comboio da Noite](https://archive.org/download/enrmp459_m-pex_-_o_cultivo_de_flores_de_plastico/04_m-pex_-_a_espera_do_comboio_da_noite.mp3) @ 2020, Enough Records | drone ambient | 2020/06 |
@@ -2842,7 +2837,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [Bubamara Brass Band - Bubamara](https://archive.org/download/ca457_bbb/01-Bubamara.mp3) @ 2011, Clinical Archives | folk, balkan rock | 2011/09 |
 | [Broken Toy - Juxtapose Euphonious](https://archive.org/download/SRmp3_218/04.Juxtapose_Euphonious.mp3) @ 2011, Sociopath Recordings | breakcore | 2011/09 |
 | [Aerologic - Ricochet](https://archive.org/download/tou280/tou280b.mp3) @ 2011, Toucan Music | tech house, hard trance | 2011/09 |
-| [Kino Oko - The Piece Of Rush](https://archive.org/download/digitaldiamonds021lKinoOko-DescendingOutIntoTheDistance/DigitalDiamonds021L_07_Kino_Oko_-_The_Piece_Of_Rush.mp3) @ 2011, Digital Diamonds Netlabel | trance, electro house | 2011/08 |
+| [Kino Oko - The Piece Of Rush](https://archive.org/download/digitaldiamonds021lKinoOko-DescendingOutIntoTheDistance/DigitalDiamonds021L_07_Kino_Oko_-_The_Piece_Of_Rush.mp3) @ 2011, Digital Diamonds | trance, electro house | 2011/08 |
 | [Alex Due - Utopia's Theme](https://archive.org/download/D2M-4/01_Alex_Due_-_Utopia_s_Theme.mp3) @ 2007, [due2music](https://music.due2.de/) | electro house | 2011/08 |
 | [Max Cavalerra - Solaria (Coproduced by Joaquin)](http://www.broque.de/Music/brq73_max_cavalerra_-_beyond_the_skyline/brq73_max_cavalerra_-_beyond_the_skyline_-_5_solaria_-_coproduced_by_joaquin.mp3) @ 2011, Broque | progressive house | 2011/07 |
 | [Clytem Scanning - Lions and Montgolfiers](https://archive.org/download/Clytem_Scanning_EP_BR024-8010/Clytem_Scanning_-_02_-_Lions_and_Montgolfiers.mp3) @ 2010, Bedroom Research | electroclash | 2011/05 |
