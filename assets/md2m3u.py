@@ -105,16 +105,16 @@ def generate_m3u(tracks, output_file=None):
 
         # ---- entries ----------------------------------------------------- #
         for tr in tracks:
-            display = f"{tr['artist']} - {tr['title']}".strip()
+            display = f"{tr['artist']} - {tr['title']} ({tr['year']}, {tr['label']})".strip()
             out.write(f"#EXTINF:-1,{display}\n")
 
-            comment_parts = []
-            if tr["year"]:
-                comment_parts.append(tr["year"])
-            if tr["label"]:
-                comment_parts.append(tr["label"])
-            if comment_parts:
-                out.write(f"# @ {', '.join(comment_parts)}\n")
+            #comment_parts = []
+            #if tr["year"]:
+            #    comment_parts.append(tr["year"])
+            #if tr["label"]:
+            #    comment_parts.append(tr["label"])
+            #if comment_parts:
+            #    out.write(f"# @ {', '.join(comment_parts)}\n")
 
             out.write(tr["url"] + "\n")
     finally:
