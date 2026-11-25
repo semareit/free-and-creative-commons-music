@@ -155,7 +155,7 @@ This list is dedicated to music lovers that like to dive into the beautiful worl
 | [DDO - Nobody knows](https://archive.org/download/Nu-Logic068/02.%20DDO%20-%20Nobody%20knows.mp3) @ 2013, Nu-Logic | electronic | 2026/08 |
 | [Anderdog - Thunderpaw](https://archive.org/download/nws.bpm0219/02%20THUNDERPAW.mp3) @ 2025, Monumental Netlabel | triphop | 2026/08 |
 | [Algn - Estelas](https://archive.org/download/TRO69/TRO69_VA_06_Algn-Estelas.mp3) @ 2015, Tropic Netlabel | downtempo, reggae | 2026/08 |
-| [user78542478641 - Death](https://archive.org/download/user096-user78542478641-gazer-ep/%28USER096%29%2002.%20user78542478641%20-%20Death_Gazer%20EP.flac) @ USER Records | acid techno | 2026/08 |
+| [user78542478641 - Death](https://archive.org/download/user096-user78542478641-gazer-ep/%28USER096%29%2002.%20user78542478641%20-%20Death_Gazer%20EP.flac) @ 2026, USER Records | acid techno | 2026/08 |
 | [Ohrchitect - Input By My Room](https://archive.org/download/pcr-109-ohrchitect-late-maybe-to-late/%28PCR%20109%29%2002.%20Ohrchitect%20-%20Input%20By%20My%20Room_Late%2C%20Maybe%20To%20Late.flac) @ 2026, Pharmacom Records | drum and bass | 2026/08 |
 | [Sunken Cages - Drum and Flowers (Weldroid Remix)](https://archive.org/download/mhrk503/Sunken%20Cages%20-%20Neram%20Pularumbol%20%28As%20The%20Dawn%20Breaks%29%20-%2009%20Drum%20and%20Flowers%20%28Weldroid%20Remix%29.mp3) @ 2026, Mahorka | industrial, tribal | 2026/08 |
 | [Sunken Cages - Idakka (Kush Arora Rework)](https://archive.org/download/mhrk503/Sunken%20Cages%20-%20Neram%20Pularumbol%20%28As%20The%20Dawn%20Breaks%29%20-%2006%20Idakka%20%28Kush%20Arora%20Rework%29.mp3) @ 2026, Mahorka | world, tribal | 2026/08 |
